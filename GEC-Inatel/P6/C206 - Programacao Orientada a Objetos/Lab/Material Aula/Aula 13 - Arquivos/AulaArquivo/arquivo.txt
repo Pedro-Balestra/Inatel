@@ -1,0 +1,10 @@
+Minha primeira linha, segunda tentativa
+outra linha
+-------------br.inatel.projeto.model.Casa-------------
+Joaquim
+3
+1000.0
+-------------br.inatel.projeto.model.Casa-------------
+Tereza
+2
+750.0
