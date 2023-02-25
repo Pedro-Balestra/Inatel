@@ -1,0 +1,24 @@
+.data
+a: .word 2
+b: .word 6
+c: .word 10
+
+.text
+la $s1, a
+la $s2, b
+la $s3, c
+li $t2,20 # a = 20
+li $t3,10 # b = 10
+li $t4,5 # c = 5
+
+# 1
+sub $t1,$t3,$t4 # $t1 = b-c
+sw $t1,40($s1) # a[10] = $t1
+
+# 2
+add $t5,$t2,$t3 # $t5 = a+b
+sw $t5, 980($s2) # b[245] = $t5
+
+# 3
+sub $t6,$t3,$t2 # $t1 = b-c
+sw $t6,0($s3) # c[0] = $t6

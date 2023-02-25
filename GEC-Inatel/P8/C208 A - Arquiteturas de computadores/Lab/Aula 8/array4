@@ -1,0 +1,23 @@
+.data #0x10010000
+	a: .word 2,6,5,10,-6,50,120
+
+.text #0x00400000
+
+la $s1,a #s1 = 0x10010000
+
+li $t2,0 #i=0
+li $s0,0 #j=0
+li $t7,125
+
+while: ble $s0,6,loop #$s0 <= 6
+j exit
+
+loop: 
+	sll $t3,$t2,2 # $t2 << 2 | $t2*2^n
+	add $t1,$t3,$s1 
+	sw $t7,0($t1)
+	addi $s0,$s0,1
+	addi $t2,$t2,1
+	addi $t7,$t7,125
+	j while
+exit:

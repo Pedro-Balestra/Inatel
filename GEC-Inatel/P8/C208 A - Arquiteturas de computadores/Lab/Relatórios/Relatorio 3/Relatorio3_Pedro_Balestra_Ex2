@@ -1,0 +1,37 @@
+.data
+
+prompt: .asciiz "\nEntre com sua idade\n"
+str: .asciiz "\nSua idade daqui 30 anos é "
+
+#Exercicio 2
+.text
+
+# Texto para entrada da idade
+li $v0, 4 
+la $a0, prompt 
+syscall 
+
+# Entrada da idade
+li $v0, 5 
+syscall
+move $t3,$v0
+
+# Mostrando o Texto Str
+li $v0, 4 
+la $a0, str 
+syscall
+
+# Fazendo a soma da idade com mais 30
+addi $t4,$t3,30
+
+# Mostrando a idade daqui 30 anos
+move $s2, $t4
+add $a0, $s2, $0
+li $v0, 1
+syscall
+
+
+
+
+
+

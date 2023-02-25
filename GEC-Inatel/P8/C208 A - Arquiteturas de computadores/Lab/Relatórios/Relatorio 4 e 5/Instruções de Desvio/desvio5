@@ -1,0 +1,17 @@
+.text
+
+# i = $t0
+# cont = $s0
+
+li $t0,10
+li $s0,0
+
+while: bgt $t0,0,Loop		# while(i > 0)
+j fim				
+Loop:				#Loop
+	add $s0,$s0,5		# cont += 5
+	sub $t0,$t0,2		# i -= 2
+	j while
+fim:
+
+

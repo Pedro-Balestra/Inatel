@@ -1,0 +1,25 @@
+#.text
+
+#addi $t1,$0,0x30  #Movimenta o 0x30 para $t1
+#addi $t2,$0,0x40  #Movimenta o 0x30 para $t2
+#add $t3, $t1, $t2  #$t3 <- $t1+$t2
+
+#sub $t4,$t2,$t1
+#sub $t5,$t1,$t2
+
+#or $t6,$t1,$t2
+#ori $t7,$t2,0x40
+
+
+.data 
+idade: .byte 0x22
+rg: .half 0x3344
+num1 : .word 0xAABBCCDD
+
+.text
+
+la $t1, idade # $t1 é o end. base
+lb $t2,0($t1) 
+lh $t3,rg #0x10010002
+lh $t4,2($t1)
+lh $t5,4($t1)

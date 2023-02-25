@@ -1,0 +1,54 @@
+.data
+
+entrada: .asciiz "Entre com um número N para realizar o calculo: "
+saida: .asciiz "A diferença entre a soma dos quadrados e o quadrado das somas de N é: "
+
+.text
+# mostra a Entrada
+li $v0,4
+la $a0,entrada
+syscall
+
+# Aguardando a Entrada de N
+li $v0,5
+syscall
+add $t0,$0,$v0
+
+#Soma dos quadrados
+# ((2*n³)+(3*n²)+n)/6
+mul $t1,$t0,$t0 # n²
+mul $t2,$t0,$t1 # n³
+mul $t3,$t1,3 #3*n²
+mul $t4,$t2,2 #2*n³
+add $t5,$t3,$t4 # (3*n²) + (2*n³) 
+add $t6,$t5,$t0 # ((3*n²) + (2*n³) + n)
+div $t7,$t6,6 # ((3*n²) + (2*n³) + n) / 6
+
+#Quadrado da Soma
+li $s0,0 # cont
+li $s1,0 # cont
+addi $s2,$t0,1 # N+1
+
+while: blt $s1,$s2, loop # i < n
+j exit
+loop:
+	add $s0,$s0,$s1
+	addi $s1,$s1,1
+	j while
+exit:
+
+mul $s3,$s0,$s0
+
+#Calculando a diferença
+sub $s4,$s3,$t7
+
+#Mostando a Saida
+li $v0,4
+la $a0,saida
+syscall
+
+add $a0,$0,$s4
+li $v0,1
+syscall
+
+

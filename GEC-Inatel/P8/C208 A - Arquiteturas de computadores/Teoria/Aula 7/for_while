@@ -1,0 +1,30 @@
+.data 
+
+frase: .asciiz "Inatel \n"
+frase1: .asciiz "Entre com a quantidade de vezes que a fraser irá repetir: "
+
+.text
+
+li $t2,0 # inicializa o contador em 0
+li $v0,4 # seta o serviço print string
+la $a0,frase1
+syscall
+
+li $v0,5 # seta o serviço read int
+syscall
+
+add $s0,$v0,$0
+volta:
+blt $t0,$s0,repete # IF $t0 < $s0
+    j fim
+
+repete: li $v0,4 # seta o serviço print string
+        la $a0, frase # Imprime Inatel N vezes
+        syscall
+        addi $t0,$t0,1
+        j volta
+        
+fim: li $v0,10
+     syscall
+
+

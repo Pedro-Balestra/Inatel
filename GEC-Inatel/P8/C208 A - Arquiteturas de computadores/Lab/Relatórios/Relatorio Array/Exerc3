@@ -1,0 +1,20 @@
+.data #0x10010000
+	a: .word 4,5
+
+.text #0x00400000
+
+la $s1,a #s1 = 0x10010000
+sw $t1,0($s1)
+sw $t2,4($s1)
+li $t1,4
+li $t2,5
+li $s0,0 #j=0
+
+while: blt $s1,5,IF #a[0] < 5
+addi $s0,$t1,10
+j exit
+
+IF: 
+	addi $t2,$s0,2
+	j while
+exit:

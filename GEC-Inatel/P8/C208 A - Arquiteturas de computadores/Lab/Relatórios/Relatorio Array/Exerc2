@@ -1,0 +1,27 @@
+.data
+a: .word 2
+b: .word 6
+c: .word 10
+
+.text
+la $s1, a
+la $s2, b
+la $s3, c
+li $t2,20 # a = 20
+li $t3,10 # b = 10
+li $t4,5 # c = 5
+
+lw $t0, 60($s2)		# $t0 = b[15]
+sub $t1, $t3, $t4	# b - c
+add $s0, $0, $t1	# a = b[15] - c
+
+lw $t5, 20($s1)		# $t5 = a[5]
+lw $t6, 12($s3)		# $t6 = c[3]
+add $t7, $t2, $t3	# $t7 = a[5] + c[3]
+add $s4, $0, $t7	# b = a[5] + c[3]
+
+lw $t8, 84($s1)		# $t5 = a[21]
+sub $t9, $t3, $t8	# $t8 = b - a[21]
+add $s5, $0, $t8	# c = b - a[21]
+
+

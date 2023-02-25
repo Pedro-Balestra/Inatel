@@ -1,0 +1,9 @@
+.data #0x10010000
+a: .word 2,6,5,10
+
+.text
+
+la $s1, a #carrega o endereço do vetor 
+lw $t1,0($s1) # a[0] -> $t1 <= 2
+lw $t2,4($s1) # a[1] -> $t2 <= 6
+lw $t3,8($s1) # a[2] -> $t2 <= 5

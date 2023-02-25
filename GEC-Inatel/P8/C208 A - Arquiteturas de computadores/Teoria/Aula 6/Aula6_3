@@ -1,0 +1,11 @@
+.data
+num2: .byte 0x20
+
+.text
+lb $s2,num2
+
+beq $s2,10,igual
+mul $s2,$s2,2
+j fim
+igual: addi $s2,$s2,-1
+fim:

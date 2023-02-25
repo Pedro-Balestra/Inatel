@@ -1,0 +1,30 @@
+.text
+
+#Exercicio 1 
+#a
+li $t2, 2
+li $t3, 5
+add $t1,$t2,$t3
+
+#b
+li $t4, 89
+li $t5, 20
+add $t6,$t4,$t5
+
+#c
+li $t7,-80
+li $s0, 1234
+add $s1,$t7,$s0
+
+#d
+li $s2,70
+li $s3,24
+sub $s4,$s2,$s3
+
+#e
+li $s5,20
+li $s6,-150
+add $s7,$s5,$s6
+
+
+

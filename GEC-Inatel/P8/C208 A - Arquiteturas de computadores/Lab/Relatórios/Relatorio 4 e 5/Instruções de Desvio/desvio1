@@ -1,0 +1,20 @@
+.text
+
+# Adotando 
+# a = $t0
+# b = $t1
+# c = $t2
+
+#Declarando valores
+li $t0,1
+li $t1,2
+li $t2,3
+
+beq $t0,$t1,if         #if(a==b)If:
+add $t1, $t0,$t2       #else{ b=a+c 
+sub $t2,$t1,$t2        # a=b-c
+j fim
+if:add $t2,$t0,$t1     #if:=a+b
+   sub $t0,$t1,$t2     # a=b-c
+   
+fim:

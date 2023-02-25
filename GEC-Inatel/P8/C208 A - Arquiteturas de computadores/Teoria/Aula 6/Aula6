@@ -1,0 +1,27 @@
+.data
+num1: .byte 0x10
+num2: .byte 0x20
+
+.text
+lb $t1,num1
+lb $t2,num2
+
+#if
+# se num1 = num2 carrega 1 em $t4
+beq $t1,$t2,igual
+igual: addi $t4,$t4,1
+
+# se num1 > num2 $t3=1 senão $t5=1
+bgt $t1,$t2, maior
+addi $t5,$t5,1
+j fim
+maior: addi $t3,$t3,1
+
+fim:
+
+# While
+label1: 
+add $s3,$s3,1
+bne $s3,10,label1
+
+add $t6,$t6,1

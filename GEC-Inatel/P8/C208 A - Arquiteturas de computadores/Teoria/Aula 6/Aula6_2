@@ -1,0 +1,5 @@
+.text 
+label1: 
+addi $s1,$s1,5
+bne $s1,50,label1
+add $t1,$t1,1
