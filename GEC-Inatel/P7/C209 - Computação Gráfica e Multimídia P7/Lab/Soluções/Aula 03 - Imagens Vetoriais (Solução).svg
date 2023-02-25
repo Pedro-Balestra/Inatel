@@ -1,0 +1,11 @@
+<svg height="400" width="300" xmlns="http://www.w3.org/2000/svg">
+  <g transform="rotate(30,0,140)">
+    <rect x="0" y="0" height="140" width="200" fill="rgb(0,156,59)" />
+    <polygon points="17,70 100,17 183,70 100,123" fill="rgb(255,223,0)" />
+    <circle cx="100" cy="70" r="35" fill="rgb(0,39,118)" />
+    <path d="M 65 63 Q 110 60 132 85" fill="none" stroke="white" stroke-width="5" />
+    <!-- Uma segunda forma de fazer, fazendo o contorno>
+      <path d="M 65.5 63 Q 110 60 132 85 L 134 80 Q 110 55 66.8 58 Z" fill="white" />
+    <-->
+  </g>
+</svg>
