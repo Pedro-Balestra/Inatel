@@ -1,0 +1,199 @@
+0 : Inicializando SOsim ...
+2 : SOsim pronto
+83 : Processo 3324779 alocacao de blocos no pagefile
+83 : Processo 3324779 HwPF - Executável0
+83 : Processo 3324779 HwPF - Executável1
+83 : Processo 3324779 HwPF - Executável2
+83 : Processo 3324779 HwPF - Executável3
+83 : Processo 3324779 HwPF - Executável4
+83 : Processo 3324779 criado
+84 : Processo 3324779 Pronto -> Exec
+85 : Processo 3324779 Exec -> Pronto por tempo
+86 : Processo 3324779 Pronto -> Exec
+87 : Processo 3324779 Exec -> Pronto por tempo
+88 : Processo 3324779 Pronto -> Exec
+89 : Processo 3324779 Exec -> Pronto por tempo
+90 : Processo 3324779 Pronto -> Exec
+91 : Processo 3324779 Exec -> Pronto por tempo
+92 : Processo 3324779 Pronto -> Exec
+93 : Processo 3324779 Exec -> Pronto por tempo
+94 : Processo 3324779 Pronto -> Exec
+95 : Processo 3324779 Exec -> Pronto por tempo
+96 : Processo 3324779 Pronto -> Exec
+97 : Processo 3324779 Exec -> Pronto por tempo
+98 : Processo 3324779 Pronto -> Exec
+99 : Processo 3324779 Exec -> Pronto por tempo
+100 : Processo 3324779 Pronto -> Exec
+101 : Processo 3324779 Exec -> Pronto por tempo
+102 : Processo 3324779 Pronto -> Exec
+103 : Processo 3324779 Exec -> Pronto por tempo
+104 : Processo 3324779 Pronto -> Exec
+105 : Processo 3324779 Exec -> Pronto por tempo
+106 : Processo 3324779 Pronto -> Exec
+107 : Processo 3324779 Exec -> Pronto por tempo
+108 : Processo 3324779 Pronto -> Exec
+109 : Processo 3324779 Exec -> Pronto por tempo
+110 : Processo 3324779 Pronto -> Exec
+111 : Processo 3324779 Exec -> Pronto por tempo
+112 : Processo 3324779 Pronto -> Exec
+113 : Processo 3324779 Exec -> Pronto por tempo
+114 : Processo 3324779 Pronto -> Exec
+115 : Processo 3324779 Exec -> Pronto por tempo
+116 : Processo 3324779 Pronto -> Exec
+117 : Processo 3324779 Exec -> Pronto por tempo
+118 : Processo 3324779 Pronto -> Exec
+119 : Processo 3324779 Exec -> Pronto por tempo
+120 : Processo 3324779 Pronto -> Exec
+121 : Processo 3324779 Exec -> Pronto por tempo
+121 : Processo 3344027 alocacao de blocos no pagefile
+121 : Processo 3344027 HwPF - Executável0
+121 : Processo 3344027 HwPF - Executável1
+121 : Processo 3344027 HwPF - Executável2
+121 : Processo 3344027 HwPF - Executável3
+121 : Processo 3344027 HwPF - Executável4
+121 : Processo 3344027 criado
+122 : Processo 3344150 alocacao de blocos no pagefile
+122 : Processo 3344150 HwPF - Executável0
+122 : Processo 3344150 HwPF - Executável1
+122 : Processo 3344150 HwPF - Executável2
+122 : Processo 3344150 HwPF - Executável3
+122 : Processo 3344150 HwPF - Executável4
+122 : Processo 3344150 criado
+122 : Processo 3344272 alocacao de blocos no pagefile
+122 : Processo 3344272 HwPF - Executável0
+122 : Processo 3344272 HwPF - Executável1
+122 : Processo 3344272 HwPF - Executável2
+122 : Processo 3344272 HwPF - Executável3
+122 : Processo 3344272 HwPF - Executável4
+122 : Processo 3344272 criado
+122 : Processo 3344027 Pronto -> Exec
+122 : Processo 3344027 Exec -> I/O
+123 : Processo 3344150 Pronto -> Exec
+123 : Processo 3344150 Exec -> I/O
+124 : Processo 3344272 Pronto -> Exec
+124 : Processo 3344272 Exec -> I/O
+125 : Processo 3324779 Pronto -> Exec
+126 : Processo 3324779 Exec -> Pronto por tempo
+127 : Processo 3324779 Pronto -> Exec
+128 : Processo 3324779 Exec -> Pronto por tempo
+129 : Processo 3324779 Pronto -> Exec
+130 : Processo 3324779 Exec -> Pronto por tempo
+131 : Processo 3324779 Pronto -> Exec
+132 : Processo 3324779 Exec -> Pronto por tempo
+133 : Processo 3324779 Pronto -> Exec
+134 : Processo 3324779 Exec -> Pronto por tempo
+135 : Processo 3324779 Pronto -> Exec
+136 : Processo 3324779 Exec -> Pronto por tempo
+137 : Processo 3324779 Pronto -> Exec
+138 : Processo 3324779 Exec -> Pronto por tempo
+139 : Processo 3324779 Pronto -> Exec
+140 : Processo 3324779 Exec -> Pronto por tempo
+141 : Processo 3324779 Pronto -> Exec
+142 : Processo 3324779 Exec -> Pronto por tempo
+143 : Processo 3324779 Pronto -> Exec
+143 : Processo 3344027 Aumento de prioridade +1
+144 : Processo 3324779 Exec -> Pronto por tempo
+145 : Processo 3344027 Pronto -> Exec
+146 : Processo 3344027 Exec -> Pronto por tempo
+147 : Processo 3344027 Pronto -> Exec
+147 : Processo 3344027 Exec -> I/O
+148 : Processo 3324779 Pronto -> Exec
+149 : Processo 3324779 Exec -> Pronto por tempo
+150 : Processo 3324779 Pronto -> Exec
+151 : Processo 3324779 Exec -> Pronto por tempo
+152 : Processo 3324779 Pronto -> Exec
+153 : Processo 3324779 Exec -> Pronto por tempo
+154 : Processo 3324779 Pronto -> Exec
+155 : Processo 3324779 Exec -> Pronto por tempo
+156 : Processo 3324779 Pronto -> Exec
+157 : Processo 3324779 Exec -> Pronto por tempo
+158 : Processo 3324779 Pronto -> Exec
+159 : Processo 3324779 Exec -> Pronto por tempo
+160 : Processo 3324779 Pronto -> Exec
+161 : Processo 3324779 Exec -> Pronto por tempo
+162 : Processo 3324779 Pronto -> Exec
+163 : Processo 3324779 Exec -> Pronto por tempo
+164 : Processo 3324779 Pronto -> Exec
+164 : Processo 3344150 Aumento de prioridade +1
+165 : Processo 3324779 Exec -> Pronto por tempo
+166 : Processo 3344150 Pronto -> Exec
+167 : Processo 3344150 Exec -> Pronto por tempo
+168 : Processo 3344150 Pronto -> Exec
+168 : Processo 3344150 Exec -> I/O
+169 : Processo 3324779 Pronto -> Exec
+170 : Processo 3324779 Exec -> Pronto por tempo
+171 : Processo 3324779 Pronto -> Exec
+172 : Processo 3324779 Exec -> Pronto por tempo
+173 : Processo 3324779 Pronto -> Exec
+174 : Processo 3324779 Exec -> Pronto por tempo
+175 : Processo 3324779 Pronto -> Exec
+176 : Processo 3324779 Exec -> Pronto por tempo
+177 : Processo 3324779 Pronto -> Exec
+178 : Processo 3324779 Exec -> Pronto por tempo
+179 : Processo 3324779 Pronto -> Exec
+180 : Processo 3324779 Exec -> Pronto por tempo
+181 : Processo 3324779 Pronto -> Exec
+182 : Processo 3324779 Exec -> Pronto por tempo
+183 : Processo 3324779 Pronto -> Exec
+184 : Processo 3324779 Exec -> Pronto por tempo
+185 : Processo 3324779 Pronto -> Exec
+186 : Processo 3324779 Exec -> Pronto por tempo
+186 : Processo 3344272 Aumento de prioridade +1
+187 : Processo 3344272 Pronto -> Exec
+188 : Processo 3344272 Exec -> Pronto por tempo
+189 : Processo 3344272 Pronto -> Exec
+189 : Processo 3344272 Exec -> I/O
+190 : Processo 3324779 Pronto -> Exec
+191 : Processo 3324779 Exec -> Pronto por tempo
+192 : Processo 3324779 Pronto -> Exec
+193 : Processo 3324779 Exec -> Pronto por tempo
+194 : Processo 3324779 Pronto -> Exec
+195 : Processo 3324779 Exec -> Pronto por tempo
+196 : Processo 3324779 Pronto -> Exec
+197 : Processo 3324779 Exec -> Pronto por tempo
+198 : Processo 3324779 Pronto -> Exec
+199 : Processo 3324779 Exec -> Pronto por tempo
+200 : Processo 3324779 Pronto -> Exec
+201 : Processo 3324779 Exec -> Pronto por tempo
+202 : Processo 3324779 Pronto -> Exec
+203 : Processo 3324779 Exec -> Pronto por tempo
+204 : Processo 3324779 Pronto -> Exec
+205 : Processo 3324779 Exec -> Pronto por tempo
+206 : Processo 3324779 Pronto -> Exec
+207 : Processo 3324779 Exec -> Pronto por tempo
+207 : Processo 3344027 Aumento de prioridade +1
+208 : Processo 3344027 Pronto -> Exec
+208 : Processo 3344027 Exec -> I/O
+209 : Processo 3324779 Pronto -> Exec
+210 : Processo 3324779 Exec -> Pronto por tempo
+211 : Processo 3324779 Pronto -> Exec
+212 : Processo 3324779 Exec -> Pronto por tempo
+213 : Processo 3324779 Pronto -> Exec
+214 : Processo 3324779 Exec -> Pronto por tempo
+215 : Processo 3324779 Pronto -> Exec
+216 : Processo 3324779 Exec -> Pronto por tempo
+217 : Processo 3324779 Pronto -> Exec
+218 : Processo 3324779 Exec -> Pronto por tempo
+219 : Processo 3324779 Pronto -> Exec
+220 : Processo 3324779 Exec -> Pronto por tempo
+221 : Processo 3324779 Pronto -> Exec
+222 : Processo 3324779 Exec -> Pronto por tempo
+223 : Processo 3324779 Pronto -> Exec
+224 : Processo 3324779 Exec -> Pronto por tempo
+225 : Processo 3324779 Pronto -> Exec
+226 : Processo 3324779 Exec -> Pronto por tempo
+227 : Processo 3324779 Pronto -> Exec
+228 : Processo 3324779 Exec -> Pronto por tempo
+228 : Processo 3344150 Aumento de prioridade +1
+229 : Processo 3344150 Pronto -> Exec
+229 : Processo 3344150 Exec -> I/O
+230 : Processo 3324779 Pronto -> Exec
+231 : Processo 3324779 Exec -> Pronto por tempo
+232 : Processo 3324779 Pronto -> Exec
+233 : Processo 3324779 Exec -> Pronto por tempo
+234 : Processo 3324779 Pronto -> Exec
+235 : Processo 3324779 Exec -> Pronto por tempo
+236 : Processo 3324779 Pronto -> Exec
+237 : Processo 3324779 Exec -> Pronto por tempo
+238 : Processo 3324779 Pronto -> Exec
+239 : Processo 3324779 Exec -> Pronto por tempo

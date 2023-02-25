@@ -1,0 +1,36 @@
+Distribuição:
+1- Ubuntu
+2- Kali Linux
+3- OpenSUSE
+4- Linux Lite
+5- Debian
+6- Fedora
+7- Elementary OS / Red Hat Enterprise Linux
+8- Oracle Linux
+
+http://ninjadolinux.com.br/distribuicoes-linux/
+https://blog.betrybe.com/distribuicoes-linux/
+
+Ubuntu
+https://tecnoblog.net/responde/o-que-e-o-ubuntu/
+https://www.vivaolinux.com.br/topico/Ubuntu-e-Kubuntu/Ubuntu-Quais-as-principais-vantagens-e-desvantagens-que-voces-encontraram-nele
+https://www.zoom.com.br/notebook/deumzoom/o-que-e-o-ubuntu
+
+Debian
+https://distrowatch.com/table.php?distribution=Debian
+https://www.monolitonimbus.com.br/sistema-de-pacotes-do-debian/
+https://ubunlog.com/pt/encuesta-entorno-grafico-favorito-ubuntu/
+https://www.hardware.com.br/comunidade/distribuicao-debian/218092/#:~:text=Pontos%20fortes%20da%20distribuição%20Debian,%2C%20Torrents%20etc...)
+
+Fedora
+https://www.linuxdescomplicado.com.br/2015/05/dnf-saiba-mais-sobre-o-novo-gerenciador-de-pacotes-do-fedora.html
+https://docs.fedoraproject.org/en-US/fedora/rawhide/system-administrators-guide/RPM/
+https://www.techtudo.com.br/tudo-sobre/fedora.html#:~:text=Fedora%20%C3%A9%20um%20sistema%20operacional,ambiente%20GNOME%20como%20desktop%20padr%C3%A3o.&text=A%20vers%C3%A3o%20mais%20recente%2C%20o,e%20uma%20s%C3%A9rie%20de%20novidades.
+https://elias.praciano.com/2017/03/5-distribuicoes-linux-que-sempre-vale-a-pena-considerar/
+https://sempreupdate.com.br/dez-razoes-para-usar-o-fedora/
+
+
+https://distrowatch.com/table.php?distribution=redhat
+
+Kali Linux
+https://www.edivaldobrito.com.br/coisas-que-voce-deve-saber-antes-de-usar-o-kali-linux/

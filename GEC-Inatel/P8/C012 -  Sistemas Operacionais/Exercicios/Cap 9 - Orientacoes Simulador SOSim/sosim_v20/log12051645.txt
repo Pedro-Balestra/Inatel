@@ -1,0 +1,138 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+16 : Processo 4520024 alocacao de blocos no pagefile
+16 : Processo 4520024 criado
+17 : Processo 4520024 Pronto -> Exec
+18 : Processo 4520024 Exec -> Page Fault0
+28 : Processo 4520024 HwPF - Executável0
+29 : Processo 4520024 Pronto -> Exec
+29 : Processo 4520024 eliminado
+29 : Tempo de UCP:1 Tempo decorrido:13
+29 : Processo 4520024 liberando pagefile reservado
+34 : Processo 4538992 alocacao de blocos no pagefile
+34 : Processo 4538992 criado
+35 : Processo 4538992 Pronto -> Exec
+36 : Processo 4538992 Exec -> Page Fault0
+46 : Processo 4538992 HwPF - Executável0
+47 : Processo 4538992 Pronto -> Exec
+48 : Processo 4538992 Exec -> Pronto por tempo
+49 : Processo 4538992 Pronto -> Exec
+50 : Processo 4538992 Exec -> Pronto por tempo
+51 : Processo 4538992 Pronto -> Exec
+52 : Processo 4538992 Exec -> Pronto por tempo
+53 : Processo 4538992 Pronto -> Exec
+54 : Processo 4538992 Exec -> Pronto por tempo
+55 : Processo 4538992 Pronto -> Exec
+56 : Processo 4538992 Exec -> Pronto por tempo
+57 : Processo 4538992 Pronto -> Exec
+58 : Processo 4538992 Exec -> Pronto por tempo
+59 : Processo 4538992 Pronto -> Exec
+60 : Processo 4538992 Exec -> Pronto por tempo
+61 : Processo 4538992 Pronto -> Exec
+62 : Processo 4538992 Exec -> Pronto por tempo
+63 : Processo 4538992 Pronto -> Exec
+64 : Processo 4538992 Exec -> Page Fault1
+74 : Processo 4538992 HwPF - Executável1
+75 : Processo 4538992 Pronto -> Exec
+76 : Processo 4538992 Exec -> Pronto por tempo
+77 : Processo 4538992 Pronto -> Exec
+78 : Processo 4538992 Exec -> Pronto por tempo
+79 : Processo 4538992 Pronto -> Exec
+80 : Processo 4538992 Exec -> Pronto por tempo
+81 : Processo 4538992 Pronto -> Exec
+82 : Processo 4538992 Exec -> Pronto por tempo
+83 : Processo 4538992 Pronto -> Exec
+84 : Processo 4538992 Exec -> Pronto por tempo
+85 : Processo 4538992 Pronto -> Exec
+86 : Processo 4538992 Exec -> Pronto por tempo
+87 : Processo 4538992 Pronto -> Exec
+88 : Processo 4538992 Exec -> Pronto por tempo
+89 : Processo 4538992 Pronto -> Exec
+90 : Processo 4538992 Exec -> Pronto por tempo
+91 : Processo 4538992 Pronto -> Exec
+92 : Processo 4538992 Exec -> Page Fault2
+102 : Processo 4538992 HwPF - Executável2
+103 : Processo 4538992 Pronto -> Exec
+104 : Processo 4538992 Exec -> Pronto por tempo
+105 : Processo 4538992 Pronto -> Exec
+106 : Processo 4538992 Exec -> Pronto por tempo
+107 : Processo 4538992 Pronto -> Exec
+108 : Processo 4538992 Exec -> Pronto por tempo
+109 : Processo 4538992 Pronto -> Exec
+110 : Processo 4538992 Exec -> Pronto por tempo
+111 : Processo 4538992 Pronto -> Exec
+112 : Processo 4538992 Exec -> Pronto por tempo
+113 : Processo 4538992 Pronto -> Exec
+114 : Processo 4538992 Exec -> Pronto por tempo
+115 : Processo 4538992 Pronto -> Exec
+116 : Processo 4538992 Exec -> Pronto por tempo
+117 : Processo 4538992 Pronto -> Exec
+118 : Processo 4538992 Exec -> Pronto por tempo
+119 : Processo 4538992 Pronto -> Exec
+120 : Processo 4538992 Exec -> Page Fault3
+130 : Processo 4538992 HwPF - Executável3
+131 : Processo 4538992 Pronto -> Exec
+132 : Processo 4538992 Exec -> Pronto por tempo
+133 : Processo 4538992 Pronto -> Exec
+134 : Processo 4538992 Exec -> Pronto por tempo
+135 : Processo 4538992 Pronto -> Exec
+136 : Processo 4538992 Exec -> Pronto por tempo
+137 : Processo 4538992 Pronto -> Exec
+138 : Processo 4538992 Exec -> Pronto por tempo
+139 : Processo 4538992 Pronto -> Exec
+140 : Processo 4538992 Exec -> Pronto por tempo
+141 : Processo 4538992 Pronto -> Exec
+142 : Processo 4538992 Exec -> Pronto por tempo
+143 : Processo 4538992 Pronto -> Exec
+144 : Processo 4538992 Exec -> Pronto por tempo
+145 : Processo 4538992 Pronto -> Exec
+146 : Processo 4538992 Exec -> Pronto por tempo
+147 : Processo 4538992 Pronto -> Exec
+148 : Processo 4538992 Exec -> Page Fault4
+158 : Processo 4538992 HwPF - Executável4
+159 : Processo 4538992 Pronto -> Exec
+160 : Processo 4538992 Exec -> Pronto por tempo
+161 : Processo 4538992 Pronto -> Exec
+162 : Processo 4538992 Exec -> Pronto por tempo
+163 : Processo 4538992 Pronto -> Exec
+164 : Processo 4538992 Exec -> Pronto por tempo
+165 : Processo 4538992 Pronto -> Exec
+166 : Processo 4538992 Exec -> Pronto por tempo
+167 : Processo 4538992 Pronto -> Exec
+168 : Processo 4538992 Exec -> Pronto por tempo
+169 : Processo 4538992 Pronto -> Exec
+170 : Processo 4538992 Exec -> Pronto por tempo
+171 : Processo 4538992 Pronto -> Exec
+172 : Processo 4538992 Exec -> Pronto por tempo
+173 : Processo 4538992 Pronto -> Exec
+174 : Processo 4538992 Exec -> Pronto por tempo
+175 : Processo 4538992 Pronto -> Exec
+176 : Processo 4538992 Exec -> Pronto por tempo
+177 : Processo 4538992 Pronto -> Exec
+178 : Processo 4538992 Exec -> Pronto por tempo
+179 : Processo 4538992 Pronto -> Exec
+180 : Processo 4538992 Exec -> Pronto por tempo
+181 : Processo 4538992 Pronto -> Exec
+182 : Processo 4538992 Exec -> Pronto por tempo
+183 : Processo 4538992 Pronto -> Exec
+184 : Processo 4538992 Exec -> Pronto por tempo
+185 : Processo 4538992 Pronto -> Exec
+186 : Processo 4538992 Exec -> Pronto por tempo
+187 : Processo 4538992 Pronto -> Exec
+188 : Processo 4538992 Exec -> Pronto por tempo
+189 : Processo 4538992 Pronto -> Exec
+190 : Processo 4538992 Exec -> Pronto por tempo
+191 : Processo 4538992 Pronto -> Exec
+192 : Processo 4538992 Exec -> Pronto por tempo
+193 : Processo 4538992 Pronto -> Exec
+194 : Processo 4538992 Exec -> Pronto por tempo
+195 : Processo 4538992 Pronto -> Exec
+196 : Processo 4538992 Exec -> Pronto por tempo
+197 : Processo 4538992 Pronto -> Exec
+198 : Processo 4538992 Exec -> Pronto por tempo
+199 : Processo 4538992 Pronto -> Exec
+200 : Processo 4538992 Exec -> Pronto por tempo
+201 : Processo 4538992 Pronto -> Exec
+202 : Processo 4538992 Exec -> Pronto por tempo
+203 : Processo 4538992 Pronto -> Exec
+204 : Processo 4538992 Exec -> Pronto por tempo

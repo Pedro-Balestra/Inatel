@@ -1,0 +1,1479 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+515 : Processo 5158372 alocacao de blocos no pagefile
+515 : Processo 5158372 HwPF - Executável0
+516 : Processo 5158372 HwPF - Executável1
+516 : Processo 5158372 HwPF - Executável2
+516 : Processo 5158372 HwPF - Executável3
+516 : Processo 5158372 HwPF - Executável4
+516 : Processo 5158372 criado
+517 : Processo 5158372 Pronto -> Exec
+518 : Processo 5158372 Exec -> Pronto por tempo
+519 : Processo 5158372 Pronto -> Exec
+520 : Processo 5158372 Exec -> Pronto por tempo
+521 : Processo 5158372 Pronto -> Exec
+522 : Processo 5158372 Exec -> Pronto por tempo
+523 : Processo 5158372 Pronto -> Exec
+524 : Processo 5158372 Exec -> Pronto por tempo
+525 : Processo 5158372 Pronto -> Exec
+526 : Processo 5158372 Exec -> Pronto por tempo
+527 : Processo 5158372 Pronto -> Exec
+528 : Processo 5158372 Exec -> Pronto por tempo
+529 : Processo 5158372 Pronto -> Exec
+530 : Processo 5158372 Exec -> Pronto por tempo
+531 : Processo 5158372 Pronto -> Exec
+532 : Processo 5158372 Exec -> Pronto por tempo
+533 : Processo 5158372 Pronto -> Exec
+534 : Processo 5158372 Exec -> Pronto por tempo
+535 : Processo 5158372 Pronto -> Exec
+536 : Processo 5158372 Exec -> Pronto por tempo
+537 : Processo 5158372 Pronto -> Exec
+538 : Processo 5158372 Exec -> Pronto por tempo
+539 : Processo 5158372 Pronto -> Exec
+540 : Processo 5158372 Exec -> Pronto por tempo
+541 : Processo 5158372 Pronto -> Exec
+542 : Processo 5158372 Exec -> Pronto por tempo
+543 : Processo 5158372 Pronto -> Exec
+544 : Processo 5158372 Exec -> Pronto por tempo
+545 : Processo 5158372 Pronto -> Exec
+546 : Processo 5158372 Exec -> Pronto por tempo
+547 : Processo 5158372 Pronto -> Exec
+548 : Processo 5158372 Exec -> Pronto por tempo
+549 : Processo 5158372 Pronto -> Exec
+550 : Processo 5158372 Exec -> Pronto por tempo
+551 : Processo 5158372 Pronto -> Exec
+552 : Processo 5158372 Exec -> Pronto por tempo
+553 : Processo 5158372 Pronto -> Exec
+554 : Processo 5158372 Exec -> Pronto por tempo
+555 : Processo 5158372 Pronto -> Exec
+556 : Processo 5158372 Exec -> Pronto por tempo
+557 : Processo 5158372 Pronto -> Exec
+558 : Processo 5158372 Exec -> Pronto por tempo
+559 : Processo 5158372 Pronto -> Exec
+560 : Processo 5158372 Exec -> Pronto por tempo
+561 : Processo 5158372 Pronto -> Exec
+562 : Processo 5158372 Exec -> Pronto por tempo
+563 : Processo 5158372 Pronto -> Exec
+564 : Processo 5158372 Exec -> Pronto por tempo
+565 : Processo 5158372 Pronto -> Exec
+566 : Processo 5158372 Exec -> Pronto por tempo
+567 : Processo 5158372 Pronto -> Exec
+568 : Processo 5158372 Exec -> Pronto por tempo
+569 : Processo 5158372 Pronto -> Exec
+570 : Processo 5158372 Exec -> Pronto por tempo
+571 : Processo 5158372 Pronto -> Exec
+572 : Processo 5158372 Exec -> Pronto por tempo
+573 : Processo 5158372 Pronto -> Exec
+574 : Processo 5158372 Exec -> Pronto por tempo
+575 : Processo 5158372 Pronto -> Exec
+576 : Processo 5158372 Exec -> Pronto por tempo
+577 : Processo 5158372 Pronto -> Exec
+578 : Processo 5158372 Exec -> Pronto por tempo
+579 : Processo 5158372 Pronto -> Exec
+580 : Processo 5158372 Exec -> Pronto por tempo
+581 : Processo 5158372 Pronto -> Exec
+582 : Processo 5158372 Exec -> Pronto por tempo
+583 : Processo 5158372 Pronto -> Exec
+584 : Processo 5158372 Exec -> Pronto por tempo
+585 : Processo 5158372 Pronto -> Exec
+586 : Processo 5158372 Exec -> Pronto por tempo
+587 : Processo 5158372 Pronto -> Exec
+588 : Processo 5158372 Exec -> Pronto por tempo
+589 : Processo 5158372 Pronto -> Exec
+590 : Processo 5158372 Exec -> Pronto por tempo
+591 : Processo 5158372 Pronto -> Exec
+592 : Processo 5158372 Exec -> Pronto por tempo
+593 : Processo 5158372 Pronto -> Exec
+594 : Processo 5158372 Exec -> Pronto por tempo
+595 : Processo 5158372 Pronto -> Exec
+596 : Processo 5158372 Exec -> Pronto por tempo
+597 : Processo 5158372 Pronto -> Exec
+598 : Processo 5158372 Exec -> Pronto por tempo
+599 : Processo 5158372 Pronto -> Exec
+600 : Processo 5158372 Exec -> Pronto por tempo
+601 : Processo 5158372 Pronto -> Exec
+602 : Processo 5158372 Exec -> Pronto por tempo
+603 : Processo 5158372 Pronto -> Exec
+604 : Processo 5158372 Exec -> Pronto por tempo
+605 : Processo 5158372 Pronto -> Exec
+606 : Processo 5158372 Exec -> Pronto por tempo
+607 : Processo 5158372 Pronto -> Exec
+608 : Processo 5158372 Exec -> Pronto por tempo
+609 : Processo 5158372 Pronto -> Exec
+610 : Processo 5158372 Exec -> Pronto por tempo
+611 : Processo 5158372 Pronto -> Exec
+612 : Processo 5158372 Exec -> Pronto por tempo
+613 : Processo 5158372 Pronto -> Exec
+614 : Processo 5158372 Exec -> Pronto por tempo
+615 : Processo 5158372 Pronto -> Exec
+616 : Processo 5158372 Exec -> Pronto por tempo
+617 : Processo 5158372 Pronto -> Exec
+618 : Processo 5158372 Exec -> Pronto por tempo
+619 : Processo 5158372 Pronto -> Exec
+620 : Processo 5158372 Exec -> Pronto por tempo
+621 : Processo 5158372 Pronto -> Exec
+622 : Processo 5158372 Exec -> Pronto por tempo
+623 : Processo 5158372 Pronto -> Exec
+624 : Processo 5158372 Exec -> Pronto por tempo
+625 : Processo 5158372 Pronto -> Exec
+626 : Processo 5158372 Exec -> Pronto por tempo
+627 : Processo 5158372 Pronto -> Exec
+628 : Processo 5158372 Exec -> Pronto por tempo
+629 : Processo 5158372 Pronto -> Exec
+630 : Processo 5158372 Exec -> Pronto por tempo
+631 : Processo 5158372 Pronto -> Exec
+632 : Processo 5158372 Exec -> Pronto por tempo
+633 : Processo 5158372 Pronto -> Exec
+634 : Processo 5158372 Exec -> Pronto por tempo
+635 : Processo 5158372 Pronto -> Exec
+636 : Processo 5158372 Exec -> Pronto por tempo
+637 : Processo 5158372 Pronto -> Exec
+638 : Processo 5158372 Exec -> Pronto por tempo
+639 : Processo 5158372 Pronto -> Exec
+640 : Processo 5158372 Exec -> Pronto por tempo
+641 : Processo 5158372 Pronto -> Exec
+642 : Processo 5158372 Exec -> Pronto por tempo
+643 : Processo 5158372 Pronto -> Exec
+644 : Processo 5158372 Exec -> Pronto por tempo
+645 : Processo 5158372 Pronto -> Exec
+646 : Processo 5158372 Exec -> Pronto por tempo
+647 : Processo 5158372 Pronto -> Exec
+648 : Processo 5158372 Exec -> Pronto por tempo
+649 : Processo 5158372 Pronto -> Exec
+650 : Processo 5158372 Exec -> Pronto por tempo
+651 : Processo 5158372 Pronto -> Exec
+652 : Processo 5158372 Exec -> Pronto por tempo
+653 : Processo 5158372 Pronto -> Exec
+654 : Processo 5158372 Exec -> Pronto por tempo
+655 : Processo 5158372 Pronto -> Exec
+656 : Processo 5158372 Exec -> Pronto por tempo
+657 : Processo 5158372 Pronto -> Exec
+658 : Processo 5158372 Exec -> Pronto por tempo
+659 : Processo 5158372 Pronto -> Exec
+660 : Processo 5158372 Exec -> Pronto por tempo
+661 : Processo 5158372 Pronto -> Exec
+662 : Processo 5158372 Exec -> Pronto por tempo
+663 : Processo 5158372 Pronto -> Exec
+664 : Processo 5158372 Exec -> Pronto por tempo
+665 : Processo 5158372 Pronto -> Exec
+666 : Processo 5158372 Exec -> Pronto por tempo
+667 : Processo 5158372 Pronto -> Exec
+668 : Processo 5158372 Exec -> Pronto por tempo
+669 : Processo 5158372 Pronto -> Exec
+670 : Processo 5158372 Exec -> Pronto por tempo
+671 : Processo 5158372 Pronto -> Exec
+672 : Processo 5158372 Exec -> Pronto por tempo
+673 : Processo 5158372 Pronto -> Exec
+674 : Processo 5158372 Exec -> Pronto por tempo
+675 : Processo 5158372 Pronto -> Exec
+676 : Processo 5158372 Exec -> Pronto por tempo
+677 : Processo 5158372 Pronto -> Exec
+678 : Processo 5158372 Exec -> Pronto por tempo
+679 : Processo 5158372 Pronto -> Exec
+680 : Processo 5158372 Exec -> Pronto por tempo
+681 : Processo 5158372 Pronto -> Exec
+682 : Processo 5158372 Exec -> Pronto por tempo
+683 : Processo 5158372 Pronto -> Exec
+684 : Processo 5158372 Exec -> Pronto por tempo
+685 : Processo 5158372 Pronto -> Exec
+686 : Processo 5158372 Exec -> Pronto por tempo
+687 : Processo 5158372 Pronto -> Exec
+688 : Processo 5158372 Exec -> Pronto por tempo
+689 : Processo 5158372 Pronto -> Exec
+690 : Processo 5158372 Exec -> Pronto por tempo
+691 : Processo 5158372 Pronto -> Exec
+692 : Processo 5158372 Exec -> Pronto por tempo
+693 : Processo 5158372 Pronto -> Exec
+694 : Processo 5158372 Exec -> Pronto por tempo
+695 : Processo 5158372 Pronto -> Exec
+696 : Processo 5158372 Exec -> Pronto por tempo
+697 : Processo 5158372 Pronto -> Exec
+698 : Processo 5158372 Exec -> Pronto por tempo
+699 : Processo 5158372 Pronto -> Exec
+700 : Processo 5158372 Exec -> Pronto por tempo
+701 : Processo 5158372 Pronto -> Exec
+702 : Processo 5158372 Exec -> Pronto por tempo
+703 : Processo 5158372 Pronto -> Exec
+704 : Processo 5158372 Exec -> Pronto por tempo
+705 : Processo 5158372 Pronto -> Exec
+706 : Processo 5158372 Exec -> Pronto por tempo
+707 : Processo 5158372 Pronto -> Exec
+708 : Processo 5158372 Exec -> Pronto por tempo
+709 : Processo 5158372 Pronto -> Exec
+710 : Processo 5158372 Exec -> Pronto por tempo
+711 : Processo 5158372 Pronto -> Exec
+712 : Processo 5158372 Exec -> Pronto por tempo
+713 : Processo 5158372 Pronto -> Exec
+714 : Processo 5158372 Exec -> Pronto por tempo
+715 : Processo 5158372 Pronto -> Exec
+716 : Processo 5158372 Exec -> Pronto por tempo
+717 : Processo 5158372 Pronto -> Exec
+718 : Processo 5158372 Exec -> Pronto por tempo
+719 : Processo 5158372 Pronto -> Exec
+720 : Processo 5158372 Exec -> Pronto por tempo
+721 : Processo 5158372 Pronto -> Exec
+722 : Processo 5158372 Exec -> Pronto por tempo
+723 : Processo 5158372 Pronto -> Exec
+724 : Processo 5158372 Exec -> Pronto por tempo
+725 : Processo 5158372 Pronto -> Exec
+726 : Processo 5158372 Exec -> Pronto por tempo
+727 : Processo 5158372 Pronto -> Exec
+728 : Processo 5158372 Exec -> Pronto por tempo
+729 : Processo 5158372 Pronto -> Exec
+730 : Processo 5158372 Exec -> Pronto por tempo
+731 : Processo 5158372 Pronto -> Exec
+732 : Processo 5158372 Exec -> Pronto por tempo
+733 : Processo 5158372 Pronto -> Exec
+734 : Processo 5158372 Exec -> Pronto por tempo
+735 : Processo 5158372 Pronto -> Exec
+736 : Processo 5158372 Exec -> Pronto por tempo
+737 : Processo 5158372 Pronto -> Exec
+738 : Processo 5158372 Exec -> Pronto por tempo
+739 : Processo 5158372 Pronto -> Exec
+740 : Processo 5158372 Exec -> Pronto por tempo
+741 : Processo 5158372 Pronto -> Exec
+742 : Processo 5158372 Exec -> Pronto por tempo
+743 : Processo 5158372 Pronto -> Exec
+744 : Processo 5158372 Exec -> Pronto por tempo
+745 : Processo 5158372 Pronto -> Exec
+746 : Processo 5158372 Exec -> Pronto por tempo
+747 : Processo 5158372 Pronto -> Exec
+748 : Processo 5158372 Exec -> Pronto por tempo
+749 : Processo 5158372 Pronto -> Exec
+750 : Processo 5158372 Exec -> Pronto por tempo
+751 : Processo 5158372 Pronto -> Exec
+752 : Processo 5158372 Exec -> Pronto por tempo
+753 : Processo 5158372 Pronto -> Exec
+754 : Processo 5158372 Exec -> Pronto por tempo
+755 : Processo 5158372 Pronto -> Exec
+756 : Processo 5158372 Exec -> Pronto por tempo
+757 : Processo 5158372 Pronto -> Exec
+758 : Processo 5158372 Exec -> Pronto por tempo
+759 : Processo 5158372 Pronto -> Exec
+760 : Processo 5158372 Exec -> Pronto por tempo
+761 : Processo 5158372 Pronto -> Exec
+762 : Processo 5158372 Exec -> Pronto por tempo
+763 : Processo 5158372 Pronto -> Exec
+764 : Processo 5158372 Exec -> Pronto por tempo
+765 : Processo 5158372 Pronto -> Exec
+766 : Processo 5158372 Exec -> Pronto por tempo
+767 : Processo 5158372 Pronto -> Exec
+768 : Processo 5158372 Exec -> Pronto por tempo
+769 : Processo 5158372 Pronto -> Exec
+770 : Processo 5158372 Exec -> Pronto por tempo
+771 : Processo 5158372 Pronto -> Exec
+772 : Processo 5158372 Exec -> Pronto por tempo
+773 : Processo 5158372 Pronto -> Exec
+774 : Processo 5158372 Exec -> Pronto por tempo
+775 : Processo 5158372 Pronto -> Exec
+776 : Processo 5158372 Exec -> Pronto por tempo
+777 : Processo 5158372 Pronto -> Exec
+778 : Processo 5158372 Exec -> Pronto por tempo
+779 : Processo 5158372 Pronto -> Exec
+780 : Processo 5158372 Exec -> Pronto por tempo
+781 : Processo 5158372 Pronto -> Exec
+782 : Processo 5158372 Exec -> Pronto por tempo
+783 : Processo 5158372 Pronto -> Exec
+784 : Processo 5158372 Exec -> Pronto por tempo
+785 : Processo 5158372 Pronto -> Exec
+786 : Processo 5158372 Exec -> Pronto por tempo
+787 : Processo 5158372 Pronto -> Exec
+788 : Processo 5158372 Exec -> Pronto por tempo
+789 : Processo 5158372 Pronto -> Exec
+790 : Processo 5158372 Exec -> Pronto por tempo
+791 : Processo 5158372 Pronto -> Exec
+792 : Processo 5158372 Exec -> Pronto por tempo
+793 : Processo 5158372 Pronto -> Exec
+794 : Processo 5158372 Exec -> Pronto por tempo
+795 : Processo 5158372 Pronto -> Exec
+796 : Processo 5158372 Exec -> Pronto por tempo
+797 : Processo 5158372 Pronto -> Exec
+798 : Processo 5158372 Exec -> Pronto por tempo
+799 : Processo 5158372 Pronto -> Exec
+800 : Processo 5158372 Exec -> Pronto por tempo
+801 : Processo 5158372 Pronto -> Exec
+802 : Processo 5158372 Exec -> Pronto por tempo
+803 : Processo 5158372 Pronto -> Exec
+804 : Processo 5158372 Exec -> Pronto por tempo
+805 : Processo 5158372 Pronto -> Exec
+806 : Processo 5158372 Exec -> Pronto por tempo
+807 : Processo 5158372 Pronto -> Exec
+808 : Processo 5158372 Exec -> Pronto por tempo
+809 : Processo 5158372 Pronto -> Exec
+810 : Processo 5158372 Exec -> Pronto por tempo
+811 : Processo 5158372 Pronto -> Exec
+812 : Processo 5158372 Exec -> Pronto por tempo
+813 : Processo 5158372 Pronto -> Exec
+814 : Processo 5158372 Exec -> Pronto por tempo
+815 : Processo 5158372 Pronto -> Exec
+816 : Processo 5158372 Exec -> Pronto por tempo
+817 : Processo 5158372 Pronto -> Exec
+818 : Processo 5158372 Exec -> Pronto por tempo
+819 : Processo 5158372 Pronto -> Exec
+820 : Processo 5158372 Exec -> Pronto por tempo
+821 : Processo 5158372 Pronto -> Exec
+822 : Processo 5158372 Exec -> Pronto por tempo
+823 : Processo 5158372 Pronto -> Exec
+824 : Processo 5158372 Exec -> Pronto por tempo
+825 : Processo 5158372 Pronto -> Exec
+826 : Processo 5158372 Exec -> Pronto por tempo
+827 : Processo 5158372 Pronto -> Exec
+828 : Processo 5158372 Exec -> Pronto por tempo
+829 : Processo 5158372 Pronto -> Exec
+830 : Processo 5158372 Exec -> Pronto por tempo
+831 : Processo 5158372 Pronto -> Exec
+832 : Processo 5158372 Exec -> Pronto por tempo
+833 : Processo 5158372 Pronto -> Exec
+834 : Processo 5158372 Exec -> Pronto por tempo
+835 : Processo 5158372 Pronto -> Exec
+836 : Processo 5158372 Exec -> Pronto por tempo
+837 : Processo 5158372 Pronto -> Exec
+838 : Processo 5158372 Exec -> Pronto por tempo
+839 : Processo 5158372 Pronto -> Exec
+840 : Processo 5158372 Exec -> Pronto por tempo
+841 : Processo 5158372 Pronto -> Exec
+842 : Processo 5158372 Exec -> Pronto por tempo
+843 : Processo 5158372 Pronto -> Exec
+844 : Processo 5158372 Exec -> Pronto por tempo
+845 : Processo 5158372 Pronto -> Exec
+846 : Processo 5158372 Exec -> Pronto por tempo
+847 : Processo 5158372 Pronto -> Exec
+848 : Processo 5158372 Exec -> Pronto por tempo
+849 : Processo 5158372 Pronto -> Exec
+850 : Processo 5158372 Exec -> Pronto por tempo
+851 : Processo 5158372 Pronto -> Exec
+852 : Processo 5158372 Exec -> Pronto por tempo
+853 : Processo 5158372 Pronto -> Exec
+854 : Processo 5158372 Exec -> Pronto por tempo
+855 : Processo 5158372 Pronto -> Exec
+856 : Processo 5158372 Exec -> Pronto por tempo
+857 : Processo 5158372 Pronto -> Exec
+858 : Processo 5158372 Exec -> Pronto por tempo
+859 : Processo 5158372 Pronto -> Exec
+860 : Processo 5158372 Exec -> Pronto por tempo
+861 : Processo 5158372 Pronto -> Exec
+862 : Processo 5158372 Exec -> Pronto por tempo
+863 : Processo 5158372 Pronto -> Exec
+864 : Processo 5158372 Exec -> Pronto por tempo
+865 : Processo 5158372 Pronto -> Exec
+866 : Processo 5158372 Exec -> Pronto por tempo
+867 : Processo 5158372 Pronto -> Exec
+868 : Processo 5158372 Exec -> Pronto por tempo
+869 : Processo 5158372 Pronto -> Exec
+870 : Processo 5158372 Exec -> Pronto por tempo
+871 : Processo 5158372 Pronto -> Exec
+872 : Processo 5158372 Exec -> Pronto por tempo
+873 : Processo 5158372 Pronto -> Exec
+874 : Processo 5158372 Exec -> Pronto por tempo
+875 : Processo 5158372 Pronto -> Exec
+876 : Processo 5158372 Exec -> Pronto por tempo
+877 : Processo 5158372 Pronto -> Exec
+878 : Processo 5158372 Exec -> Pronto por tempo
+879 : Processo 5158372 Pronto -> Exec
+880 : Processo 5158372 Exec -> Pronto por tempo
+881 : Processo 5158372 Pronto -> Exec
+882 : Processo 5158372 Exec -> Pronto por tempo
+883 : Processo 5158372 Pronto -> Exec
+884 : Processo 5158372 Exec -> Pronto por tempo
+885 : Processo 5158372 Pronto -> Exec
+886 : Processo 5158372 Exec -> Pronto por tempo
+887 : Processo 5158372 Pronto -> Exec
+888 : Processo 5158372 Exec -> Pronto por tempo
+889 : Processo 5158372 Pronto -> Exec
+890 : Processo 5158372 Exec -> Pronto por tempo
+891 : Processo 5158372 Pronto -> Exec
+892 : Processo 5158372 Exec -> Pronto por tempo
+893 : Processo 5158372 Pronto -> Exec
+894 : Processo 5158372 Exec -> Pronto por tempo
+895 : Processo 5158372 Pronto -> Exec
+896 : Processo 5158372 Exec -> Pronto por tempo
+897 : Processo 5158372 Pronto -> Exec
+898 : Processo 5158372 Exec -> Pronto por tempo
+899 : Processo 5158372 Pronto -> Exec
+900 : Processo 5158372 Exec -> Pronto por tempo
+901 : Processo 5158372 Pronto -> Exec
+902 : Processo 5158372 Exec -> Pronto por tempo
+903 : Processo 5158372 Pronto -> Exec
+904 : Processo 5158372 Exec -> Pronto por tempo
+905 : Processo 5158372 Pronto -> Exec
+906 : Processo 5158372 Exec -> Pronto por tempo
+907 : Processo 5158372 Pronto -> Exec
+908 : Processo 5158372 Exec -> Pronto por tempo
+909 : Processo 5158372 Pronto -> Exec
+910 : Processo 5158372 Exec -> Pronto por tempo
+911 : Processo 5158372 Pronto -> Exec
+912 : Processo 5158372 Exec -> Pronto por tempo
+913 : Processo 5158372 Pronto -> Exec
+914 : Processo 5158372 Exec -> Pronto por tempo
+915 : Processo 5158372 Pronto -> Exec
+916 : Processo 5158372 Exec -> Pronto por tempo
+917 : Processo 5158372 Pronto -> Exec
+918 : Processo 5158372 Exec -> Pronto por tempo
+919 : Processo 5158372 Pronto -> Exec
+920 : Processo 5158372 Exec -> Pronto por tempo
+921 : Processo 5158372 Pronto -> Exec
+922 : Processo 5158372 Exec -> Pronto por tempo
+923 : Processo 5158372 Pronto -> Exec
+924 : Processo 5158372 Exec -> Pronto por tempo
+925 : Processo 5158372 Pronto -> Exec
+926 : Processo 5158372 Exec -> Pronto por tempo
+927 : Processo 5158372 Pronto -> Exec
+928 : Processo 5158372 Exec -> Pronto por tempo
+929 : Processo 5158372 Pronto -> Exec
+930 : Processo 5158372 Exec -> Pronto por tempo
+931 : Processo 5158372 Pronto -> Exec
+932 : Processo 5158372 Exec -> Pronto por tempo
+933 : Processo 5158372 Pronto -> Exec
+934 : Processo 5158372 Exec -> Pronto por tempo
+935 : Processo 5158372 Pronto -> Exec
+936 : Processo 5158372 Exec -> Pronto por tempo
+937 : Processo 5158372 Pronto -> Exec
+938 : Processo 5158372 Exec -> Pronto por tempo
+939 : Processo 5158372 Pronto -> Exec
+940 : Processo 5158372 Exec -> Pronto por tempo
+941 : Processo 5158372 Pronto -> Exec
+942 : Processo 5158372 Exec -> Pronto por tempo
+943 : Processo 5158372 Pronto -> Exec
+944 : Processo 5158372 Exec -> Pronto por tempo
+945 : Processo 5158372 Pronto -> Exec
+946 : Processo 5158372 Exec -> Pronto por tempo
+947 : Processo 5158372 Pronto -> Exec
+948 : Processo 5158372 Exec -> Pronto por tempo
+949 : Processo 5158372 Pronto -> Exec
+950 : Processo 5158372 Exec -> Pronto por tempo
+951 : Processo 5158372 Pronto -> Exec
+952 : Processo 5158372 Exec -> Pronto por tempo
+953 : Processo 5158372 Pronto -> Exec
+954 : Processo 5158372 Exec -> Pronto por tempo
+955 : Processo 5158372 Pronto -> Exec
+956 : Processo 5158372 Exec -> Pronto por tempo
+957 : Processo 5158372 Pronto -> Exec
+958 : Processo 5158372 Exec -> Pronto por tempo
+959 : Processo 5158372 Pronto -> Exec
+960 : Processo 5158372 Exec -> Pronto por tempo
+961 : Processo 5158372 Pronto -> Exec
+962 : Processo 5158372 Exec -> Pronto por tempo
+963 : Processo 5158372 Pronto -> Exec
+964 : Processo 5158372 Exec -> Pronto por tempo
+965 : Processo 5158372 Pronto -> Exec
+966 : Processo 5158372 Exec -> Pronto por tempo
+967 : Processo 5158372 Pronto -> Exec
+968 : Processo 5158372 Exec -> Pronto por tempo
+969 : Processo 5158372 Pronto -> Exec
+970 : Processo 5158372 Exec -> Pronto por tempo
+971 : Processo 5158372 Pronto -> Exec
+972 : Processo 5158372 Exec -> Pronto por tempo
+973 : Processo 5158372 Pronto -> Exec
+974 : Processo 5158372 Exec -> Pronto por tempo
+975 : Processo 5158372 Pronto -> Exec
+976 : Processo 5158372 Exec -> Pronto por tempo
+977 : Processo 5158372 Pronto -> Exec
+978 : Processo 5158372 Exec -> Pronto por tempo
+979 : Processo 5158372 Pronto -> Exec
+980 : Processo 5158372 Exec -> Pronto por tempo
+981 : Processo 5158372 Pronto -> Exec
+982 : Processo 5158372 Exec -> Pronto por tempo
+983 : Processo 5158372 Pronto -> Exec
+984 : Processo 5158372 Exec -> Pronto por tempo
+985 : Processo 5158372 Pronto -> Exec
+986 : Processo 5158372 Exec -> Pronto por tempo
+987 : Processo 5158372 Pronto -> Exec
+988 : Processo 5158372 Exec -> Pronto por tempo
+989 : Processo 5158372 Pronto -> Exec
+990 : Processo 5158372 Exec -> Pronto por tempo
+991 : Processo 5158372 Pronto -> Exec
+992 : Processo 5158372 Exec -> Pronto por tempo
+993 : Processo 5158372 Pronto -> Exec
+994 : Processo 5158372 Exec -> Pronto por tempo
+995 : Processo 5158372 Pronto -> Exec
+996 : Processo 5158372 Exec -> Pronto por tempo
+997 : Processo 5158372 Pronto -> Exec
+998 : Processo 5158372 Exec -> Pronto por tempo
+999 : Processo 5158372 Pronto -> Exec
+1000 : Processo 5158372 Exec -> Pronto por tempo
+1001 : Processo 5158372 Pronto -> Exec
+1002 : Processo 5158372 Exec -> Pronto por tempo
+1003 : Processo 5158372 Pronto -> Exec
+1004 : Processo 5158372 Exec -> Pronto por tempo
+1005 : Processo 5158372 Pronto -> Exec
+1006 : Processo 5158372 Exec -> Pronto por tempo
+1007 : Processo 5158372 Pronto -> Exec
+1008 : Processo 5158372 Exec -> Pronto por tempo
+1009 : Processo 5158372 Pronto -> Exec
+1010 : Processo 5158372 Exec -> Pronto por tempo
+1011 : Processo 5158372 Pronto -> Exec
+1012 : Processo 5158372 Exec -> Pronto por tempo
+1013 : Processo 5158372 Pronto -> Exec
+1014 : Processo 5158372 Exec -> Pronto por tempo
+1015 : Processo 5158372 Pronto -> Exec
+1016 : Processo 5158372 Exec -> Pronto por tempo
+1017 : Processo 5158372 Pronto -> Exec
+1018 : Processo 5158372 Exec -> Pronto por tempo
+1019 : Processo 5158372 Pronto -> Exec
+1020 : Processo 5158372 Exec -> Pronto por tempo
+1021 : Processo 5158372 Pronto -> Exec
+1022 : Processo 5158372 Exec -> Pronto por tempo
+1023 : Processo 5158372 Pronto -> Exec
+1024 : Processo 5158372 Exec -> Pronto por tempo
+1025 : Processo 5158372 Pronto -> Exec
+1026 : Processo 5158372 Exec -> Pronto por tempo
+1027 : Processo 5158372 Pronto -> Exec
+1028 : Processo 5158372 Exec -> Pronto por tempo
+1029 : Processo 5158372 Pronto -> Exec
+1030 : Processo 5158372 Exec -> Pronto por tempo
+1031 : Processo 5158372 Pronto -> Exec
+1032 : Processo 5158372 Exec -> Pronto por tempo
+1033 : Processo 5158372 Pronto -> Exec
+1034 : Processo 5158372 Exec -> Pronto por tempo
+1035 : Processo 5158372 Pronto -> Exec
+1036 : Processo 5158372 Exec -> Pronto por tempo
+1037 : Processo 5158372 Pronto -> Exec
+1038 : Processo 5158372 Exec -> Pronto por tempo
+1039 : Processo 5158372 Pronto -> Exec
+1040 : Processo 5158372 Exec -> Pronto por tempo
+1041 : Processo 5158372 Pronto -> Exec
+1042 : Processo 5158372 Exec -> Pronto por tempo
+1043 : Processo 5158372 Pronto -> Exec
+1044 : Processo 5158372 Exec -> Pronto por tempo
+1045 : Processo 5158372 Pronto -> Exec
+1046 : Processo 5158372 Exec -> Pronto por tempo
+1047 : Processo 5158372 Pronto -> Exec
+1048 : Processo 5158372 Exec -> Pronto por tempo
+1049 : Processo 5158372 Pronto -> Exec
+1050 : Processo 5158372 Exec -> Pronto por tempo
+1051 : Processo 5158372 Pronto -> Exec
+1052 : Processo 5158372 Exec -> Pronto por tempo
+1053 : Processo 5158372 Pronto -> Exec
+1054 : Processo 5158372 Exec -> Pronto por tempo
+1055 : Processo 5158372 Pronto -> Exec
+1056 : Processo 5158372 Exec -> Pronto por tempo
+1057 : Processo 5158372 Pronto -> Exec
+1058 : Processo 5158372 Exec -> Pronto por tempo
+1059 : Processo 5158372 Pronto -> Exec
+1060 : Processo 5158372 Exec -> Pronto por tempo
+1061 : Processo 5158372 Pronto -> Exec
+1062 : Processo 5158372 Exec -> Pronto por tempo
+1063 : Processo 5158372 Pronto -> Exec
+1064 : Processo 5158372 Exec -> Pronto por tempo
+1065 : Processo 5158372 Pronto -> Exec
+1066 : Processo 5158372 Exec -> Pronto por tempo
+1067 : Processo 5158372 Pronto -> Exec
+1068 : Processo 5158372 Exec -> Pronto por tempo
+1069 : Processo 5158372 Pronto -> Exec
+1070 : Processo 5158372 Exec -> Pronto por tempo
+1071 : Processo 5158372 Pronto -> Exec
+1072 : Processo 5158372 Exec -> Pronto por tempo
+1073 : Processo 5158372 Pronto -> Exec
+1074 : Processo 5158372 Exec -> Pronto por tempo
+1075 : Processo 5158372 Pronto -> Exec
+1076 : Processo 5158372 Exec -> Pronto por tempo
+1077 : Processo 5158372 Pronto -> Exec
+1078 : Processo 5158372 Exec -> Pronto por tempo
+1079 : Processo 5158372 Pronto -> Exec
+1080 : Processo 5158372 Exec -> Pronto por tempo
+1081 : Processo 5158372 Pronto -> Exec
+1082 : Processo 5158372 Exec -> Pronto por tempo
+1083 : Processo 5158372 Pronto -> Exec
+1084 : Processo 5158372 Exec -> Pronto por tempo
+1085 : Processo 5158372 Pronto -> Exec
+1086 : Processo 5158372 Exec -> Pronto por tempo
+1087 : Processo 5158372 Pronto -> Exec
+1088 : Processo 5158372 Exec -> Pronto por tempo
+1089 : Processo 5158372 Pronto -> Exec
+1090 : Processo 5158372 Exec -> Pronto por tempo
+1091 : Processo 5158372 Pronto -> Exec
+1092 : Processo 5158372 Exec -> Pronto por tempo
+1093 : Processo 5158372 Pronto -> Exec
+1094 : Processo 5158372 Exec -> Pronto por tempo
+1095 : Processo 5158372 Pronto -> Exec
+1096 : Processo 5158372 Exec -> Pronto por tempo
+1097 : Processo 5158372 Pronto -> Exec
+1098 : Processo 5158372 Exec -> Pronto por tempo
+1099 : Processo 5158372 Pronto -> Exec
+1100 : Processo 5158372 Exec -> Pronto por tempo
+1101 : Processo 5158372 Pronto -> Exec
+1102 : Processo 5158372 Exec -> Pronto por tempo
+1103 : Processo 5158372 Pronto -> Exec
+1104 : Processo 5158372 Exec -> Pronto por tempo
+1105 : Processo 5158372 Pronto -> Exec
+1106 : Processo 5158372 Exec -> Pronto por tempo
+1107 : Processo 5158372 Pronto -> Exec
+1108 : Processo 5158372 Exec -> Pronto por tempo
+1109 : Processo 5158372 Pronto -> Exec
+1110 : Processo 5158372 Exec -> Pronto por tempo
+1111 : Processo 5158372 Pronto -> Exec
+1112 : Processo 5158372 Exec -> Pronto por tempo
+1113 : Processo 5158372 Pronto -> Exec
+1114 : Processo 5158372 Exec -> Pronto por tempo
+1115 : Processo 5158372 Pronto -> Exec
+1116 : Processo 5158372 Exec -> Pronto por tempo
+1117 : Processo 5158372 Pronto -> Exec
+1118 : Processo 5158372 Exec -> Pronto por tempo
+1119 : Processo 5158372 Pronto -> Exec
+1120 : Processo 5158372 Exec -> Pronto por tempo
+1121 : Processo 5158372 Pronto -> Exec
+1122 : Processo 5158372 Exec -> Pronto por tempo
+1123 : Processo 5158372 Pronto -> Exec
+1124 : Processo 5158372 Exec -> Pronto por tempo
+1125 : Processo 5158372 Pronto -> Exec
+1126 : Processo 5158372 Exec -> Pronto por tempo
+1127 : Processo 5158372 Pronto -> Exec
+1128 : Processo 5158372 Exec -> Pronto por tempo
+1129 : Processo 5158372 Pronto -> Exec
+1130 : Processo 5158372 Exec -> Pronto por tempo
+1131 : Processo 5158372 Pronto -> Exec
+1132 : Processo 5158372 Exec -> Pronto por tempo
+1133 : Processo 5158372 Pronto -> Exec
+1134 : Processo 5158372 Exec -> Pronto por tempo
+1135 : Processo 5158372 Pronto -> Exec
+1136 : Processo 5158372 Exec -> Pronto por tempo
+1137 : Processo 5158372 Pronto -> Exec
+1138 : Processo 5158372 Exec -> Pronto por tempo
+1139 : Processo 5158372 Pronto -> Exec
+1140 : Processo 5158372 Exec -> Pronto por tempo
+1141 : Processo 5158372 Pronto -> Exec
+1142 : Processo 5158372 Exec -> Pronto por tempo
+1143 : Processo 5158372 Pronto -> Exec
+1144 : Processo 5158372 Exec -> Pronto por tempo
+1145 : Processo 5158372 Pronto -> Exec
+1146 : Processo 5158372 Exec -> Pronto por tempo
+1147 : Processo 5158372 Pronto -> Exec
+1148 : Processo 5158372 Exec -> Pronto por tempo
+1149 : Processo 5158372 Pronto -> Exec
+1150 : Processo 5158372 Exec -> Pronto por tempo
+1151 : Processo 5158372 Pronto -> Exec
+1152 : Processo 5158372 Exec -> Pronto por tempo
+1153 : Processo 5158372 Pronto -> Exec
+1154 : Processo 5158372 Exec -> Pronto por tempo
+1155 : Processo 5158372 Pronto -> Exec
+1156 : Processo 5158372 Exec -> Pronto por tempo
+1157 : Processo 5158372 Pronto -> Exec
+1158 : Processo 5158372 Exec -> Pronto por tempo
+1159 : Processo 5158372 Pronto -> Exec
+1160 : Processo 5158372 Exec -> Pronto por tempo
+1161 : Processo 5158372 Pronto -> Exec
+1162 : Processo 5158372 Exec -> Pronto por tempo
+1163 : Processo 5158372 Pronto -> Exec
+1164 : Processo 5158372 Exec -> Pronto por tempo
+1165 : Processo 5158372 Pronto -> Exec
+1166 : Processo 5158372 Exec -> Pronto por tempo
+1167 : Processo 5158372 Pronto -> Exec
+1168 : Processo 5158372 Exec -> Pronto por tempo
+1169 : Processo 5158372 Pronto -> Exec
+1170 : Processo 5158372 Exec -> Pronto por tempo
+1171 : Processo 5158372 Pronto -> Exec
+1172 : Processo 5158372 Exec -> Pronto por tempo
+1173 : Processo 5158372 Pronto -> Exec
+1174 : Processo 5158372 Exec -> Pronto por tempo
+1175 : Processo 5158372 Pronto -> Exec
+1176 : Processo 5158372 Exec -> Pronto por tempo
+1177 : Processo 5158372 Pronto -> Exec
+1178 : Processo 5158372 Exec -> Pronto por tempo
+1179 : Processo 5158372 Pronto -> Exec
+1180 : Processo 5158372 Exec -> Pronto por tempo
+1181 : Processo 5158372 Pronto -> Exec
+1182 : Processo 5158372 Exec -> Pronto por tempo
+1183 : Processo 5158372 Pronto -> Exec
+1184 : Processo 5158372 Exec -> Pronto por tempo
+1185 : Processo 5158372 Pronto -> Exec
+1186 : Processo 5158372 Exec -> Pronto por tempo
+1187 : Processo 5158372 Pronto -> Exec
+1188 : Processo 5158372 Exec -> Pronto por tempo
+1189 : Processo 5158372 Pronto -> Exec
+1190 : Processo 5158372 Exec -> Pronto por tempo
+1191 : Processo 5158372 Pronto -> Exec
+1192 : Processo 5158372 Exec -> Pronto por tempo
+1193 : Processo 5158372 Pronto -> Exec
+1194 : Processo 5158372 Exec -> Pronto por tempo
+1195 : Processo 5158372 Pronto -> Exec
+1196 : Processo 5158372 Exec -> Pronto por tempo
+1197 : Processo 5158372 Pronto -> Exec
+1198 : Processo 5158372 Exec -> Pronto por tempo
+1199 : Processo 5158372 Pronto -> Exec
+1200 : Processo 5158372 Exec -> Pronto por tempo
+1201 : Processo 5158372 Pronto -> Exec
+1202 : Processo 5158372 Exec -> Pronto por tempo
+1203 : Processo 5158372 Pronto -> Exec
+1204 : Processo 5158372 Exec -> Pronto por tempo
+1205 : Processo 5158372 Pronto -> Exec
+1206 : Processo 5158372 Exec -> Pronto por tempo
+1207 : Processo 5158372 Pronto -> Exec
+1208 : Processo 5158372 Exec -> Pronto por tempo
+1209 : Processo 5158372 Pronto -> Exec
+1210 : Processo 5158372 Exec -> Pronto por tempo
+1211 : Processo 5158372 Pronto -> Exec
+1212 : Processo 5158372 Exec -> Pronto por tempo
+1213 : Processo 5158372 Pronto -> Exec
+1214 : Processo 5158372 Exec -> Pronto por tempo
+1215 : Processo 5158372 Pronto -> Exec
+1216 : Processo 5158372 Exec -> Pronto por tempo
+1217 : Processo 5158372 Pronto -> Exec
+1218 : Processo 5158372 Exec -> Pronto por tempo
+1219 : Processo 5158372 Pronto -> Exec
+1220 : Processo 5158372 Exec -> Pronto por tempo
+1221 : Processo 5158372 Pronto -> Exec
+1222 : Processo 5158372 Exec -> Pronto por tempo
+1223 : Processo 5158372 Pronto -> Exec
+1224 : Processo 5158372 Exec -> Pronto por tempo
+1225 : Processo 5158372 Pronto -> Exec
+1226 : Processo 5158372 Exec -> Pronto por tempo
+1227 : Processo 5158372 Pronto -> Exec
+1228 : Processo 5158372 Exec -> Pronto por tempo
+1229 : Processo 5158372 Pronto -> Exec
+1230 : Processo 5158372 Exec -> Pronto por tempo
+1231 : Processo 5158372 Pronto -> Exec
+1232 : Processo 5158372 Exec -> Pronto por tempo
+1233 : Processo 5158372 Pronto -> Exec
+1234 : Processo 5158372 Exec -> Pronto por tempo
+1235 : Processo 5158372 Pronto -> Exec
+1236 : Processo 5158372 Exec -> Pronto por tempo
+1237 : Processo 5158372 Pronto -> Exec
+1238 : Processo 5158372 Exec -> Pronto por tempo
+1239 : Processo 5158372 Pronto -> Exec
+1240 : Processo 5158372 Exec -> Pronto por tempo
+1241 : Processo 5158372 Pronto -> Exec
+1242 : Processo 5158372 Exec -> Pronto por tempo
+1243 : Processo 5158372 Pronto -> Exec
+1244 : Processo 5158372 Exec -> Pronto por tempo
+1245 : Processo 5158372 Pronto -> Exec
+1246 : Processo 5158372 Exec -> Pronto por tempo
+1247 : Processo 5158372 Pronto -> Exec
+1248 : Processo 5158372 Exec -> Pronto por tempo
+1249 : Processo 5158372 Pronto -> Exec
+1250 : Processo 5158372 Exec -> Pronto por tempo
+1251 : Processo 5158372 Pronto -> Exec
+1252 : Processo 5158372 Exec -> Pronto por tempo
+1253 : Processo 5158372 Pronto -> Exec
+1254 : Processo 5158372 Exec -> Pronto por tempo
+1255 : Processo 5158372 Pronto -> Exec
+1256 : Processo 5158372 Exec -> Pronto por tempo
+1257 : Processo 5158372 Pronto -> Exec
+1258 : Processo 5158372 Exec -> Pronto por tempo
+1259 : Processo 5158372 Pronto -> Exec
+1260 : Processo 5158372 Exec -> Pronto por tempo
+1261 : Processo 5158372 Pronto -> Exec
+1262 : Processo 5158372 Exec -> Pronto por tempo
+1263 : Processo 5158372 Pronto -> Exec
+1264 : Processo 5158372 Exec -> Pronto por tempo
+1265 : Processo 5158372 Pronto -> Exec
+1266 : Processo 5158372 Exec -> Pronto por tempo
+1267 : Processo 5158372 Pronto -> Exec
+1268 : Processo 5158372 Exec -> Pronto por tempo
+1269 : Processo 5158372 Pronto -> Exec
+1270 : Processo 5158372 Exec -> Pronto por tempo
+1271 : Processo 5158372 Pronto -> Exec
+1272 : Processo 5158372 Exec -> Pronto por tempo
+1273 : Processo 5158372 Pronto -> Exec
+1274 : Processo 5158372 Exec -> Pronto por tempo
+1275 : Processo 5158372 Pronto -> Exec
+1276 : Processo 5158372 Exec -> Pronto por tempo
+1277 : Processo 5158372 Pronto -> Exec
+1278 : Processo 5158372 Exec -> Pronto por tempo
+1279 : Processo 5158372 Pronto -> Exec
+1280 : Processo 5158372 Exec -> Pronto por tempo
+1281 : Processo 5158372 Pronto -> Exec
+1282 : Processo 5158372 Exec -> Pronto por tempo
+1283 : Processo 5158372 Pronto -> Exec
+1284 : Processo 5158372 Exec -> Pronto por tempo
+1285 : Processo 5158372 Pronto -> Exec
+1286 : Processo 5158372 Exec -> Pronto por tempo
+1287 : Processo 5158372 Pronto -> Exec
+1288 : Processo 5158372 Exec -> Pronto por tempo
+1289 : Processo 5158372 Pronto -> Exec
+1290 : Processo 5158372 Exec -> Pronto por tempo
+1291 : Processo 5158372 Pronto -> Exec
+1292 : Processo 5158372 Exec -> Pronto por tempo
+1293 : Processo 5158372 Pronto -> Exec
+1294 : Processo 5158372 Exec -> Pronto por tempo
+1295 : Processo 5158372 Pronto -> Exec
+1296 : Processo 5158372 Exec -> Pronto por tempo
+1297 : Processo 5158372 Pronto -> Exec
+1298 : Processo 5158372 Exec -> Pronto por tempo
+1299 : Processo 5158372 Pronto -> Exec
+1300 : Processo 5158372 Exec -> Pronto por tempo
+1301 : Processo 5158372 Pronto -> Exec
+1302 : Processo 5158372 Exec -> Pronto por tempo
+1303 : Processo 5158372 Pronto -> Exec
+1304 : Processo 5158372 Exec -> Pronto por tempo
+1305 : Processo 5158372 Pronto -> Exec
+1306 : Processo 5158372 Exec -> Pronto por tempo
+1307 : Processo 5158372 Pronto -> Exec
+1308 : Processo 5158372 Exec -> Pronto por tempo
+1309 : Processo 5158372 Pronto -> Exec
+1310 : Processo 5158372 Exec -> Pronto por tempo
+1311 : Processo 5158372 Pronto -> Exec
+1312 : Processo 5158372 Exec -> Pronto por tempo
+1313 : Processo 5158372 Pronto -> Exec
+1314 : Processo 5158372 Exec -> Pronto por tempo
+1315 : Processo 5158372 Pronto -> Exec
+1316 : Processo 5158372 Exec -> Pronto por tempo
+1317 : Processo 5158372 Pronto -> Exec
+1318 : Processo 5158372 Exec -> Pronto por tempo
+1319 : Processo 5158372 Pronto -> Exec
+1320 : Processo 5158372 Exec -> Pronto por tempo
+1321 : Processo 5158372 Pronto -> Exec
+1322 : Processo 5158372 Exec -> Pronto por tempo
+1323 : Processo 5158372 Pronto -> Exec
+1324 : Processo 5158372 Exec -> Pronto por tempo
+1325 : Processo 5158372 Pronto -> Exec
+1326 : Processo 5158372 Exec -> Pronto por tempo
+1327 : Processo 5158372 Pronto -> Exec
+1328 : Processo 5158372 Exec -> Pronto por tempo
+1329 : Processo 5158372 Pronto -> Exec
+1330 : Processo 5158372 Exec -> Pronto por tempo
+1331 : Processo 5158372 Pronto -> Exec
+1332 : Processo 5158372 Exec -> Pronto por tempo
+1333 : Processo 5158372 Pronto -> Exec
+1334 : Processo 5158372 Exec -> Pronto por tempo
+1335 : Processo 5158372 Pronto -> Exec
+1336 : Processo 5158372 Exec -> Pronto por tempo
+1337 : Processo 5158372 Pronto -> Exec
+1338 : Processo 5158372 Exec -> Pronto por tempo
+1339 : Processo 5158372 Pronto -> Exec
+1340 : Processo 5158372 Exec -> Pronto por tempo
+1341 : Processo 5158372 Pronto -> Exec
+1342 : Processo 5158372 Exec -> Pronto por tempo
+1343 : Processo 5158372 Pronto -> Exec
+1344 : Processo 5158372 Exec -> Pronto por tempo
+1345 : Processo 5158372 Pronto -> Exec
+1346 : Processo 5158372 Exec -> Pronto por tempo
+1347 : Processo 5158372 Pronto -> Exec
+1348 : Processo 5158372 Exec -> Pronto por tempo
+1349 : Processo 5158372 Pronto -> Exec
+1350 : Processo 5158372 Exec -> Pronto por tempo
+1351 : Processo 5158372 Pronto -> Exec
+1352 : Processo 5158372 Exec -> Pronto por tempo
+1353 : Processo 5158372 Pronto -> Exec
+1354 : Processo 5158372 Exec -> Pronto por tempo
+1355 : Processo 5158372 Pronto -> Exec
+1356 : Processo 5158372 Exec -> Pronto por tempo
+1357 : Processo 5158372 Pronto -> Exec
+1358 : Processo 5158372 Exec -> Pronto por tempo
+1359 : Processo 5158372 Pronto -> Exec
+1360 : Processo 5158372 Exec -> Pronto por tempo
+1361 : Processo 5158372 Pronto -> Exec
+1362 : Processo 5158372 Exec -> Pronto por tempo
+1363 : Processo 5158372 Pronto -> Exec
+1364 : Processo 5158372 Exec -> Pronto por tempo
+1365 : Processo 5158372 Pronto -> Exec
+1366 : Processo 5158372 Exec -> Pronto por tempo
+1367 : Processo 5158372 Pronto -> Exec
+1370 : Processo 5158372 Exec -> Pronto por tempo
+1371 : Processo 5158372 Pronto -> Exec
+1372 : Processo 5158372 Exec -> Pronto por tempo
+1373 : Processo 5158372 Pronto -> Exec
+1374 : Processo 5158372 Exec -> Pronto por tempo
+1375 : Processo 5158372 Pronto -> Exec
+1376 : Processo 5158372 Exec -> Pronto por tempo
+1377 : Processo 5158372 Pronto -> Exec
+1378 : Processo 5158372 Exec -> Pronto por tempo
+1379 : Processo 5158372 Pronto -> Exec
+1380 : Processo 5158372 Exec -> Pronto por tempo
+1381 : Processo 5158372 Pronto -> Exec
+1382 : Processo 5158372 Exec -> Pronto por tempo
+1383 : Processo 5158372 Pronto -> Exec
+1384 : Processo 5158372 Exec -> Pronto por tempo
+1385 : Processo 5158372 Pronto -> Exec
+1386 : Processo 5158372 Exec -> Pronto por tempo
+1387 : Processo 5158372 Pronto -> Exec
+1388 : Processo 5158372 Exec -> Pronto por tempo
+1389 : Processo 5158372 Pronto -> Exec
+1390 : Processo 5158372 Exec -> Pronto por tempo
+1391 : Processo 5158372 Pronto -> Exec
+1392 : Processo 5158372 Exec -> Pronto por tempo
+1393 : Processo 5158372 Pronto -> Exec
+1394 : Processo 5158372 Exec -> Pronto por tempo
+1395 : Processo 5158372 Pronto -> Exec
+1396 : Processo 5158372 Exec -> Pronto por tempo
+1397 : Processo 5158372 Pronto -> Exec
+1398 : Processo 5158372 Exec -> Pronto por tempo
+1399 : Processo 5158372 Pronto -> Exec
+1400 : Processo 5158372 Exec -> Pronto por tempo
+1401 : Processo 5158372 Pronto -> Exec
+1402 : Processo 5158372 Exec -> Pronto por tempo
+1403 : Processo 5158372 Pronto -> Exec
+1404 : Processo 5158372 Exec -> Pronto por tempo
+1405 : Processo 5158372 Pronto -> Exec
+1406 : Processo 5158372 Exec -> Pronto por tempo
+1407 : Processo 5158372 Pronto -> Exec
+1408 : Processo 5158372 Exec -> Pronto por tempo
+1409 : Processo 5158372 Pronto -> Exec
+1410 : Processo 5158372 Exec -> Pronto por tempo
+1411 : Processo 5158372 Pronto -> Exec
+1412 : Processo 5158372 Exec -> Pronto por tempo
+1413 : Processo 5158372 Pronto -> Exec
+1414 : Processo 5158372 Exec -> Pronto por tempo
+1415 : Processo 5158372 Pronto -> Exec
+1416 : Processo 5158372 Exec -> Pronto por tempo
+1417 : Processo 5158372 Pronto -> Exec
+1418 : Processo 5158372 Exec -> Pronto por tempo
+1419 : Processo 5158372 Pronto -> Exec
+1420 : Processo 5158372 Exec -> Pronto por tempo
+1421 : Processo 5158372 Pronto -> Exec
+1422 : Processo 5158372 Exec -> Pronto por tempo
+1423 : Processo 5158372 Pronto -> Exec
+1424 : Processo 5158372 Exec -> Pronto por tempo
+1425 : Processo 5158372 Pronto -> Exec
+1426 : Processo 5158372 Exec -> Pronto por tempo
+1427 : Processo 5158372 Pronto -> Exec
+1428 : Processo 5158372 Exec -> Pronto por tempo
+1429 : Processo 5158372 Pronto -> Exec
+1430 : Processo 5158372 Exec -> Pronto por tempo
+1431 : Processo 5158372 Pronto -> Exec
+1432 : Processo 5158372 Exec -> Pronto por tempo
+1433 : Processo 5158372 Pronto -> Exec
+1434 : Processo 5158372 Exec -> Pronto por tempo
+1435 : Processo 5158372 Pronto -> Exec
+1436 : Processo 5158372 Exec -> Pronto por tempo
+1437 : Processo 5158372 Pronto -> Exec
+1438 : Processo 5158372 Exec -> Pronto por tempo
+1439 : Processo 5158372 Pronto -> Exec
+1440 : Processo 5158372 Exec -> Pronto por tempo
+1441 : Processo 5158372 Pronto -> Exec
+1442 : Processo 5158372 Exec -> Pronto por tempo
+1443 : Processo 5158372 Pronto -> Exec
+1444 : Processo 5158372 Exec -> Pronto por tempo
+1445 : Processo 5158372 Pronto -> Exec
+1446 : Processo 5158372 Exec -> Pronto por tempo
+1447 : Processo 5158372 Pronto -> Exec
+1448 : Processo 5158372 Exec -> Pronto por tempo
+1449 : Processo 5158372 Pronto -> Exec
+1450 : Processo 5158372 Exec -> Pronto por tempo
+1451 : Processo 5158372 Pronto -> Exec
+1452 : Processo 5158372 Exec -> Pronto por tempo
+1453 : Processo 5158372 Pronto -> Exec
+1454 : Processo 5158372 Exec -> Pronto por tempo
+1455 : Processo 5158372 Pronto -> Exec
+1456 : Processo 5158372 Exec -> Pronto por tempo
+1457 : Processo 5158372 Pronto -> Exec
+1458 : Processo 5158372 Exec -> Pronto por tempo
+1459 : Processo 5158372 Pronto -> Exec
+1460 : Processo 5158372 Exec -> Pronto por tempo
+1461 : Processo 5158372 Pronto -> Exec
+1462 : Processo 5158372 Exec -> Pronto por tempo
+1463 : Processo 5158372 Pronto -> Exec
+1464 : Processo 5158372 Exec -> Pronto por tempo
+1465 : Processo 5158372 Pronto -> Exec
+1466 : Processo 5158372 Exec -> Pronto por tempo
+1467 : Processo 5158372 Pronto -> Exec
+1468 : Processo 5158372 Exec -> Pronto por tempo
+1469 : Processo 5158372 Pronto -> Exec
+1470 : Processo 5158372 Exec -> Pronto por tempo
+1471 : Processo 5158372 Pronto -> Exec
+1472 : Processo 5158372 Exec -> Pronto por tempo
+1473 : Processo 5158372 Pronto -> Exec
+1474 : Processo 5158372 Exec -> Pronto por tempo
+1475 : Processo 5158372 Pronto -> Exec
+1476 : Processo 5158372 Exec -> Pronto por tempo
+1477 : Processo 5158372 Pronto -> Exec
+1478 : Processo 5158372 Exec -> Pronto por tempo
+1479 : Processo 5158372 Pronto -> Exec
+1480 : Processo 5158372 Exec -> Pronto por tempo
+1481 : Processo 5158372 Pronto -> Exec
+1482 : Processo 5158372 Exec -> Pronto por tempo
+1483 : Processo 5158372 Pronto -> Exec
+1484 : Processo 5158372 Exec -> Pronto por tempo
+1485 : Processo 5158372 Pronto -> Exec
+1486 : Processo 5158372 Exec -> Pronto por tempo
+1487 : Processo 5158372 Pronto -> Exec
+1488 : Processo 5158372 Exec -> Pronto por tempo
+1489 : Processo 5158372 Pronto -> Exec
+1490 : Processo 5158372 Exec -> Pronto por tempo
+1491 : Processo 5158372 Pronto -> Exec
+1492 : Processo 5158372 Exec -> Pronto por tempo
+1493 : Processo 5158372 Pronto -> Exec
+1494 : Processo 5158372 Exec -> Pronto por tempo
+1495 : Processo 5158372 Pronto -> Exec
+1496 : Processo 5158372 Exec -> Pronto por tempo
+1497 : Processo 5158372 Pronto -> Exec
+1498 : Processo 5158372 Exec -> Pronto por tempo
+1499 : Processo 5158372 Pronto -> Exec
+1500 : Processo 5158372 Exec -> Pronto por tempo
+1501 : Processo 5158372 Pronto -> Exec
+1502 : Processo 5158372 Exec -> Pronto por tempo
+1503 : Processo 5158372 Pronto -> Exec
+1504 : Processo 5158372 Exec -> Pronto por tempo
+1505 : Processo 5158372 Pronto -> Exec
+1506 : Processo 5158372 Exec -> Pronto por tempo
+1507 : Processo 5158372 Pronto -> Exec
+1508 : Processo 5158372 Exec -> Pronto por tempo
+1509 : Processo 5158372 Pronto -> Exec
+1510 : Processo 5158372 Exec -> Pronto por tempo
+1511 : Processo 5158372 Pronto -> Exec
+1512 : Processo 5158372 Exec -> Pronto por tempo
+1513 : Processo 5158372 Pronto -> Exec
+1514 : Processo 5158372 Exec -> Pronto por tempo
+1515 : Processo 5158372 Pronto -> Exec
+1516 : Processo 5158372 Exec -> Pronto por tempo
+1517 : Processo 5158372 Pronto -> Exec
+1518 : Processo 5158372 Exec -> Pronto por tempo
+1519 : Processo 5158372 Pronto -> Exec
+1520 : Processo 5158372 Exec -> Pronto por tempo
+1521 : Processo 5158372 Pronto -> Exec
+1522 : Processo 5158372 Exec -> Pronto por tempo
+1523 : Processo 5158372 Pronto -> Exec
+1524 : Processo 5158372 Exec -> Pronto por tempo
+1525 : Processo 5158372 Pronto -> Exec
+1526 : Processo 5158372 Exec -> Pronto por tempo
+1527 : Processo 5158372 Pronto -> Exec
+1528 : Processo 5158372 Exec -> Pronto por tempo
+1529 : Processo 5158372 Pronto -> Exec
+1530 : Processo 5158372 Exec -> Pronto por tempo
+1531 : Processo 5158372 Pronto -> Exec
+1532 : Processo 5158372 Exec -> Pronto por tempo
+1533 : Processo 5158372 Pronto -> Exec
+1534 : Processo 5158372 Exec -> Pronto por tempo
+1535 : Processo 5158372 Pronto -> Exec
+1536 : Processo 5158372 Exec -> Pronto por tempo
+1537 : Processo 5158372 Pronto -> Exec
+1538 : Processo 5158372 Exec -> Pronto por tempo
+1539 : Processo 5158372 Pronto -> Exec
+1540 : Processo 5158372 Exec -> Pronto por tempo
+1541 : Processo 5158372 Pronto -> Exec
+1542 : Processo 5158372 Exec -> Pronto por tempo
+1543 : Processo 5158372 Pronto -> Exec
+1544 : Processo 5158372 Exec -> Pronto por tempo
+1545 : Processo 5158372 Pronto -> Exec
+1546 : Processo 5158372 Exec -> Pronto por tempo
+1547 : Processo 5158372 Pronto -> Exec
+1548 : Processo 5158372 Exec -> Pronto por tempo
+1549 : Processo 5158372 Pronto -> Exec
+1550 : Processo 5158372 Exec -> Pronto por tempo
+1551 : Processo 5158372 Pronto -> Exec
+1552 : Processo 5158372 Exec -> Pronto por tempo
+1553 : Processo 5158372 Pronto -> Exec
+1554 : Processo 5158372 Exec -> Pronto por tempo
+1555 : Processo 5158372 Pronto -> Exec
+1556 : Processo 5158372 Exec -> Pronto por tempo
+1557 : Processo 5158372 Pronto -> Exec
+1558 : Processo 5158372 Exec -> Pronto por tempo
+1559 : Processo 5158372 Pronto -> Exec
+1560 : Processo 5158372 Exec -> Pronto por tempo
+1561 : Processo 5158372 Pronto -> Exec
+1562 : Processo 5158372 Exec -> Pronto por tempo
+1563 : Processo 5158372 Pronto -> Exec
+1564 : Processo 5158372 Exec -> Pronto por tempo
+1565 : Processo 5158372 Pronto -> Exec
+1566 : Processo 5158372 Exec -> Pronto por tempo
+1567 : Processo 5158372 Pronto -> Exec
+1568 : Processo 5158372 Exec -> Pronto por tempo
+1569 : Processo 5158372 Pronto -> Exec
+1570 : Processo 5158372 Exec -> Pronto por tempo
+1571 : Processo 5158372 Pronto -> Exec
+1572 : Processo 5158372 Exec -> Pronto por tempo
+1573 : Processo 5158372 Pronto -> Exec
+1574 : Processo 5158372 Exec -> Pronto por tempo
+1575 : Processo 5158372 Pronto -> Exec
+1576 : Processo 5158372 Exec -> Pronto por tempo
+1577 : Processo 5158372 Pronto -> Exec
+1578 : Processo 5158372 Exec -> Pronto por tempo
+1579 : Processo 5158372 Pronto -> Exec
+1580 : Processo 5158372 Exec -> Pronto por tempo
+1581 : Processo 5158372 Pronto -> Exec
+1582 : Processo 5158372 Exec -> Pronto por tempo
+1583 : Processo 5158372 Pronto -> Exec
+1584 : Processo 5158372 Exec -> Pronto por tempo
+1585 : Processo 5158372 Pronto -> Exec
+1586 : Processo 5158372 Exec -> Pronto por tempo
+1587 : Processo 5158372 Pronto -> Exec
+1588 : Processo 5158372 Exec -> Pronto por tempo
+1589 : Processo 5158372 Pronto -> Exec
+1590 : Processo 5158372 Exec -> Pronto por tempo
+1591 : Processo 5158372 Pronto -> Exec
+1592 : Processo 5158372 Exec -> Pronto por tempo
+1593 : Processo 5158372 Pronto -> Exec
+1594 : Processo 5158372 Exec -> Pronto por tempo
+1595 : Processo 5158372 Pronto -> Exec
+1596 : Processo 5158372 Exec -> Pronto por tempo
+1597 : Processo 5158372 Pronto -> Exec
+1598 : Processo 5158372 Exec -> Pronto por tempo
+1599 : Processo 5158372 Pronto -> Exec
+1600 : Processo 5158372 Exec -> Pronto por tempo
+1601 : Processo 5158372 Pronto -> Exec
+1602 : Processo 5158372 Exec -> Pronto por tempo
+1603 : Processo 5158372 Pronto -> Exec
+1604 : Processo 5158372 Exec -> Pronto por tempo
+1605 : Processo 5158372 Pronto -> Exec
+1606 : Processo 5158372 Exec -> Pronto por tempo
+1607 : Processo 5158372 Pronto -> Exec
+1608 : Processo 5158372 Exec -> Pronto por tempo
+1609 : Processo 5158372 Pronto -> Exec
+1610 : Processo 5158372 Exec -> Pronto por tempo
+1611 : Processo 5158372 Pronto -> Exec
+1612 : Processo 5158372 Exec -> Pronto por tempo
+1613 : Processo 5158372 Pronto -> Exec
+1614 : Processo 5158372 Exec -> Pronto por tempo
+1615 : Processo 5158372 Pronto -> Exec
+1616 : Processo 5158372 Exec -> Pronto por tempo
+1617 : Processo 5158372 Pronto -> Exec
+1618 : Processo 5158372 Exec -> Pronto por tempo
+1619 : Processo 5158372 Pronto -> Exec
+1620 : Processo 5158372 Exec -> Pronto por tempo
+1621 : Processo 5158372 Pronto -> Exec
+1622 : Processo 5158372 Exec -> Pronto por tempo
+1623 : Processo 5158372 Pronto -> Exec
+1624 : Processo 5158372 Exec -> Pronto por tempo
+1625 : Processo 5158372 Pronto -> Exec
+1626 : Processo 5158372 Exec -> Pronto por tempo
+1627 : Processo 5158372 Pronto -> Exec
+1628 : Processo 5158372 Exec -> Pronto por tempo
+1629 : Processo 5158372 Pronto -> Exec
+1630 : Processo 5158372 Exec -> Pronto por tempo
+1631 : Processo 5158372 Pronto -> Exec
+1632 : Processo 5158372 Exec -> Pronto por tempo
+1633 : Processo 5158372 Pronto -> Exec
+1634 : Processo 5158372 Exec -> Pronto por tempo
+1635 : Processo 5158372 Pronto -> Exec
+1636 : Processo 5158372 Exec -> Pronto por tempo
+1637 : Processo 5158372 Pronto -> Exec
+1638 : Processo 5158372 Exec -> Pronto por tempo
+1639 : Processo 5158372 Pronto -> Exec
+1640 : Processo 5158372 Exec -> Pronto por tempo
+1641 : Processo 5158372 Pronto -> Exec
+1642 : Processo 5158372 Exec -> Pronto por tempo
+1643 : Processo 5158372 Pronto -> Exec
+1644 : Processo 5158372 Exec -> Pronto por tempo
+1645 : Processo 5158372 Pronto -> Exec
+1646 : Processo 5158372 Exec -> Pronto por tempo
+1647 : Processo 5158372 Pronto -> Exec
+1648 : Processo 5158372 Exec -> Pronto por tempo
+1649 : Processo 5158372 Pronto -> Exec
+1650 : Processo 5158372 Exec -> Pronto por tempo
+1651 : Processo 5158372 Pronto -> Exec
+1652 : Processo 5158372 Exec -> Pronto por tempo
+1653 : Processo 5158372 Pronto -> Exec
+1654 : Processo 5158372 Exec -> Pronto por tempo
+1655 : Processo 5158372 Pronto -> Exec
+1656 : Processo 5158372 Exec -> Pronto por tempo
+1657 : Processo 5158372 Pronto -> Exec
+1658 : Processo 5158372 Exec -> Pronto por tempo
+1659 : Processo 5158372 Pronto -> Exec
+1660 : Processo 5158372 Exec -> Pronto por tempo
+1661 : Processo 5158372 Pronto -> Exec
+1662 : Processo 5158372 Exec -> Pronto por tempo
+1663 : Processo 5158372 Pronto -> Exec
+1664 : Processo 5158372 Exec -> Pronto por tempo
+1665 : Processo 5158372 Pronto -> Exec
+1666 : Processo 5158372 Exec -> Pronto por tempo
+1667 : Processo 5158372 Pronto -> Exec
+1668 : Processo 5158372 Exec -> Pronto por tempo
+1669 : Processo 5158372 Pronto -> Exec
+1670 : Processo 5158372 Exec -> Pronto por tempo
+1671 : Processo 5158372 Pronto -> Exec
+1672 : Processo 5158372 Exec -> Pronto por tempo
+1673 : Processo 5158372 Pronto -> Exec
+1674 : Processo 5158372 Exec -> Pronto por tempo
+1675 : Processo 5158372 Pronto -> Exec
+1676 : Processo 5158372 Exec -> Pronto por tempo
+1677 : Processo 5158372 Pronto -> Exec
+1678 : Processo 5158372 Exec -> Pronto por tempo
+1679 : Processo 5158372 Pronto -> Exec
+1680 : Processo 5158372 Exec -> Pronto por tempo
+1681 : Processo 5158372 Pronto -> Exec
+1682 : Processo 5158372 Exec -> Pronto por tempo
+1683 : Processo 5158372 Pronto -> Exec
+1684 : Processo 5158372 Exec -> Pronto por tempo
+1685 : Processo 5158372 Pronto -> Exec
+1686 : Processo 5158372 Exec -> Pronto por tempo
+1687 : Processo 5158372 Pronto -> Exec
+1688 : Processo 5158372 Exec -> Pronto por tempo
+1689 : Processo 5158372 Pronto -> Exec
+1690 : Processo 5158372 Exec -> Pronto por tempo
+1691 : Processo 5158372 Pronto -> Exec
+1692 : Processo 5158372 Exec -> Pronto por tempo
+1693 : Processo 5158372 Pronto -> Exec
+1694 : Processo 5158372 Exec -> Pronto por tempo
+1695 : Processo 5158372 Pronto -> Exec
+1696 : Processo 5158372 Exec -> Pronto por tempo
+1697 : Processo 5158372 Pronto -> Exec
+1698 : Processo 5158372 Exec -> Pronto por tempo
+1699 : Processo 5158372 Pronto -> Exec
+1700 : Processo 5158372 Exec -> Pronto por tempo
+1701 : Processo 5158372 Pronto -> Exec
+1702 : Processo 5158372 Exec -> Pronto por tempo
+1703 : Processo 5158372 Pronto -> Exec
+1704 : Processo 5158372 Exec -> Pronto por tempo
+1705 : Processo 5158372 Pronto -> Exec
+1706 : Processo 5158372 Exec -> Pronto por tempo
+1707 : Processo 5158372 Pronto -> Exec
+1708 : Processo 5158372 Exec -> Pronto por tempo
+1709 : Processo 5158372 Pronto -> Exec
+1710 : Processo 5158372 Exec -> Pronto por tempo
+1711 : Processo 5158372 Pronto -> Exec
+1712 : Processo 5158372 Exec -> Pronto por tempo
+1713 : Processo 5158372 Pronto -> Exec
+1714 : Processo 5158372 Exec -> Pronto por tempo
+1715 : Processo 5158372 Pronto -> Exec
+1716 : Processo 5158372 Exec -> Pronto por tempo
+1717 : Processo 5158372 Pronto -> Exec
+1718 : Processo 5158372 Exec -> Pronto por tempo
+1719 : Processo 5158372 Pronto -> Exec
+1720 : Processo 5158372 Exec -> Pronto por tempo
+1721 : Processo 5158372 Pronto -> Exec
+1722 : Processo 5158372 Exec -> Pronto por tempo
+1723 : Processo 5158372 Pronto -> Exec
+1724 : Processo 5158372 Exec -> Pronto por tempo
+1725 : Processo 5158372 Pronto -> Exec
+1726 : Processo 5158372 Exec -> Pronto por tempo
+1727 : Processo 5158372 Pronto -> Exec
+1728 : Processo 5158372 Exec -> Pronto por tempo
+1729 : Processo 5158372 Pronto -> Exec
+1730 : Processo 5158372 Exec -> Pronto por tempo
+1731 : Processo 5158372 Pronto -> Exec
+1732 : Processo 5158372 Exec -> Pronto por tempo
+1733 : Processo 5158372 Pronto -> Exec
+1734 : Processo 5158372 Exec -> Pronto por tempo
+1735 : Processo 5158372 Pronto -> Exec
+1736 : Processo 5158372 Exec -> Pronto por tempo
+1737 : Processo 5158372 Pronto -> Exec
+1738 : Processo 5158372 Exec -> Pronto por tempo
+1739 : Processo 5158372 Pronto -> Exec
+1740 : Processo 5158372 Exec -> Pronto por tempo
+1741 : Processo 5158372 Pronto -> Exec
+1742 : Processo 5158372 Exec -> Pronto por tempo
+1743 : Processo 5158372 Pronto -> Exec
+1744 : Processo 5158372 Exec -> Pronto por tempo
+1745 : Processo 5158372 Pronto -> Exec
+1746 : Processo 5158372 Exec -> Pronto por tempo
+1747 : Processo 5158372 Pronto -> Exec
+1748 : Processo 5158372 Exec -> Pronto por tempo
+1749 : Processo 5158372 Pronto -> Exec
+1750 : Processo 5158372 Exec -> Pronto por tempo
+1751 : Processo 5158372 Pronto -> Exec
+1752 : Processo 5158372 Exec -> Pronto por tempo
+1753 : Processo 5158372 Pronto -> Exec
+1754 : Processo 5158372 Exec -> Pronto por tempo
+1755 : Processo 5158372 Pronto -> Exec
+1756 : Processo 5158372 Exec -> Pronto por tempo
+1757 : Processo 5158372 Pronto -> Exec
+1758 : Processo 5158372 Exec -> Pronto por tempo
+1759 : Processo 5158372 Pronto -> Exec
+1760 : Processo 5158372 Exec -> Pronto por tempo
+1761 : Processo 5158372 Pronto -> Exec
+1762 : Processo 5158372 Exec -> Pronto por tempo
+1763 : Processo 5158372 Pronto -> Exec
+1764 : Processo 5158372 Exec -> Pronto por tempo
+1765 : Processo 5158372 Pronto -> Exec
+1766 : Processo 5158372 Exec -> Pronto por tempo
+1767 : Processo 5158372 Pronto -> Exec
+1768 : Processo 5158372 Exec -> Pronto por tempo
+1769 : Processo 5158372 Pronto -> Exec
+1770 : Processo 5158372 Exec -> Pronto por tempo
+1771 : Processo 5158372 Pronto -> Exec
+1772 : Processo 5158372 Exec -> Pronto por tempo
+1773 : Processo 5158372 Pronto -> Exec
+1774 : Processo 5158372 Exec -> Pronto por tempo
+1775 : Processo 5158372 Pronto -> Exec
+1776 : Processo 5158372 Exec -> Pronto por tempo
+1777 : Processo 5158372 Pronto -> Exec
+1778 : Processo 5158372 Exec -> Pronto por tempo
+1779 : Processo 5158372 Pronto -> Exec
+1780 : Processo 5158372 Exec -> Pronto por tempo
+1781 : Processo 5158372 Pronto -> Exec
+1782 : Processo 5158372 Exec -> Pronto por tempo
+1783 : Processo 5158372 Pronto -> Exec
+1784 : Processo 5158372 Exec -> Pronto por tempo
+1785 : Processo 5158372 Pronto -> Exec
+1786 : Processo 5158372 Exec -> Pronto por tempo
+1787 : Processo 5158372 Pronto -> Exec
+1788 : Processo 5158372 Exec -> Pronto por tempo
+1789 : Processo 5158372 Pronto -> Exec
+1790 : Processo 5158372 Exec -> Pronto por tempo
+1791 : Processo 5158372 Pronto -> Exec
+1792 : Processo 5158372 Exec -> Pronto por tempo
+1793 : Processo 5158372 Pronto -> Exec
+1794 : Processo 5158372 Exec -> Pronto por tempo
+1795 : Processo 5158372 Pronto -> Exec
+1796 : Processo 5158372 Exec -> Pronto por tempo
+1797 : Processo 5158372 Pronto -> Exec
+1798 : Processo 5158372 Exec -> Pronto por tempo
+1799 : Processo 5158372 Pronto -> Exec
+1800 : Processo 5158372 Exec -> Pronto por tempo
+1801 : Processo 5158372 Pronto -> Exec
+1802 : Processo 5158372 Exec -> Pronto por tempo
+1803 : Processo 5158372 Pronto -> Exec
+1804 : Processo 5158372 Exec -> Pronto por tempo
+1805 : Processo 5158372 Pronto -> Exec
+1806 : Processo 5158372 Exec -> Pronto por tempo
+1807 : Processo 5158372 Pronto -> Exec
+1808 : Processo 5158372 Exec -> Pronto por tempo
+1809 : Processo 5158372 Pronto -> Exec
+1810 : Processo 5158372 Exec -> Pronto por tempo
+1811 : Processo 5158372 Pronto -> Exec
+1812 : Processo 5158372 Exec -> Pronto por tempo
+1813 : Processo 5158372 Pronto -> Exec
+1814 : Processo 5158372 Exec -> Pronto por tempo
+1815 : Processo 5158372 Pronto -> Exec
+1816 : Processo 5158372 Exec -> Pronto por tempo
+1817 : Processo 5158372 Pronto -> Exec
+1818 : Processo 5158372 Exec -> Pronto por tempo
+1819 : Processo 5158372 Pronto -> Exec
+1820 : Processo 5158372 Exec -> Pronto por tempo
+1821 : Processo 5158372 Pronto -> Exec
+1822 : Processo 5158372 Exec -> Pronto por tempo
+1823 : Processo 5158372 Pronto -> Exec
+1824 : Processo 5158372 Exec -> Pronto por tempo
+1825 : Processo 5158372 Pronto -> Exec
+1826 : Processo 5158372 Exec -> Pronto por tempo
+1827 : Processo 5158372 Pronto -> Exec
+1828 : Processo 5158372 Exec -> Pronto por tempo
+1829 : Processo 5158372 Pronto -> Exec
+1830 : Processo 5158372 Exec -> Pronto por tempo
+1831 : Processo 5158372 Pronto -> Exec
+1832 : Processo 5158372 Exec -> Pronto por tempo
+1833 : Processo 5158372 Pronto -> Exec
+1834 : Processo 5158372 Exec -> Pronto por tempo
+1835 : Processo 5158372 Pronto -> Exec
+1836 : Processo 5158372 Exec -> Pronto por tempo
+1837 : Processo 5158372 Pronto -> Exec
+1838 : Processo 5158372 Exec -> Pronto por tempo
+1839 : Processo 5158372 Pronto -> Exec
+1840 : Processo 5158372 Exec -> Pronto por tempo
+1841 : Processo 5158372 Pronto -> Exec
+1842 : Processo 5158372 Exec -> Pronto por tempo
+1843 : Processo 5158372 Pronto -> Exec
+1844 : Processo 5158372 Exec -> Pronto por tempo
+1845 : Processo 5158372 Pronto -> Exec
+1846 : Processo 5158372 Exec -> Pronto por tempo
+1847 : Processo 5158372 Pronto -> Exec
+1848 : Processo 5158372 Exec -> Pronto por tempo
+1849 : Processo 5158372 Pronto -> Exec
+1850 : Processo 5158372 Exec -> Pronto por tempo
+1851 : Processo 5158372 Pronto -> Exec
+1852 : Processo 5158372 Exec -> Pronto por tempo
+1853 : Processo 5158372 Pronto -> Exec
+1854 : Processo 5158372 Exec -> Pronto por tempo
+1855 : Processo 5158372 Pronto -> Exec
+1856 : Processo 5158372 Exec -> Pronto por tempo
+1857 : Processo 5158372 Pronto -> Exec
+1858 : Processo 5158372 Exec -> Pronto por tempo
+1859 : Processo 5158372 Pronto -> Exec
+1860 : Processo 5158372 Exec -> Pronto por tempo
+1861 : Processo 5158372 Pronto -> Exec
+1862 : Processo 5158372 Exec -> Pronto por tempo
+1863 : Processo 5158372 Pronto -> Exec
+1864 : Processo 5158372 Exec -> Pronto por tempo
+1865 : Processo 5158372 Pronto -> Exec
+1866 : Processo 5158372 Exec -> Pronto por tempo
+1867 : Processo 5158372 Pronto -> Exec
+1868 : Processo 5158372 Exec -> Pronto por tempo
+1869 : Processo 5158372 Pronto -> Exec
+1870 : Processo 5158372 Exec -> Pronto por tempo
+1871 : Processo 5158372 Pronto -> Exec
+1872 : Processo 5158372 Exec -> Pronto por tempo
+1873 : Processo 5158372 Pronto -> Exec
+1874 : Processo 5158372 Exec -> Pronto por tempo
+1875 : Processo 5158372 Pronto -> Exec
+1876 : Processo 5158372 Exec -> Pronto por tempo
+1877 : Processo 5158372 Pronto -> Exec
+1878 : Processo 5158372 Exec -> Pronto por tempo
+1879 : Processo 5158372 Pronto -> Exec
+1880 : Processo 5158372 Exec -> Pronto por tempo
+1881 : Processo 5158372 Pronto -> Exec
+1882 : Processo 5158372 Exec -> Pronto por tempo
+1883 : Processo 5158372 Pronto -> Exec
+1884 : Processo 5158372 Exec -> Pronto por tempo
+1885 : Processo 5158372 Pronto -> Exec
+1886 : Processo 5158372 Exec -> Pronto por tempo
+1887 : Processo 5158372 Pronto -> Exec
+1888 : Processo 5158372 Exec -> Pronto por tempo
+1889 : Processo 5158372 Pronto -> Exec
+1890 : Processo 5158372 Exec -> Pronto por tempo
+1891 : Processo 5158372 Pronto -> Exec
+1892 : Processo 5158372 Exec -> Pronto por tempo
+1893 : Processo 5158372 Pronto -> Exec
+1894 : Processo 5158372 Exec -> Pronto por tempo
+1895 : Processo 5158372 Pronto -> Exec
+1896 : Processo 5158372 Exec -> Pronto por tempo
+1897 : Processo 5158372 Pronto -> Exec
+1898 : Processo 5158372 Exec -> Pronto por tempo
+1899 : Processo 5158372 Pronto -> Exec
+1900 : Processo 5158372 Exec -> Pronto por tempo
+1901 : Processo 5158372 Pronto -> Exec
+1902 : Processo 5158372 Exec -> Pronto por tempo
+1903 : Processo 5158372 Pronto -> Exec
+1904 : Processo 5158372 Exec -> Pronto por tempo
+1905 : Processo 5158372 Pronto -> Exec
+1906 : Processo 5158372 Exec -> Pronto por tempo
+1907 : Processo 5158372 Pronto -> Exec
+1908 : Processo 5158372 Exec -> Pronto por tempo
+1909 : Processo 5158372 Pronto -> Exec
+1910 : Processo 5158372 Exec -> Pronto por tempo
+1911 : Processo 5158372 Pronto -> Exec
+1912 : Processo 5158372 Exec -> Pronto por tempo
+1913 : Processo 5158372 Pronto -> Exec
+1914 : Processo 5158372 Exec -> Pronto por tempo
+1915 : Processo 5158372 Pronto -> Exec
+1916 : Processo 5158372 Exec -> Pronto por tempo
+1917 : Processo 5158372 Pronto -> Exec
+1918 : Processo 5158372 Exec -> Pronto por tempo
+1919 : Processo 5158372 Pronto -> Exec
+1920 : Processo 5158372 Exec -> Pronto por tempo
+1921 : Processo 5158372 Pronto -> Exec
+1922 : Processo 5158372 Exec -> Pronto por tempo
+1923 : Processo 5158372 Pronto -> Exec
+1924 : Processo 5158372 Exec -> Pronto por tempo
+1925 : Processo 5158372 Pronto -> Exec
+1926 : Processo 5158372 Exec -> Pronto por tempo
+1927 : Processo 5158372 Pronto -> Exec
+1928 : Processo 5158372 Exec -> Pronto por tempo
+1929 : Processo 5158372 Pronto -> Exec
+1930 : Processo 5158372 Exec -> Pronto por tempo
+1931 : Processo 5158372 Pronto -> Exec
+1932 : Processo 5158372 Exec -> Pronto por tempo
+1933 : Processo 5158372 Pronto -> Exec
+1934 : Processo 5158372 Exec -> Pronto por tempo
+1935 : Processo 5158372 Pronto -> Exec
+1936 : Processo 5158372 Exec -> Pronto por tempo
+1937 : Processo 5158372 Pronto -> Exec
+1938 : Processo 5158372 Exec -> Pronto por tempo
+1939 : Processo 5158372 Pronto -> Exec
+1940 : Processo 5158372 Exec -> Pronto por tempo
+1941 : Processo 5158372 Pronto -> Exec
+1942 : Processo 5158372 Exec -> Pronto por tempo
+1943 : Processo 5158372 Pronto -> Exec
+1944 : Processo 5158372 Exec -> Pronto por tempo
+1945 : Processo 5158372 Pronto -> Exec
+1946 : Processo 5158372 Exec -> Pronto por tempo
+1947 : Processo 5158372 Pronto -> Exec
+1948 : Processo 5158372 Exec -> Pronto por tempo
+1949 : Processo 5158372 Pronto -> Exec
+1950 : Processo 5158372 Exec -> Pronto por tempo
+1951 : Processo 5158372 Pronto -> Exec
+1952 : Processo 5158372 Exec -> Pronto por tempo
+1953 : Processo 5158372 Pronto -> Exec
+1954 : Processo 5158372 Exec -> Pronto por tempo
+1955 : Processo 5158372 Pronto -> Exec
+1956 : Processo 5158372 Exec -> Pronto por tempo
+1957 : Processo 5158372 Pronto -> Exec
+1958 : Processo 5158372 Exec -> Pronto por tempo
+1959 : Processo 5158372 Pronto -> Exec
+1960 : Processo 5158372 Exec -> Pronto por tempo
+1961 : Processo 5158372 Pronto -> Exec
+1962 : Processo 5158372 Exec -> Pronto por tempo
+1963 : Processo 5158372 Pronto -> Exec
+1964 : Processo 5158372 Exec -> Pronto por tempo
+1965 : Processo 5158372 Pronto -> Exec
+1966 : Processo 5158372 Exec -> Pronto por tempo
+1967 : Processo 5158372 Pronto -> Exec
+1968 : Processo 5158372 Exec -> Pronto por tempo
+1969 : Processo 5158372 Pronto -> Exec
+1970 : Processo 5158372 Exec -> Pronto por tempo
+1971 : Processo 5158372 Pronto -> Exec
+1972 : Processo 5158372 Exec -> Pronto por tempo
+1973 : Processo 5158372 Pronto -> Exec
+1974 : Processo 5158372 Exec -> Pronto por tempo
+1975 : Processo 5158372 Pronto -> Exec
+1976 : Processo 5158372 Exec -> Pronto por tempo
+1977 : Processo 5158372 Pronto -> Exec
+1978 : Processo 5158372 Exec -> Pronto por tempo
+1979 : Processo 5158372 Pronto -> Exec
+1980 : Processo 5158372 Exec -> Pronto por tempo
+1981 : Processo 5158372 Pronto -> Exec
+1982 : Processo 5158372 Exec -> Pronto por tempo
+1983 : Processo 5158372 Pronto -> Exec
+1984 : Processo 5158372 Exec -> Pronto por tempo
+1985 : Processo 5158372 Pronto -> Exec
+1986 : Processo 5158372 Exec -> Pronto por tempo
+1987 : Processo 5158372 Pronto -> Exec
+1988 : Processo 5158372 Exec -> Pronto por tempo

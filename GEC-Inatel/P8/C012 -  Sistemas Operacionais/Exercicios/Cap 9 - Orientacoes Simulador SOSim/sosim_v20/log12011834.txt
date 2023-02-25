@@ -1,0 +1,386 @@
+0 : Inicializando SOsim ...
+10 : SOsim pronto
+100 : Processo 3622163 alocacao de blocos no pagefile
+100 : Processo 3622163 HwPF - Executável0
+100 : Processo 3622163 HwPF - Executável1
+100 : Processo 3622163 HwPF - Executável2
+100 : Processo 3622163 HwPF - Executável3
+100 : Processo 3622163 HwPF - Executável4
+100 : Processo 3622163 criado
+101 : Processo 3622163 Pronto -> Exec
+102 : Processo 3622163 Exec -> Pronto por tempo
+103 : Processo 3622163 Pronto -> Exec
+103 : Processo 3625292 alocacao de blocos no pagefile
+103 : Processo 3625292 HwPF - Executável0
+103 : Processo 3625292 HwPF - Executável1
+103 : Processo 3625292 HwPF - Executável2
+103 : Processo 3625292 HwPF - Executável3
+103 : Processo 3625292 HwPF - Executável4
+103 : Processo 3625292 criado
+104 : Processo 3622163 Exec -> Pronto por tempo
+105 : Processo 3625292 Pronto -> Exec
+106 : Processo 3625292 Exec -> Pronto por tempo
+107 : Processo 3622163 Pronto -> Exec
+108 : Processo 3622163 Exec -> Pronto por tempo
+109 : Processo 3625292 Pronto -> Exec
+110 : Processo 3625292 Exec -> Pronto por tempo
+111 : Processo 3622163 Pronto -> Exec
+112 : Processo 3622163 Exec -> Pronto por tempo
+113 : Processo 3625292 Pronto -> Exec
+114 : Processo 3625292 Exec -> Pronto por tempo
+115 : Processo 3622163 Pronto -> Exec
+116 : Processo 3622163 Exec -> Pronto por tempo
+117 : Processo 3625292 Pronto -> Exec
+118 : Processo 3625292 Exec -> Pronto por tempo
+119 : Processo 3622163 Pronto -> Exec
+120 : Processo 3622163 Exec -> Pronto por tempo
+121 : Processo 3625292 Pronto -> Exec
+122 : Processo 3625292 Exec -> Pronto por tempo
+123 : Processo 3622163 Pronto -> Exec
+124 : Processo 3622163 Exec -> Pronto por tempo
+125 : Processo 3625292 Pronto -> Exec
+126 : Processo 3625292 Exec -> Pronto por tempo
+127 : Processo 3622163 Pronto -> Exec
+128 : Processo 3622163 Exec -> Pronto por tempo
+129 : Processo 3625292 Pronto -> Exec
+130 : Processo 3625292 Exec -> Pronto por tempo
+131 : Processo 3622163 Pronto -> Exec
+132 : Processo 3622163 Exec -> Pronto por tempo
+133 : Processo 3625292 Pronto -> Exec
+134 : Processo 3625292 Exec -> Pronto por tempo
+135 : Processo 3622163 Pronto -> Exec
+136 : Processo 3622163 Exec -> Pronto por tempo
+137 : Processo 3625292 Pronto -> Exec
+138 : Processo 3625292 Exec -> Pronto por tempo
+139 : Processo 3622163 Pronto -> Exec
+140 : Processo 3622163 Exec -> Pronto por tempo
+141 : Processo 3625292 Pronto -> Exec
+142 : Processo 3625292 Exec -> Pronto por tempo
+143 : Processo 3622163 Pronto -> Exec
+144 : Processo 3622163 Exec -> Pronto por tempo
+145 : Processo 3625292 Pronto -> Exec
+146 : Processo 3625292 Exec -> Pronto por tempo
+147 : Processo 3622163 Pronto -> Exec
+148 : Processo 3622163 Exec -> Pronto por tempo
+149 : Processo 3625292 Pronto -> Exec
+150 : Processo 3625292 Exec -> Pronto por tempo
+151 : Processo 3622163 Pronto -> Exec
+152 : Processo 3622163 Exec -> Pronto por tempo
+153 : Processo 3625292 Pronto -> Exec
+154 : Processo 3625292 Exec -> Pronto por tempo
+155 : Processo 3622163 Pronto -> Exec
+156 : Processo 3622163 Exec -> Pronto por tempo
+157 : Processo 3625292 Pronto -> Exec
+158 : Processo 3625292 Exec -> Pronto por tempo
+159 : Processo 3622163 Pronto -> Exec
+160 : Processo 3622163 Exec -> Pronto por tempo
+161 : Processo 3625292 Pronto -> Exec
+162 : Processo 3625292 Exec -> Pronto por tempo
+163 : Processo 3622163 Pronto -> Exec
+164 : Processo 3622163 Exec -> Pronto por tempo
+165 : Processo 3625292 Pronto -> Exec
+166 : Processo 3625292 Exec -> Pronto por tempo
+167 : Processo 3622163 Pronto -> Exec
+168 : Processo 3622163 Exec -> Pronto por tempo
+169 : Processo 3625292 Pronto -> Exec
+170 : Processo 3625292 Exec -> Pronto por tempo
+171 : Processo 3622163 Pronto -> Exec
+172 : Processo 3622163 Exec -> Pronto por tempo
+173 : Processo 3625292 Pronto -> Exec
+174 : Processo 3625292 Exec -> Pronto por tempo
+175 : Processo 3622163 Pronto -> Exec
+176 : Processo 3622163 Exec -> Pronto por tempo
+177 : Processo 3625292 Pronto -> Exec
+178 : Processo 3625292 Exec -> Pronto por tempo
+179 : Processo 3622163 Pronto -> Exec
+180 : Processo 3622163 Exec -> Pronto por tempo
+181 : Processo 3625292 Pronto -> Exec
+182 : Processo 3625292 Exec -> Pronto por tempo
+183 : Processo 3622163 Pronto -> Exec
+184 : Processo 3622163 Exec -> Pronto por tempo
+185 : Processo 3625292 Pronto -> Exec
+186 : Processo 3625292 Exec -> Pronto por tempo
+187 : Processo 3622163 Pronto -> Exec
+188 : Processo 3622163 Exec -> Pronto por tempo
+189 : Processo 3625292 Pronto -> Exec
+190 : Processo 3625292 Exec -> Pronto por tempo
+191 : Processo 3622163 Pronto -> Exec
+192 : Processo 3622163 Exec -> Pronto por tempo
+193 : Processo 3625292 Pronto -> Exec
+194 : Processo 3625292 Exec -> Pronto por tempo
+195 : Processo 3622163 Pronto -> Exec
+196 : Processo 3622163 Exec -> Pronto por tempo
+197 : Processo 3625292 Pronto -> Exec
+198 : Processo 3625292 Exec -> Pronto por tempo
+199 : Processo 3622163 Pronto -> Exec
+200 : Processo 3622163 Exec -> Pronto por tempo
+201 : Processo 3625292 Pronto -> Exec
+202 : Processo 3625292 Exec -> Pronto por tempo
+203 : Processo 3622163 Pronto -> Exec
+204 : Processo 3622163 Exec -> Pronto por tempo
+205 : Processo 3625292 Pronto -> Exec
+206 : Processo 3625292 Exec -> Pronto por tempo
+207 : Processo 3622163 Pronto -> Exec
+208 : Processo 3622163 Exec -> Pronto por tempo
+209 : Processo 3625292 Pronto -> Exec
+210 : Processo 3625292 Exec -> Pronto por tempo
+211 : Processo 3622163 Pronto -> Exec
+212 : Processo 3622163 Exec -> Pronto por tempo
+213 : Processo 3625292 Pronto -> Exec
+214 : Processo 3625292 Exec -> Pronto por tempo
+215 : Processo 3622163 Pronto -> Exec
+216 : Processo 3622163 Exec -> Pronto por tempo
+217 : Processo 3625292 Pronto -> Exec
+218 : Processo 3625292 Exec -> Pronto por tempo
+219 : Processo 3622163 Pronto -> Exec
+220 : Processo 3622163 Exec -> Pronto por tempo
+221 : Processo 3625292 Pronto -> Exec
+222 : Processo 3625292 Exec -> Pronto por tempo
+223 : Processo 3622163 Pronto -> Exec
+224 : Processo 3622163 Exec -> Pronto por tempo
+225 : Processo 3625292 Pronto -> Exec
+226 : Processo 3625292 Exec -> Pronto por tempo
+227 : Processo 3622163 Pronto -> Exec
+228 : Processo 3622163 Exec -> Pronto por tempo
+229 : Processo 3625292 Pronto -> Exec
+230 : Processo 3625292 Exec -> Pronto por tempo
+231 : Processo 3622163 Pronto -> Exec
+232 : Processo 3622163 Exec -> Pronto por tempo
+233 : Processo 3625292 Pronto -> Exec
+234 : Processo 3625292 Exec -> Pronto por tempo
+235 : Processo 3622163 Pronto -> Exec
+236 : Processo 3622163 Exec -> Pronto por tempo
+237 : Processo 3625292 Pronto -> Exec
+238 : Processo 3625292 Exec -> Pronto por tempo
+239 : Processo 3622163 Pronto -> Exec
+240 : Processo 3622163 Exec -> Pronto por tempo
+241 : Processo 3625292 Pronto -> Exec
+242 : Processo 3625292 Exec -> Pronto por tempo
+243 : Processo 3622163 Pronto -> Exec
+244 : Processo 3622163 Exec -> Pronto por tempo
+245 : Processo 3625292 Pronto -> Exec
+246 : Processo 3625292 Exec -> Pronto por tempo
+247 : Processo 3622163 Pronto -> Exec
+248 : Processo 3622163 Exec -> Pronto por tempo
+249 : Processo 3625292 Pronto -> Exec
+250 : Processo 3625292 Exec -> Pronto por tempo
+251 : Processo 3622163 Pronto -> Exec
+252 : Processo 3622163 Exec -> Pronto por tempo
+253 : Processo 3625292 Pronto -> Exec
+254 : Processo 3625292 Exec -> Pronto por tempo
+255 : Processo 3622163 Pronto -> Exec
+256 : Processo 3622163 Exec -> Pronto por tempo
+257 : Processo 3625292 Pronto -> Exec
+258 : Processo 3625292 Exec -> Pronto por tempo
+259 : Processo 3622163 Pronto -> Exec
+260 : Processo 3622163 Exec -> Pronto por tempo
+261 : Processo 3625292 Pronto -> Exec
+262 : Processo 3625292 Exec -> Pronto por tempo
+263 : Processo 3622163 Pronto -> Exec
+264 : Processo 3622163 Exec -> Pronto por tempo
+265 : Processo 3625292 Pronto -> Exec
+266 : Processo 3625292 Exec -> Pronto por tempo
+267 : Processo 3622163 Pronto -> Exec
+268 : Processo 3622163 Exec -> Pronto por tempo
+269 : Processo 3625292 Pronto -> Exec
+270 : Processo 3625292 Exec -> Pronto por tempo
+271 : Processo 3622163 Pronto -> Exec
+272 : Processo 3622163 Exec -> Pronto por tempo
+273 : Processo 3625292 Pronto -> Exec
+274 : Processo 3625292 Exec -> Pronto por tempo
+275 : Processo 3622163 Pronto -> Exec
+276 : Processo 3622163 Exec -> Pronto por tempo
+277 : Processo 3625292 Pronto -> Exec
+278 : Processo 3625292 Exec -> Pronto por tempo
+279 : Processo 3622163 Pronto -> Exec
+280 : Processo 3622163 Exec -> Pronto por tempo
+281 : Processo 3625292 Pronto -> Exec
+282 : Processo 3625292 Exec -> Pronto por tempo
+283 : Processo 3622163 Pronto -> Exec
+284 : Processo 3622163 Exec -> Pronto por tempo
+285 : Processo 3625292 Pronto -> Exec
+286 : Processo 3625292 Exec -> Pronto por tempo
+287 : Processo 3622163 Pronto -> Exec
+288 : Processo 3622163 Exec -> Pronto por tempo
+289 : Processo 3625292 Pronto -> Exec
+290 : Processo 3625292 Exec -> Pronto por tempo
+291 : Processo 3622163 Pronto -> Exec
+292 : Processo 3622163 Exec -> Pronto por tempo
+293 : Processo 3625292 Pronto -> Exec
+294 : Processo 3625292 Exec -> Pronto por tempo
+295 : Processo 3622163 Pronto -> Exec
+296 : Processo 3622163 Exec -> Pronto por tempo
+297 : Processo 3625292 Pronto -> Exec
+298 : Processo 3625292 Exec -> Pronto por tempo
+299 : Processo 3622163 Pronto -> Exec
+300 : Processo 3622163 Exec -> Pronto por tempo
+301 : Processo 3625292 Pronto -> Exec
+302 : Processo 3625292 Exec -> Pronto por tempo
+303 : Processo 3622163 Pronto -> Exec
+304 : Processo 3622163 Exec -> Pronto por tempo
+305 : Processo 3625292 Pronto -> Exec
+306 : Processo 3625292 Exec -> Pronto por tempo
+307 : Processo 3622163 Pronto -> Exec
+308 : Processo 3622163 Exec -> Pronto por tempo
+309 : Processo 3625292 Pronto -> Exec
+310 : Processo 3625292 Exec -> Pronto por tempo
+311 : Processo 3622163 Pronto -> Exec
+312 : Processo 3622163 Exec -> Pronto por tempo
+313 : Processo 3625292 Pronto -> Exec
+314 : Processo 3625292 Exec -> Pronto por tempo
+315 : Processo 3622163 Pronto -> Exec
+316 : Processo 3622163 Exec -> Pronto por tempo
+317 : Processo 3625292 Pronto -> Exec
+318 : Processo 3625292 Exec -> Pronto por tempo
+319 : Processo 3622163 Pronto -> Exec
+320 : Processo 3622163 Exec -> Pronto por tempo
+321 : Processo 3625292 Pronto -> Exec
+322 : Processo 3625292 Exec -> Pronto por tempo
+323 : Processo 3622163 Pronto -> Exec
+324 : Processo 3622163 Exec -> Pronto por tempo
+325 : Processo 3625292 Pronto -> Exec
+326 : Processo 3625292 Exec -> Pronto por tempo
+327 : Processo 3622163 Pronto -> Exec
+328 : Processo 3622163 Exec -> Pronto por tempo
+329 : Processo 3625292 Pronto -> Exec
+330 : Processo 3625292 Exec -> Pronto por tempo
+331 : Processo 3622163 Pronto -> Exec
+332 : Processo 3622163 Exec -> Pronto por tempo
+333 : Processo 3625292 Pronto -> Exec
+334 : Processo 3625292 Exec -> Pronto por tempo
+335 : Processo 3622163 Pronto -> Exec
+336 : Processo 3622163 Exec -> Pronto por tempo
+337 : Processo 3625292 Pronto -> Exec
+338 : Processo 3625292 Exec -> Pronto por tempo
+339 : Processo 3622163 Pronto -> Exec
+340 : Processo 3622163 Exec -> Pronto por tempo
+341 : Processo 3625292 Pronto -> Exec
+342 : Processo 3625292 Exec -> Pronto por tempo
+343 : Processo 3622163 Pronto -> Exec
+344 : Processo 3622163 Exec -> Pronto por tempo
+345 : Processo 3625292 Pronto -> Exec
+346 : Processo 3625292 Exec -> Pronto por tempo
+347 : Processo 3622163 Pronto -> Exec
+348 : Processo 3622163 Exec -> Pronto por tempo
+349 : Processo 3625292 Pronto -> Exec
+350 : Processo 3625292 Exec -> Pronto por tempo
+351 : Processo 3622163 Pronto -> Exec
+352 : Processo 3622163 Exec -> Pronto por tempo
+353 : Processo 3625292 Pronto -> Exec
+354 : Processo 3625292 Exec -> Pronto por tempo
+355 : Processo 3622163 Pronto -> Exec
+356 : Processo 3622163 Exec -> Pronto por tempo
+357 : Processo 3625292 Pronto -> Exec
+358 : Processo 3625292 Exec -> Pronto por tempo
+359 : Processo 3622163 Pronto -> Exec
+360 : Processo 3622163 Exec -> Pronto por tempo
+361 : Processo 3625292 Pronto -> Exec
+362 : Processo 3625292 Exec -> Pronto por tempo
+363 : Processo 3622163 Pronto -> Exec
+364 : Processo 3622163 Exec -> Pronto por tempo
+365 : Processo 3625292 Pronto -> Exec
+366 : Processo 3625292 Exec -> Pronto por tempo
+367 : Processo 3622163 Pronto -> Exec
+368 : Processo 3622163 Exec -> Pronto por tempo
+369 : Processo 3625292 Pronto -> Exec
+370 : Processo 3625292 Exec -> Pronto por tempo
+371 : Processo 3622163 Pronto -> Exec
+372 : Processo 3622163 Exec -> Pronto por tempo
+373 : Processo 3625292 Pronto -> Exec
+374 : Processo 3625292 Exec -> Pronto por tempo
+375 : Processo 3622163 Pronto -> Exec
+376 : Processo 3622163 Exec -> Pronto por tempo
+377 : Processo 3625292 Pronto -> Exec
+378 : Processo 3625292 Exec -> Pronto por tempo
+379 : Processo 3622163 Pronto -> Exec
+380 : Processo 3622163 Exec -> Pronto por tempo
+381 : Processo 3625292 Pronto -> Exec
+382 : Processo 3625292 Exec -> Pronto por tempo
+383 : Processo 3622163 Pronto -> Exec
+384 : Processo 3622163 Exec -> Pronto por tempo
+385 : Processo 3625292 Pronto -> Exec
+386 : Processo 3625292 Exec -> Pronto por tempo
+387 : Processo 3622163 Pronto -> Exec
+388 : Processo 3622163 Exec -> Pronto por tempo
+389 : Processo 3625292 Pronto -> Exec
+390 : Processo 3625292 Exec -> Pronto por tempo
+391 : Processo 3622163 Pronto -> Exec
+392 : Processo 3622163 Exec -> Pronto por tempo
+393 : Processo 3625292 Pronto -> Exec
+394 : Processo 3625292 Exec -> Pronto por tempo
+395 : Processo 3622163 Pronto -> Exec
+396 : Processo 3622163 Exec -> Pronto por tempo
+397 : Processo 3625292 Pronto -> Exec
+398 : Processo 3625292 Exec -> Pronto por tempo
+399 : Processo 3622163 Pronto -> Exec
+400 : Processo 3622163 Exec -> Pronto por tempo
+401 : Processo 3625292 Pronto -> Exec
+402 : Processo 3625292 Exec -> Pronto por tempo
+403 : Processo 3622163 Pronto -> Exec
+404 : Processo 3622163 Exec -> Pronto por tempo
+405 : Processo 3625292 Pronto -> Exec
+406 : Processo 3625292 Exec -> Pronto por tempo
+407 : Processo 3622163 Pronto -> Exec
+408 : Processo 3622163 Exec -> Pronto por tempo
+409 : Processo 3625292 Pronto -> Exec
+410 : Processo 3625292 Exec -> Pronto por tempo
+411 : Processo 3622163 Pronto -> Exec
+412 : Processo 3622163 Exec -> Pronto por tempo
+413 : Processo 3625292 Pronto -> Exec
+414 : Processo 3625292 Exec -> Pronto por tempo
+415 : Processo 3622163 Pronto -> Exec
+416 : Processo 3622163 Exec -> Pronto por tempo
+417 : Processo 3625292 Pronto -> Exec
+418 : Processo 3625292 Exec -> Pronto por tempo
+419 : Processo 3622163 Pronto -> Exec
+420 : Processo 3622163 Exec -> Pronto por tempo
+421 : Processo 3625292 Pronto -> Exec
+422 : Processo 3625292 Exec -> Pronto por tempo
+423 : Processo 3622163 Pronto -> Exec
+424 : Processo 3622163 Exec -> Pronto por tempo
+425 : Processo 3625292 Pronto -> Exec
+426 : Processo 3625292 Exec -> Pronto por tempo
+427 : Processo 3622163 Pronto -> Exec
+428 : Processo 3622163 Exec -> Pronto por tempo
+429 : Processo 3625292 Pronto -> Exec
+430 : Processo 3625292 Exec -> Pronto por tempo
+431 : Processo 3622163 Pronto -> Exec
+432 : Processo 3622163 Exec -> Pronto por tempo
+433 : Processo 3625292 Pronto -> Exec
+434 : Processo 3625292 Exec -> Pronto por tempo
+435 : Processo 3622163 Pronto -> Exec
+436 : Processo 3622163 Exec -> Pronto por tempo
+437 : Processo 3625292 Pronto -> Exec
+438 : Processo 3625292 Exec -> Pronto por tempo
+439 : Processo 3622163 Pronto -> Exec
+440 : Processo 3622163 Exec -> Pronto por tempo
+441 : Processo 3625292 Pronto -> Exec
+442 : Processo 3625292 Exec -> Pronto por tempo
+443 : Processo 3622163 Pronto -> Exec
+444 : Processo 3622163 Exec -> Pronto por tempo
+445 : Processo 3625292 Pronto -> Exec
+446 : Processo 3625292 Exec -> Pronto por tempo
+447 : Processo 3622163 Pronto -> Exec
+448 : Processo 3622163 Exec -> Pronto por tempo
+449 : Processo 3625292 Pronto -> Exec
+450 : Processo 3625292 Exec -> Pronto por tempo
+451 : Processo 3622163 Pronto -> Exec
+452 : Processo 3622163 Exec -> Pronto por tempo
+453 : Processo 3625292 Pronto -> Exec
+454 : Processo 3625292 Exec -> Pronto por tempo
+455 : Processo 3622163 Pronto -> Exec
+456 : Processo 3622163 Exec -> Pronto por tempo
+457 : Processo 3625292 Pronto -> Exec
+458 : Processo 3625292 Exec -> Pronto por tempo
+459 : Processo 3622163 Pronto -> Exec
+460 : Processo 3622163 Exec -> Pronto por tempo
+461 : Processo 3625292 Pronto -> Exec
+462 : Processo 3625292 Exec -> Pronto por tempo
+463 : Processo 3622163 Pronto -> Exec
+464 : Processo 3622163 Exec -> Pronto por tempo
+465 : Processo 3625292 Pronto -> Exec
+466 : Processo 3625292 Exec -> Pronto por tempo
+467 : Processo 3622163 Pronto -> Exec
+468 : Processo 3622163 Exec -> Pronto por tempo
+469 : Processo 3625292 Pronto -> Exec
+470 : Processo 3625292 Exec -> Pronto por tempo

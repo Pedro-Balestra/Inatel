@@ -1,0 +1,209 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+25 : Processo 1606390 alocacao de blocos no pagefile
+25 : Processo 1606390 HwPF - Executável0
+25 : Processo 1606390 HwPF - Executável1
+25 : Processo 1606390 HwPF - Executável2
+25 : Processo 1606390 HwPF - Executável3
+25 : Processo 1606390 HwPF - Executável4
+25 : Processo 1606390 criado
+26 : Processo 1606390 Pronto -> Exec
+26 : Processo 1607766 alocacao de blocos no pagefile
+26 : Processo 1607766 HwPF - Executável0
+26 : Processo 1607766 HwPF - Executável1
+26 : Processo 1607766 HwPF - Executável2
+26 : Processo 1607766 HwPF - Executável3
+26 : Processo 1607766 HwPF - Executável4
+26 : Processo 1607766 criado
+27 : Processo 1606390 Exec -> Pronto por tempo
+28 : Processo 1607766 Pronto -> Exec
+29 : Processo 1607766 Exec -> Pronto por tempo
+30 : Processo 1606390 Pronto -> Exec
+31 : Processo 1606390 Exec -> Pronto por tempo
+32 : Processo 1607766 Pronto -> Exec
+33 : Processo 1607766 Exec -> Pronto por tempo
+34 : Processo 1606390 Pronto -> Exec
+35 : Processo 1606390 Exec -> Pronto por tempo
+36 : Processo 1607766 Pronto -> Exec
+37 : Processo 1607766 Exec -> Pronto por tempo
+38 : Processo 1606390 Pronto -> Exec
+39 : Processo 1606390 Exec -> Pronto por tempo
+40 : Processo 1607766 Pronto -> Exec
+41 : Processo 1607766 Exec -> Pronto por tempo
+42 : Processo 1606390 Pronto -> Exec
+43 : Processo 1606390 Exec -> Pronto por tempo
+44 : Processo 1607766 Pronto -> Exec
+45 : Processo 1607766 Exec -> Pronto por tempo
+46 : Processo 1606390 Pronto -> Exec
+47 : Processo 1606390 Exec -> Pronto por tempo
+48 : Processo 1607766 Pronto -> Exec
+49 : Processo 1607766 Exec -> Pronto por tempo
+50 : Processo 1606390 Pronto -> Exec
+51 : Processo 1606390 Exec -> Pronto por tempo
+52 : Processo 1607766 Pronto -> Exec
+53 : Processo 1607766 Exec -> Pronto por tempo
+54 : Processo 1606390 Pronto -> Exec
+55 : Processo 1606390 Exec -> Pronto por tempo
+56 : Processo 1607766 Pronto -> Exec
+57 : Processo 1607766 Exec -> Pronto por tempo
+58 : Processo 1606390 Pronto -> Exec
+59 : Processo 1606390 Exec -> Pronto por tempo
+60 : Processo 1607766 Pronto -> Exec
+61 : Processo 1607766 Exec -> Pronto por tempo
+62 : Processo 1606390 Pronto -> Exec
+63 : Processo 1606390 Exec -> Pronto por tempo
+64 : Processo 1607766 Pronto -> Exec
+65 : Processo 1607766 Exec -> Pronto por tempo
+66 : Processo 1606390 Pronto -> Exec
+67 : Processo 1606390 Exec -> Pronto por tempo
+68 : Processo 1607766 Pronto -> Exec
+69 : Processo 1607766 Exec -> Pronto por tempo
+70 : Processo 1606390 Pronto -> Exec
+71 : Processo 1606390 Exec -> Pronto por tempo
+72 : Processo 1607766 Pronto -> Exec
+73 : Processo 1607766 Exec -> Pronto por tempo
+74 : Processo 1606390 Pronto -> Exec
+75 : Processo 1606390 Exec -> Pronto por tempo
+76 : Processo 1607766 Pronto -> Exec
+77 : Processo 1607766 Exec -> Pronto por tempo
+78 : Processo 1606390 Pronto -> Exec
+79 : Processo 1606390 Exec -> Pronto por tempo
+80 : Processo 1607766 Pronto -> Exec
+81 : Processo 1607766 Exec -> Pronto por tempo
+82 : Processo 1606390 Pronto -> Exec
+83 : Processo 1606390 Exec -> Pronto por tempo
+84 : Processo 1607766 Pronto -> Exec
+85 : Processo 1607766 Exec -> Pronto por tempo
+86 : Processo 1606390 Pronto -> Exec
+87 : Processo 1606390 Exec -> Pronto por tempo
+88 : Processo 1607766 Pronto -> Exec
+89 : Processo 1607766 Exec -> Pronto por tempo
+90 : Processo 1606390 Pronto -> Exec
+91 : Processo 1606390 Exec -> Pronto por tempo
+92 : Processo 1607766 Pronto -> Exec
+93 : Processo 1607766 Exec -> Pronto por tempo
+94 : Processo 1606390 Pronto -> Exec
+95 : Processo 1606390 Exec -> Pronto por tempo
+96 : Processo 1607766 Pronto -> Exec
+97 : Processo 1607766 Exec -> Pronto por tempo
+98 : Processo 1606390 Pronto -> Exec
+99 : Processo 1606390 Exec -> Pronto por tempo
+100 : Processo 1607766 Pronto -> Exec
+101 : Processo 1607766 Exec -> Pronto por tempo
+102 : Processo 1606390 Pronto -> Exec
+103 : Processo 1606390 Exec -> Pronto por tempo
+104 : Processo 1607766 Pronto -> Exec
+104 : Processo 1607766 Executando -> Suspenso
+105 : Processo 1606390 Pronto -> Exec
+106 : Processo 1606390 Exec -> Pronto por tempo
+107 : Processo 1606390 Pronto -> Exec
+108 : Processo 1606390 Exec -> Pronto por tempo
+109 : Processo 1606390 Pronto -> Exec
+110 : Processo 1606390 Exec -> Pronto por tempo
+111 : Processo 1606390 Pronto -> Exec
+112 : Processo 1606390 Exec -> Pronto por tempo
+113 : Processo 1606390 Pronto -> Exec
+114 : Processo 1606390 Exec -> Pronto por tempo
+115 : Processo 1606390 Pronto -> Exec
+116 : Processo 1606390 Exec -> Pronto por tempo
+117 : Processo 1607766 Pronto -> Exec
+118 : Processo 1607766 Exec -> Pronto por tempo
+119 : Processo 1606390 Pronto -> Exec
+120 : Processo 1606390 Exec -> Pronto por tempo
+121 : Processo 1607766 Pronto -> Exec
+122 : Processo 1607766 Exec -> Pronto por tempo
+123 : Processo 1606390 Pronto -> Exec
+124 : Processo 1606390 Exec -> Pronto por tempo
+125 : Processo 1607766 Pronto -> Exec
+126 : Processo 1607766 Exec -> Pronto por tempo
+127 : Processo 1606390 Pronto -> Exec
+128 : Processo 1606390 Exec -> Pronto por tempo
+129 : Processo 1607766 Pronto -> Exec
+130 : Processo 1607766 Exec -> Pronto por tempo
+131 : Processo 1606390 Pronto -> Exec
+132 : Processo 1606390 Exec -> Pronto por tempo
+133 : Processo 1607766 Pronto -> Exec
+133 : Processo 1607766 eliminado
+133 : Tempo de UCP:24 Tempo decorrido:107
+133 : Processo 1607766 liberando pagefile reservado
+134 : Processo 1606390 Pronto -> Exec
+135 : Processo 1606390 Exec -> Pronto por tempo
+136 : Processo 1606390 Pronto -> Exec
+137 : Processo 1606390 Exec -> Pronto por tempo
+138 : Processo 1606390 Pronto -> Exec
+139 : Processo 1606390 Exec -> Pronto por tempo
+140 : Processo 1606390 Pronto -> Exec
+141 : Processo 1606390 Exec -> Pronto por tempo
+142 : Processo 1606390 Pronto -> Exec
+143 : Processo 1606390 Exec -> Pronto por tempo
+144 : Processo 1606390 Pronto -> Exec
+145 : Processo 1606390 Exec -> Pronto por tempo
+146 : Processo 1606390 Pronto -> Exec
+147 : Processo 1606390 Exec -> Pronto por tempo
+148 : Processo 1606390 Pronto -> Exec
+149 : Processo 1606390 Exec -> Pronto por tempo
+150 : Processo 1606390 Pronto -> Exec
+151 : Processo 1606390 Exec -> Pronto por tempo
+152 : Processo 1606390 Pronto -> Exec
+153 : Processo 1606390 Exec -> Pronto por tempo
+154 : Processo 1606390 Pronto -> Exec
+155 : Processo 1606390 Exec -> Pronto por tempo
+156 : Processo 1606390 Pronto -> Exec
+157 : Processo 1606390 Exec -> Pronto por tempo
+158 : Processo 1606390 Pronto -> Exec
+159 : Processo 1606390 Exec -> Pronto por tempo
+160 : Processo 1606390 Pronto -> Exec
+161 : Processo 1606390 Exec -> Pronto por tempo
+162 : Processo 1606390 Pronto -> Exec
+163 : Processo 1606390 Exec -> Pronto por tempo
+164 : Processo 1606390 Pronto -> Exec
+165 : Processo 1606390 Exec -> Pronto por tempo
+166 : Processo 1606390 Pronto -> Exec
+167 : Processo 1606390 Exec -> Pronto por tempo
+168 : Processo 1606390 Pronto -> Exec
+169 : Processo 1606390 Exec -> Pronto por tempo
+170 : Processo 1606390 Pronto -> Exec
+171 : Processo 1606390 Exec -> Pronto por tempo
+172 : Processo 1606390 Pronto -> Exec
+173 : Processo 1606390 Exec -> Pronto por tempo
+174 : Processo 1606390 Pronto -> Exec
+175 : Processo 1606390 Exec -> Pronto por tempo
+176 : Processo 1606390 Pronto -> Exec
+177 : Processo 1606390 Exec -> Pronto por tempo
+178 : Processo 1606390 Pronto -> Exec
+179 : Processo 1606390 Exec -> Pronto por tempo
+180 : Processo 1606390 Pronto -> Exec
+181 : Processo 1606390 Exec -> Pronto por tempo
+182 : Processo 1606390 Pronto -> Exec
+183 : Processo 1606390 Exec -> Pronto por tempo
+184 : Processo 1606390 Pronto -> Exec
+185 : Processo 1606390 Exec -> Pronto por tempo
+186 : Processo 1606390 Pronto -> Exec
+187 : Processo 1606390 Exec -> Pronto por tempo
+188 : Processo 1606390 Pronto -> Exec
+189 : Processo 1606390 Exec -> Pronto por tempo
+190 : Processo 1606390 Pronto -> Exec
+191 : Processo 1606390 Exec -> Pronto por tempo
+192 : Processo 1606390 Pronto -> Exec
+193 : Processo 1606390 Exec -> Pronto por tempo
+194 : Processo 1606390 Pronto -> Exec
+195 : Processo 1606390 Exec -> Pronto por tempo
+196 : Processo 1606390 Pronto -> Exec
+197 : Processo 1606390 Exec -> Pronto por tempo
+198 : Processo 1606390 Pronto -> Exec
+199 : Processo 1606390 Exec -> Pronto por tempo
+200 : Processo 1606390 Pronto -> Exec
+201 : Processo 1606390 Exec -> Pronto por tempo
+202 : Processo 1606390 Pronto -> Exec
+203 : Processo 1606390 Exec -> Pronto por tempo
+204 : Processo 1606390 Pronto -> Exec
+205 : Processo 1606390 Exec -> Pronto por tempo
+206 : Processo 1606390 Pronto -> Exec
+207 : Processo 1606390 Exec -> Pronto por tempo
+208 : Processo 1606390 Pronto -> Exec
+209 : Processo 1606390 Exec -> Pronto por tempo
+210 : Processo 1606390 Pronto -> Exec
+211 : Processo 1606390 Exec -> Pronto por tempo
+212 : Processo 1606390 Pronto -> Exec
+213 : Processo 1606390 Exec -> Pronto por tempo
+214 : Processo 1606390 Pronto -> Exec

@@ -1,0 +1,280 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+18 : Processo 4253439 alocacao de blocos no pagefile
+18 : Processo 4253439 HwPF - Executável0
+18 : Processo 4253439 HwPF - Executável1
+18 : Processo 4253439 HwPF - Executável2
+18 : Processo 4253439 HwPF - Executável3
+18 : Processo 4253439 HwPF - Executável4
+18 : Processo 4253439 criado
+19 : Processo 4253439 Pronto -> Exec
+20 : Processo 4253439 Exec -> Pronto por tempo
+20 : Processo 4255485 alocacao de blocos no pagefile
+20 : Processo 4255485 HwPF - Executável0
+20 : Processo 4255485 HwPF - Executável1
+20 : Processo 4255485 HwPF - Executável2
+20 : Processo 4255485 HwPF - Executável3
+20 : Processo 4255485 HwPF - Executável4
+20 : Processo 4255485 criado
+21 : Processo 4253439 Pronto -> Exec
+22 : Processo 4253439 Exec -> Pronto por tempo
+23 : Processo 4255485 Pronto -> Exec
+24 : Processo 4255485 Exec -> Pronto por tempo
+25 : Processo 4253439 Pronto -> Exec
+26 : Processo 4253439 Exec -> Pronto por tempo
+27 : Processo 4255485 Pronto -> Exec
+28 : Processo 4255485 Exec -> Pronto por tempo
+29 : Processo 4253439 Pronto -> Exec
+30 : Processo 4253439 Exec -> Pronto por tempo
+31 : Processo 4255485 Pronto -> Exec
+32 : Processo 4255485 Exec -> Pronto por tempo
+33 : Processo 4253439 Pronto -> Exec
+34 : Processo 4253439 Exec -> Pronto por tempo
+35 : Processo 4255485 Pronto -> Exec
+36 : Processo 4255485 Exec -> Pronto por tempo
+37 : Processo 4253439 Pronto -> Exec
+38 : Processo 4253439 Exec -> Pronto por tempo
+39 : Processo 4255485 Pronto -> Exec
+40 : Processo 4255485 Exec -> Pronto por tempo
+41 : Processo 4253439 Pronto -> Exec
+42 : Processo 4253439 Exec -> Pronto por tempo
+43 : Processo 4255485 Pronto -> Exec
+44 : Processo 4255485 Exec -> Pronto por tempo
+45 : Processo 4253439 Pronto -> Exec
+46 : Processo 4253439 Exec -> Pronto por tempo
+47 : Processo 4255485 Pronto -> Exec
+48 : Processo 4255485 Exec -> Pronto por tempo
+49 : Processo 4253439 Pronto -> Exec
+50 : Processo 4253439 Exec -> Pronto por tempo
+51 : Processo 4255485 Pronto -> Exec
+52 : Processo 4255485 Exec -> Pronto por tempo
+53 : Processo 4253439 Pronto -> Exec
+54 : Processo 4253439 Exec -> Pronto por tempo
+55 : Processo 4255485 Pronto -> Exec
+56 : Processo 4255485 Exec -> Pronto por tempo
+57 : Processo 4253439 Pronto -> Exec
+58 : Processo 4253439 Exec -> Pronto por tempo
+59 : Processo 4255485 Pronto -> Exec
+60 : Processo 4255485 Exec -> Pronto por tempo
+61 : Processo 4253439 Pronto -> Exec
+62 : Processo 4253439 Exec -> Pronto por tempo
+63 : Processo 4255485 Pronto -> Exec
+64 : Processo 4255485 Exec -> Pronto por tempo
+65 : Processo 4253439 Pronto -> Exec
+66 : Processo 4253439 Exec -> Pronto por tempo
+67 : Processo 4255485 Pronto -> Exec
+68 : Processo 4255485 Exec -> Pronto por tempo
+69 : Processo 4253439 Pronto -> Exec
+70 : Processo 4253439 Exec -> Pronto por tempo
+71 : Processo 4255485 Pronto -> Exec
+72 : Processo 4255485 Exec -> Pronto por tempo
+73 : Processo 4253439 Pronto -> Exec
+74 : Processo 4253439 Exec -> Pronto por tempo
+75 : Processo 4255485 Pronto -> Exec
+76 : Processo 4255485 Exec -> Pronto por tempo
+77 : Processo 4253439 Pronto -> Exec
+78 : Processo 4253439 Exec -> Pronto por tempo
+79 : Processo 4255485 Pronto -> Exec
+80 : Processo 4255485 Exec -> Pronto por tempo
+81 : Processo 4253439 Pronto -> Exec
+82 : Processo 4253439 Exec -> Pronto por tempo
+83 : Processo 4255485 Pronto -> Exec
+84 : Processo 4255485 Exec -> Pronto por tempo
+85 : Processo 4253439 Pronto -> Exec
+86 : Processo 4253439 Exec -> Pronto por tempo
+87 : Processo 4255485 Pronto -> Exec
+88 : Processo 4255485 Exec -> Pronto por tempo
+89 : Processo 4253439 Pronto -> Exec
+90 : Processo 4253439 Exec -> Pronto por tempo
+91 : Processo 4255485 Pronto -> Exec
+92 : Processo 4255485 Exec -> Pronto por tempo
+93 : Processo 4253439 Pronto -> Exec
+94 : Processo 4253439 Exec -> Pronto por tempo
+94 : Processo 4409741 alocacao de blocos no pagefile
+94 : Processo 4409741 HwPF - Executável0
+94 : Processo 4409741 HwPF - Executável1
+94 : Processo 4409741 HwPF - Executável2
+94 : Processo 4409741 HwPF - Executável3
+94 : Processo 4409741 HwPF - Executável4
+94 : Processo 4409741 criado
+95 : Processo 4255485 Pronto -> Exec
+96 : Processo 4255485 Exec -> Pronto por tempo
+97 : Processo 4253439 Pronto -> Exec
+98 : Processo 4253439 Exec -> Pronto por tempo
+99 : Processo 4409741 Pronto -> Exec
+99 : Processo 4409741 Exec -> I/O
+100 : Processo 4255485 Pronto -> Exec
+101 : Processo 4255485 Exec -> Pronto por tempo
+102 : Processo 4253439 Pronto -> Exec
+103 : Processo 4253439 Exec -> Pronto por tempo
+104 : Processo 4255485 Pronto -> Exec
+105 : Processo 4255485 Exec -> Pronto por tempo
+106 : Processo 4253439 Pronto -> Exec
+107 : Processo 4253439 Exec -> Pronto por tempo
+108 : Processo 4255485 Pronto -> Exec
+109 : Processo 4255485 Exec -> Pronto por tempo
+110 : Processo 4253439 Pronto -> Exec
+111 : Processo 4253439 Exec -> Pronto por tempo
+112 : Processo 4255485 Pronto -> Exec
+113 : Processo 4255485 Exec -> Pronto por tempo
+114 : Processo 4409741 Pronto -> Exec
+115 : Processo 4409741 Exec -> Pronto por tempo
+116 : Processo 4253439 Pronto -> Exec
+117 : Processo 4253439 Exec -> Pronto por tempo
+118 : Processo 4255485 Pronto -> Exec
+119 : Processo 4255485 Exec -> Pronto por tempo
+120 : Processo 4409741 Pronto -> Exec
+120 : Processo 4409741 Exec -> I/O
+121 : Processo 4253439 Pronto -> Exec
+122 : Processo 4253439 Exec -> Pronto por tempo
+123 : Processo 4255485 Pronto -> Exec
+124 : Processo 4255485 Exec -> Pronto por tempo
+125 : Processo 4253439 Pronto -> Exec
+126 : Processo 4253439 Exec -> Pronto por tempo
+127 : Processo 4255485 Pronto -> Exec
+128 : Processo 4255485 Exec -> Pronto por tempo
+129 : Processo 4253439 Pronto -> Exec
+130 : Processo 4253439 Exec -> Pronto por tempo
+131 : Processo 4255485 Pronto -> Exec
+132 : Processo 4255485 Exec -> Pronto por tempo
+133 : Processo 4253439 Pronto -> Exec
+134 : Processo 4253439 Exec -> Pronto por tempo
+135 : Processo 4409741 Pronto -> Exec
+135 : Processo 4409741 eliminado
+135 : Tempo de UCP:4 Tempo decorrido:41
+135 : Processo 4409741 liberando pagefile reservado
+136 : Processo 4255485 Pronto -> Exec
+136 : Processo 4255485 eliminado
+136 : Tempo de UCP:28 Tempo decorrido:116
+136 : Processo 4255485 liberando pagefile reservado
+137 : Processo 4253439 Pronto -> Exec
+138 : Processo 4253439 Exec -> Pronto por tempo
+139 : Processo 4253439 Pronto -> Exec
+139 : Processo 4253439 eliminado
+139 : Tempo de UCP:31 Tempo decorrido:121
+139 : Processo 4253439 liberando pagefile reservado
+145 : Processo 4501387 alocacao de blocos no pagefile
+145 : Processo 4501387 HwPF - Executável0
+145 : Processo 4501387 HwPF - Executável1
+145 : Processo 4501387 HwPF - Executável2
+145 : Processo 4501387 HwPF - Executável3
+145 : Processo 4501387 HwPF - Executável4
+145 : Processo 4501387 criado
+146 : Processo 4501387 Pronto -> Exec
+147 : Processo 4501387 Exec -> Pronto por tempo
+148 : Processo 4501387 Pronto -> Exec
+149 : Processo 4501387 Exec -> Pronto por tempo
+150 : Processo 4501387 Pronto -> Exec
+150 : Processo 4505930 alocacao de blocos no pagefile
+150 : Processo 4505930 HwPF - Executável0
+150 : Processo 4505930 HwPF - Executável1
+150 : Processo 4505930 HwPF - Executável2
+150 : Processo 4505930 HwPF - Executável3
+150 : Processo 4505930 HwPF - Executável4
+150 : Processo 4505930 criado
+151 : Processo 4501387 Exec -> Pronto por tempo
+152 : Processo 4505930 Pronto -> Exec
+153 : Processo 4505930 Exec -> Pronto por tempo
+154 : Processo 4501387 Pronto -> Exec
+155 : Processo 4501387 Exec -> Pronto por tempo
+156 : Processo 4505930 Pronto -> Exec
+157 : Processo 4505930 Exec -> Pronto por tempo
+158 : Processo 4501387 Pronto -> Exec
+159 : Processo 4501387 Exec -> Pronto por tempo
+160 : Processo 4505930 Pronto -> Exec
+161 : Processo 4505930 Exec -> Pronto por tempo
+162 : Processo 4501387 Pronto -> Exec
+163 : Processo 4501387 Exec -> Pronto por tempo
+164 : Processo 4505930 Pronto -> Exec
+165 : Processo 4505930 Exec -> Pronto por tempo
+166 : Processo 4501387 Pronto -> Exec
+167 : Processo 4501387 Exec -> Pronto por tempo
+168 : Processo 4505930 Pronto -> Exec
+169 : Processo 4505930 Exec -> Pronto por tempo
+170 : Processo 4501387 Pronto -> Exec
+171 : Processo 4501387 Exec -> Pronto por tempo
+172 : Processo 4505930 Pronto -> Exec
+173 : Processo 4505930 Exec -> Pronto por tempo
+174 : Processo 4501387 Pronto -> Exec
+175 : Processo 4501387 Exec -> Pronto por tempo
+176 : Processo 4505930 Pronto -> Exec
+177 : Processo 4505930 Exec -> Pronto por tempo
+178 : Processo 4501387 Pronto -> Exec
+179 : Processo 4501387 Exec -> Pronto por tempo
+180 : Processo 4505930 Pronto -> Exec
+181 : Processo 4505930 Exec -> Pronto por tempo
+182 : Processo 4501387 Pronto -> Exec
+183 : Processo 4501387 Exec -> Pronto por tempo
+184 : Processo 4505930 Pronto -> Exec
+185 : Processo 4505930 Exec -> Pronto por tempo
+186 : Processo 4501387 Pronto -> Exec
+187 : Processo 4501387 Exec -> Pronto por tempo
+188 : Processo 4505930 Pronto -> Exec
+189 : Processo 4505930 Exec -> Pronto por tempo
+190 : Processo 4501387 Pronto -> Exec
+191 : Processo 4501387 Exec -> Pronto por tempo
+192 : Processo 4505930 Pronto -> Exec
+193 : Processo 4505930 Exec -> Pronto por tempo
+194 : Processo 4501387 Pronto -> Exec
+195 : Processo 4501387 Exec -> Pronto por tempo
+196 : Processo 4505930 Pronto -> Exec
+197 : Processo 4505930 Exec -> Pronto por tempo
+198 : Processo 4501387 Pronto -> Exec
+199 : Processo 4501387 Exec -> Pronto por tempo
+200 : Processo 4505930 Pronto -> Exec
+201 : Processo 4505930 Exec -> Pronto por tempo
+202 : Processo 4501387 Pronto -> Exec
+203 : Processo 4501387 Exec -> Pronto por tempo
+204 : Processo 4505930 Pronto -> Exec
+205 : Processo 4505930 Exec -> Pronto por tempo
+206 : Processo 4501387 Pronto -> Exec
+207 : Processo 4501387 Exec -> Pronto por tempo
+208 : Processo 4505930 Pronto -> Exec
+209 : Processo 4505930 Exec -> Pronto por tempo
+210 : Processo 4501387 Pronto -> Exec
+211 : Processo 4501387 Exec -> Pronto por tempo
+212 : Processo 4505930 Pronto -> Exec
+213 : Processo 4505930 Exec -> Pronto por tempo
+214 : Processo 4501387 Pronto -> Exec
+215 : Processo 4501387 Exec -> Pronto por tempo
+216 : Processo 4505930 Pronto -> Exec
+217 : Processo 4505930 Exec -> Pronto por tempo
+218 : Processo 4501387 Pronto -> Exec
+219 : Processo 4501387 Exec -> Pronto por tempo
+220 : Processo 4505930 Pronto -> Exec
+221 : Processo 4505930 Exec -> Pronto por tempo
+222 : Processo 4501387 Pronto -> Exec
+223 : Processo 4501387 Exec -> Pronto por tempo
+224 : Processo 4505930 Pronto -> Exec
+225 : Processo 4505930 Exec -> Pronto por tempo
+226 : Processo 4501387 Pronto -> Exec
+227 : Processo 4501387 Exec -> Pronto por tempo
+228 : Processo 4505930 Pronto -> Exec
+229 : Processo 4505930 Exec -> Pronto por tempo
+230 : Processo 4501387 Pronto -> Exec
+231 : Processo 4501387 Exec -> Pronto por tempo
+232 : Processo 4505930 Pronto -> Exec
+233 : Processo 4505930 Exec -> Pronto por tempo
+234 : Processo 4501387 Pronto -> Exec
+235 : Processo 4501387 Exec -> Pronto por tempo
+236 : Processo 4505930 Pronto -> Exec
+237 : Processo 4505930 Exec -> Pronto por tempo
+238 : Processo 4501387 Pronto -> Exec
+239 : Processo 4501387 Exec -> Pronto por tempo
+240 : Processo 4505930 Pronto -> Exec
+241 : Processo 4505930 Exec -> Pronto por tempo
+242 : Processo 4501387 Pronto -> Exec
+243 : Processo 4501387 Exec -> Pronto por tempo
+244 : Processo 4505930 Pronto -> Exec
+245 : Processo 4505930 Exec -> Pronto por tempo
+246 : Processo 4501387 Pronto -> Exec
+247 : Processo 4501387 Exec -> Pronto por tempo
+248 : Processo 4505930 Pronto -> Exec
+249 : Processo 4505930 Exec -> Pronto por tempo
+250 : Processo 4501387 Pronto -> Exec
+251 : Processo 4501387 Exec -> Pronto por tempo
+252 : Processo 4505930 Pronto -> Exec
+253 : Processo 4505930 Exec -> Pronto por tempo
+254 : Processo 4501387 Pronto -> Exec
+255 : Processo 4501387 Exec -> Pronto por tempo
+256 : Processo 4505930 Pronto -> Exec

@@ -1,0 +1,100 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+34 : Processo 2913010 alocacao de blocos no pagefile
+34 : Processo 2913010 HwPF - Executável0
+34 : Processo 2913010 HwPF - Executável1
+34 : Processo 2913010 HwPF - Executável2
+34 : Processo 2913010 HwPF - Executável3
+34 : Processo 2913010 HwPF - Executável4
+34 : Processo 2913010 criado
+35 : Processo 2913010 Pronto -> Exec
+35 : Processo 2913010 Exec -> I/O
+36 : Processo 2914430 alocacao de blocos no pagefile
+36 : Processo 2914430 HwPF - Executável0
+36 : Processo 2914430 HwPF - Executável1
+36 : Processo 2914430 HwPF - Executável2
+36 : Processo 2914430 HwPF - Executável3
+36 : Processo 2914430 HwPF - Executável4
+36 : Processo 2914430 criado
+37 : Processo 2914430 Pronto -> Exec
+37 : Processo 2914430 Exec -> I/O
+46 : Processo 2913010 Pronto -> Exec
+47 : Processo 2913010 Exec -> Pronto por tempo
+48 : Processo 2913010 Pronto -> Exec
+48 : Processo 2913010 Exec -> I/O
+57 : Processo 2914430 Pronto -> Exec
+58 : Processo 2914430 Exec -> Pronto por tempo
+59 : Processo 2914430 Pronto -> Exec
+59 : Processo 2914430 Exec -> I/O
+68 : Processo 2913010 Pronto -> Exec
+68 : Processo 2913010 Exec -> I/O
+79 : Processo 2914430 Pronto -> Exec
+79 : Processo 2914430 Exec -> I/O
+90 : Processo 2913010 Pronto -> Exec
+90 : Processo 2913010 Exec -> I/O
+100 : Processo 2914430 Pronto -> Exec
+100 : Processo 2914430 Exec -> I/O
+111 : Processo 2913010 Pronto -> Exec
+111 : Processo 2913010 Exec -> I/O
+122 : Processo 2914430 Pronto -> Exec
+122 : Processo 2914430 Exec -> I/O
+133 : Processo 2913010 Pronto -> Exec
+133 : Processo 2913010 Exec -> I/O
+144 : Processo 2914430 Pronto -> Exec
+144 : Processo 2914430 Exec -> I/O
+155 : Processo 2913010 Pronto -> Exec
+155 : Processo 2913010 Exec -> I/O
+166 : Processo 2914430 Pronto -> Exec
+166 : Processo 2914430 Exec -> I/O
+177 : Processo 2913010 Pronto -> Exec
+177 : Processo 2913010 Exec -> I/O
+187 : Processo 2914430 Pronto -> Exec
+187 : Processo 2914430 Exec -> I/O
+198 : Processo 2913010 Pronto -> Exec
+198 : Processo 2913010 Exec -> I/O
+209 : Processo 2914430 Pronto -> Exec
+209 : Processo 2914430 Exec -> I/O
+220 : Processo 2913010 Pronto -> Exec
+220 : Processo 2913010 Exec -> I/O
+231 : Processo 2914430 Pronto -> Exec
+231 : Processo 2914430 Exec -> I/O
+241 : Processo 2913010 Pronto -> Exec
+241 : Processo 2913010 Exec -> I/O
+252 : Processo 2914430 Pronto -> Exec
+252 : Processo 2914430 Exec -> I/O
+263 : Processo 2913010 Pronto -> Exec
+263 : Processo 2913010 Exec -> I/O
+274 : Processo 2914430 Pronto -> Exec
+274 : Processo 2914430 Exec -> I/O
+285 : Processo 2913010 Pronto -> Exec
+285 : Processo 2913010 Exec -> I/O
+296 : Processo 2914430 Pronto -> Exec
+296 : Processo 2914430 Exec -> I/O
+307 : Processo 2913010 Pronto -> Exec
+307 : Processo 2913010 Exec -> I/O
+317 : Processo 2914430 Pronto -> Exec
+317 : Processo 2914430 Exec -> I/O
+328 : Processo 2913010 Pronto -> Exec
+328 : Processo 2913010 Exec -> I/O
+339 : Processo 2914430 Pronto -> Exec
+339 : Processo 2914430 Exec -> I/O
+350 : Processo 2913010 Pronto -> Exec
+350 : Processo 2913010 Exec -> I/O
+350 : Processo 3430985 alocacao de blocos no pagefile
+350 : Processo 3430985 HwPF - Executável0
+350 : Processo 3430985 HwPF - Executável1
+350 : Processo 3430985 HwPF - Executável2
+350 : Processo 3430985 HwPF - Executável3
+350 : Processo 3430985 HwPF - Executável4
+350 : Processo 3430985 criado
+351 : Processo 3430985 Pronto -> Exec
+352 : Processo 3430985 Exec -> Pronto por tempo
+353 : Processo 3430985 Pronto -> Exec
+354 : Processo 3430985 Exec -> Pronto por tempo
+355 : Processo 3430985 Pronto -> Exec
+356 : Processo 3430985 Exec -> Pronto por tempo
+357 : Processo 3430985 Pronto -> Exec
+358 : Processo 3430985 Exec -> Pronto por tempo
+359 : Processo 3430985 Pronto -> Exec
+360 : Processo 3430985 Exec -> Pronto por tempo
+361 : Processo 3430985 Pronto -> Exec

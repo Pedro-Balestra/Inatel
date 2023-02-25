@@ -1,0 +1,40 @@
+0 : Inicializando SOsim ...
+2 : SOsim pronto
+26 : Processo 4856120 alocacao de blocos no pagefile
+26 : Processo 4856120 HwPF - Executável0
+26 : Processo 4856120 HwPF - Executável1
+26 : Processo 4856120 HwPF - Executável2
+26 : Processo 4856120 HwPF - Executável3
+26 : Processo 4856120 HwPF - Executável4
+26 : Processo 4856120 criado
+26 : Processo 4856223 alocacao de blocos no pagefile
+26 : Processo 4856223 HwPF - Executável0
+26 : Processo 4856223 HwPF - Executável1
+26 : Processo 4856223 HwPF - Executável2
+26 : Processo 4856223 HwPF - Executável3
+26 : Processo 4856223 HwPF - Executável4
+26 : Processo 4856223 criado
+27 : Processo 4856120 Pronto -> Exec
+28 : Processo 4856120 Exec -> Pronto por tempo
+29 : Processo 4856223 Pronto -> Exec
+30 : Processo 4856223 Exec -> Pronto por tempo
+31 : Processo 4856120 Pronto -> Exec
+32 : Processo 4856120 Exec -> Pronto por tempo
+33 : Processo 4856223 Pronto -> Exec
+34 : Processo 4856223 Exec -> Pronto por tempo
+35 : Processo 4856120 Pronto -> Exec
+36 : Processo 4856120 Exec -> Pronto por tempo
+37 : Processo 4856223 Pronto -> Exec
+38 : Processo 4856223 Exec -> Pronto por tempo
+39 : Processo 4856120 Pronto -> Exec
+40 : Processo 4856120 Exec -> Pronto por tempo
+41 : Processo 4856223 Pronto -> Exec
+42 : Processo 4856223 Exec -> Pronto por tempo
+43 : Processo 4856120 Pronto -> Exec
+44 : Processo 4856120 Exec -> Pronto por tempo
+45 : Processo 4856223 Pronto -> Exec
+46 : Processo 4856223 Exec -> Pronto por tempo
+47 : Processo 4856120 Pronto -> Exec
+48 : Processo 4856120 Exec -> Pronto por tempo
+49 : Processo 4856223 Pronto -> Exec
+50 : Processo 4856223 Exec -> Pronto por tempo

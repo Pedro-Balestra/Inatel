@@ -1,0 +1,186 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+67 : Processo 2025069 alocacao de blocos no pagefile
+67 : Processo 2025069 HwPF - Executável0
+67 : Processo 2025069 HwPF - Executável1
+67 : Processo 2025069 HwPF - Executável2
+67 : Processo 2025069 HwPF - Executável3
+67 : Processo 2025069 HwPF - Executável4
+67 : Processo 2025069 criado
+68 : Processo 2025069 Pronto -> Exec
+69 : Processo 2025069 Exec -> Pronto por tempo
+70 : Processo 2025069 Pronto -> Exec
+71 : Processo 2025069 Exec -> Pronto por tempo
+72 : Processo 2025069 Pronto -> Exec
+73 : Processo 2025069 Exec -> Pronto por tempo
+74 : Processo 2025069 Pronto -> Exec
+74 : Processo 2031893 alocacao de blocos no pagefile
+74 : Processo 2031893 HwPF - Executável0
+74 : Processo 2031893 HwPF - Executável1
+74 : Processo 2031893 HwPF - Executável2
+74 : Processo 2031893 HwPF - Executável3
+74 : Processo 2031893 HwPF - Executável4
+74 : Processo 2031893 criado
+75 : Processo 2025069 Exec -> Pronto por tempo
+76 : Processo 2031893 Pronto -> Exec
+76 : Processo 2031893 Exec -> I/O
+77 : Processo 2025069 Pronto -> Exec
+78 : Processo 2025069 Exec -> Pronto por tempo
+79 : Processo 2025069 Pronto -> Exec
+80 : Processo 2025069 Exec -> Pronto por tempo
+81 : Processo 2025069 Pronto -> Exec
+82 : Processo 2025069 Exec -> Pronto por tempo
+83 : Processo 2025069 Pronto -> Exec
+84 : Processo 2025069 Exec -> Pronto por tempo
+85 : Processo 2025069 Pronto -> Exec
+86 : Processo 2025069 Exec -> Pronto por tempo
+87 : Processo 2025069 Pronto -> Exec
+88 : Processo 2025069 Exec -> Pronto por tempo
+89 : Processo 2031893 Pronto -> Exec
+90 : Processo 2031893 Exec -> Pronto por tempo
+91 : Processo 2025069 Pronto -> Exec
+92 : Processo 2025069 Exec -> Pronto por tempo
+93 : Processo 2031893 Pronto -> Exec
+93 : Processo 2031893 Exec -> I/O
+94 : Processo 2025069 Pronto -> Exec
+95 : Processo 2025069 Exec -> Pronto por tempo
+96 : Processo 2025069 Pronto -> Exec
+97 : Processo 2025069 Exec -> Pronto por tempo
+98 : Processo 2025069 Pronto -> Exec
+99 : Processo 2025069 Exec -> Pronto por tempo
+100 : Processo 2025069 Pronto -> Exec
+101 : Processo 2025069 Exec -> Pronto por tempo
+102 : Processo 2025069 Pronto -> Exec
+103 : Processo 2025069 Exec -> Pronto por tempo
+104 : Processo 2025069 Pronto -> Exec
+105 : Processo 2025069 Exec -> Pronto por tempo
+106 : Processo 2031893 Pronto -> Exec
+106 : Processo 2031893 Exec -> I/O
+107 : Processo 2025069 Pronto -> Exec
+108 : Processo 2025069 Exec -> Pronto por tempo
+109 : Processo 2025069 Pronto -> Exec
+110 : Processo 2025069 Exec -> Pronto por tempo
+111 : Processo 2025069 Pronto -> Exec
+112 : Processo 2025069 Exec -> Pronto por tempo
+113 : Processo 2025069 Pronto -> Exec
+114 : Processo 2025069 Exec -> Pronto por tempo
+115 : Processo 2025069 Pronto -> Exec
+116 : Processo 2025069 Exec -> Pronto por tempo
+117 : Processo 2025069 Pronto -> Exec
+118 : Processo 2025069 Exec -> Pronto por tempo
+119 : Processo 2025069 Pronto -> Exec
+120 : Processo 2025069 Exec -> Pronto por tempo
+121 : Processo 2025069 Pronto -> Exec
+122 : Processo 2025069 Exec -> Pronto por tempo
+123 : Processo 2031893 Pronto -> Exec
+123 : Processo 2031893 Exec -> I/O
+124 : Processo 2025069 Pronto -> Exec
+125 : Processo 2025069 Exec -> Pronto por tempo
+126 : Processo 2025069 Pronto -> Exec
+127 : Processo 2025069 Exec -> Pronto por tempo
+128 : Processo 2025069 Pronto -> Exec
+129 : Processo 2025069 Exec -> Pronto por tempo
+130 : Processo 2025069 Pronto -> Exec
+131 : Processo 2025069 Exec -> Pronto por tempo
+132 : Processo 2025069 Pronto -> Exec
+133 : Processo 2025069 Exec -> Pronto por tempo
+134 : Processo 2025069 Pronto -> Exec
+135 : Processo 2025069 Exec -> Pronto por tempo
+136 : Processo 2025069 Pronto -> Exec
+137 : Processo 2025069 Exec -> Pronto por tempo
+138 : Processo 2025069 Pronto -> Exec
+139 : Processo 2025069 Exec -> Pronto por tempo
+140 : Processo 2025069 Pronto -> Exec
+141 : Processo 2025069 Exec -> Pronto por tempo
+142 : Processo 2025069 Pronto -> Exec
+143 : Processo 2025069 Exec -> Pronto por tempo
+144 : Processo 2025069 Pronto -> Exec
+145 : Processo 2025069 Exec -> Pronto por tempo
+146 : Processo 2025069 Pronto -> Exec
+147 : Processo 2025069 Exec -> Pronto por tempo
+148 : Processo 2025069 Pronto -> Exec
+149 : Processo 2025069 Exec -> Pronto por tempo
+150 : Processo 2025069 Pronto -> Exec
+151 : Processo 2025069 Exec -> Pronto por tempo
+152 : Processo 2025069 Pronto -> Exec
+153 : Processo 2025069 Exec -> Pronto por tempo
+154 : Processo 2031893 Pronto -> Exec
+154 : Processo 2031893 Exec -> I/O
+155 : Processo 2025069 Pronto -> Exec
+156 : Processo 2025069 Exec -> Pronto por tempo
+157 : Processo 2025069 Pronto -> Exec
+158 : Processo 2025069 Exec -> Pronto por tempo
+159 : Processo 2025069 Pronto -> Exec
+160 : Processo 2025069 Exec -> Pronto por tempo
+161 : Processo 2025069 Pronto -> Exec
+162 : Processo 2025069 Exec -> Pronto por tempo
+163 : Processo 2025069 Pronto -> Exec
+164 : Processo 2025069 Exec -> Pronto por tempo
+165 : Processo 2025069 Pronto -> Exec
+166 : Processo 2025069 Exec -> Pronto por tempo
+167 : Processo 2031893 Pronto -> Exec
+167 : Processo 2031893 Exec -> I/O
+168 : Processo 2025069 Pronto -> Exec
+169 : Processo 2025069 Exec -> Pronto por tempo
+170 : Processo 2025069 Pronto -> Exec
+171 : Processo 2025069 Exec -> Pronto por tempo
+172 : Processo 2025069 Pronto -> Exec
+173 : Processo 2025069 Exec -> Pronto por tempo
+174 : Processo 2025069 Pronto -> Exec
+175 : Processo 2025069 Exec -> Pronto por tempo
+176 : Processo 2025069 Pronto -> Exec
+177 : Processo 2025069 Exec -> Pronto por tempo
+178 : Processo 2025069 Pronto -> Exec
+179 : Processo 2025069 Exec -> Pronto por tempo
+180 : Processo 2031893 Pronto -> Exec
+180 : Processo 2031893 Exec -> I/O
+181 : Processo 2025069 Pronto -> Exec
+182 : Processo 2025069 Exec -> Pronto por tempo
+183 : Processo 2025069 Pronto -> Exec
+184 : Processo 2025069 Exec -> Pronto por tempo
+185 : Processo 2025069 Pronto -> Exec
+186 : Processo 2025069 Exec -> Pronto por tempo
+187 : Processo 2025069 Pronto -> Exec
+188 : Processo 2025069 Exec -> Pronto por tempo
+189 : Processo 2025069 Pronto -> Exec
+190 : Processo 2025069 Exec -> Pronto por tempo
+191 : Processo 2025069 Pronto -> Exec
+192 : Processo 2025069 Exec -> Pronto por tempo
+193 : Processo 2031893 Pronto -> Exec
+193 : Processo 2031893 Exec -> I/O
+194 : Processo 2025069 Pronto -> Exec
+195 : Processo 2025069 Exec -> Pronto por tempo
+196 : Processo 2025069 Pronto -> Exec
+197 : Processo 2025069 Exec -> Pronto por tempo
+198 : Processo 2025069 Pronto -> Exec
+199 : Processo 2025069 Exec -> Pronto por tempo
+200 : Processo 2025069 Pronto -> Exec
+201 : Processo 2025069 Exec -> Pronto por tempo
+202 : Processo 2025069 Pronto -> Exec
+203 : Processo 2025069 Exec -> Pronto por tempo
+204 : Processo 2025069 Pronto -> Exec
+205 : Processo 2025069 Exec -> Pronto por tempo
+206 : Processo 2031893 Pronto -> Exec
+206 : Processo 2031893 Exec -> I/O
+207 : Processo 2025069 Pronto -> Exec
+208 : Processo 2025069 Exec -> Pronto por tempo
+209 : Processo 2025069 Pronto -> Exec
+210 : Processo 2025069 Exec -> Pronto por tempo
+211 : Processo 2025069 Pronto -> Exec
+212 : Processo 2025069 Exec -> Pronto por tempo
+213 : Processo 2025069 Pronto -> Exec
+214 : Processo 2025069 Exec -> Pronto por tempo
+215 : Processo 2025069 Pronto -> Exec
+216 : Processo 2025069 Exec -> Pronto por tempo
+217 : Processo 2025069 Pronto -> Exec
+218 : Processo 2025069 Exec -> Pronto por tempo
+219 : Processo 2031893 Pronto -> Exec
+219 : Processo 2031893 Exec -> I/O
+220 : Processo 2025069 Pronto -> Exec
+221 : Processo 2025069 Exec -> Pronto por tempo
+222 : Processo 2025069 Pronto -> Exec
+223 : Processo 2025069 Exec -> Pronto por tempo
+224 : Processo 2025069 Pronto -> Exec
+225 : Processo 2025069 Exec -> Pronto por tempo
+226 : Processo 2025069 Pronto -> Exec
+227 : Processo 2025069 Exec -> Pronto por tempo

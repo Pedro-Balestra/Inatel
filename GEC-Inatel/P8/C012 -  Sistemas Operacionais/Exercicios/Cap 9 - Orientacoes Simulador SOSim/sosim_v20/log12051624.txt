@@ -1,0 +1,428 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+22 : Processo 2522093 alocacao de blocos no pagefile
+22 : Processo 2522093 HwPF - Executável0
+22 : Processo 2522093 HwPF - Executável1
+22 : Processo 2522093 HwPF - Executável2
+22 : Processo 2522093 HwPF - Executável3
+22 : Processo 2522093 HwPF - Executável4
+22 : Processo 2522093 criado
+23 : Processo 2522093 Pronto -> Exec
+24 : Processo 2522093 Exec -> Pronto por tempo
+25 : Processo 2522093 Pronto -> Exec
+26 : Processo 2522093 Exec -> Pronto por tempo
+27 : Processo 2522093 Pronto -> Exec
+28 : Processo 2522093 Exec -> Pronto por tempo
+28 : Processo 2527613 alocacao de blocos no pagefile
+28 : Processo 2527613 HwPF - Executável0
+28 : Processo 2527613 HwPF - Executável1
+28 : Processo 2527613 HwPF - Executável2
+28 : Processo 2527613 HwPF - Executável3
+28 : Processo 2527613 HwPF - Executável4
+28 : Processo 2527613 criado
+29 : Processo 2522093 Pronto -> Exec
+30 : Processo 2522093 Exec -> Pronto por tempo
+31 : Processo 2522093 Pronto -> Exec
+32 : Processo 2522093 Exec -> Pronto por tempo
+33 : Processo 2522093 Pronto -> Exec
+34 : Processo 2522093 Exec -> Pronto por tempo
+35 : Processo 2522093 Pronto -> Exec
+36 : Processo 2522093 Exec -> Pronto por tempo
+37 : Processo 2522093 Pronto -> Exec
+38 : Processo 2522093 Exec -> Pronto por tempo
+39 : Processo 2522093 Pronto -> Exec
+40 : Processo 2522093 Exec -> Pronto por tempo
+41 : Processo 2522093 Pronto -> Exec
+42 : Processo 2522093 Exec -> Pronto por tempo
+43 : Processo 2522093 Pronto -> Exec
+44 : Processo 2522093 Exec -> Pronto por tempo
+45 : Processo 2522093 Pronto -> Exec
+46 : Processo 2522093 Exec -> Pronto por tempo
+47 : Processo 2522093 Pronto -> Exec
+48 : Processo 2522093 Exec -> Pronto por tempo
+49 : Processo 2522093 Pronto -> Exec
+50 : Processo 2522093 Exec -> Pronto por tempo
+51 : Processo 2522093 Pronto -> Exec
+52 : Processo 2522093 Exec -> Pronto por tempo
+53 : Processo 2522093 Pronto -> Exec
+54 : Processo 2522093 Exec -> Pronto por tempo
+55 : Processo 2522093 Pronto -> Exec
+56 : Processo 2522093 Exec -> Pronto por tempo
+57 : Processo 2522093 Pronto -> Exec
+58 : Processo 2522093 Exec -> Pronto por tempo
+59 : Processo 2522093 Pronto -> Exec
+60 : Processo 2522093 Exec -> Pronto por tempo
+61 : Processo 2522093 Pronto -> Exec
+62 : Processo 2522093 Exec -> Pronto por tempo
+63 : Processo 2522093 Pronto -> Exec
+64 : Processo 2522093 Exec -> Pronto por tempo
+65 : Processo 2522093 Pronto -> Exec
+66 : Processo 2522093 Exec -> Pronto por tempo
+67 : Processo 2522093 Pronto -> Exec
+68 : Processo 2522093 Exec -> Pronto por tempo
+69 : Processo 2522093 Pronto -> Exec
+70 : Processo 2522093 Exec -> Pronto por tempo
+71 : Processo 2522093 Pronto -> Exec
+72 : Processo 2522093 Exec -> Pronto por tempo
+73 : Processo 2522093 Pronto -> Exec
+74 : Processo 2522093 Exec -> Pronto por tempo
+75 : Processo 2522093 Pronto -> Exec
+76 : Processo 2522093 Exec -> Pronto por tempo
+77 : Processo 2522093 Pronto -> Exec
+78 : Processo 2522093 Exec -> Pronto por tempo
+79 : Processo 2522093 Pronto -> Exec
+80 : Processo 2522093 Exec -> Pronto por tempo
+81 : Processo 2522093 Pronto -> Exec
+82 : Processo 2522093 Exec -> Pronto por tempo
+83 : Processo 2522093 Pronto -> Exec
+84 : Processo 2522093 Exec -> Pronto por tempo
+85 : Processo 2522093 Pronto -> Exec
+86 : Processo 2522093 Exec -> Pronto por tempo
+87 : Processo 2522093 Pronto -> Exec
+88 : Processo 2522093 Exec -> Pronto por tempo
+89 : Processo 2522093 Pronto -> Exec
+90 : Processo 2522093 Exec -> Pronto por tempo
+91 : Processo 2522093 Pronto -> Exec
+92 : Processo 2522093 Exec -> Pronto por tempo
+93 : Processo 2522093 Pronto -> Exec
+94 : Processo 2522093 Exec -> Pronto por tempo
+95 : Processo 2522093 Pronto -> Exec
+96 : Processo 2522093 Exec -> Pronto por tempo
+97 : Processo 2522093 Pronto -> Exec
+98 : Processo 2522093 Exec -> Pronto por tempo
+99 : Processo 2522093 Pronto -> Exec
+100 : Processo 2522093 Exec -> Pronto por tempo
+101 : Processo 2522093 Pronto -> Exec
+102 : Processo 2522093 Exec -> Pronto por tempo
+103 : Processo 2522093 Pronto -> Exec
+104 : Processo 2522093 Exec -> Pronto por tempo
+105 : Processo 2522093 Pronto -> Exec
+106 : Processo 2522093 Exec -> Pronto por tempo
+107 : Processo 2522093 Pronto -> Exec
+108 : Processo 2522093 Exec -> Pronto por tempo
+109 : Processo 2522093 Pronto -> Exec
+110 : Processo 2522093 Exec -> Pronto por tempo
+111 : Processo 2522093 Pronto -> Exec
+112 : Processo 2522093 Exec -> Pronto por tempo
+113 : Processo 2522093 Pronto -> Exec
+114 : Processo 2522093 Exec -> Pronto por tempo
+115 : Processo 2522093 Pronto -> Exec
+116 : Processo 2522093 Exec -> Pronto por tempo
+117 : Processo 2522093 Pronto -> Exec
+118 : Processo 2522093 Exec -> Pronto por tempo
+119 : Processo 2522093 Pronto -> Exec
+120 : Processo 2522093 Exec -> Pronto por tempo
+121 : Processo 2522093 Pronto -> Exec
+122 : Processo 2522093 Exec -> Pronto por tempo
+123 : Processo 2522093 Pronto -> Exec
+124 : Processo 2522093 Exec -> Pronto por tempo
+125 : Processo 2522093 Pronto -> Exec
+126 : Processo 2522093 Exec -> Pronto por tempo
+127 : Processo 2522093 Pronto -> Exec
+128 : Processo 2522093 Exec -> Pronto por tempo
+129 : Processo 2522093 Pronto -> Exec
+130 : Processo 2522093 Exec -> Pronto por tempo
+131 : Processo 2522093 Pronto -> Exec
+132 : Processo 2522093 Exec -> Pronto por tempo
+133 : Processo 2522093 Pronto -> Exec
+134 : Processo 2522093 Exec -> Pronto por tempo
+135 : Processo 2522093 Pronto -> Exec
+136 : Processo 2522093 Exec -> Pronto por tempo
+137 : Processo 2522093 Pronto -> Exec
+138 : Processo 2522093 Exec -> Pronto por tempo
+139 : Processo 2522093 Pronto -> Exec
+140 : Processo 2522093 Exec -> Pronto por tempo
+141 : Processo 2522093 Pronto -> Exec
+142 : Processo 2522093 Exec -> Pronto por tempo
+143 : Processo 2522093 Pronto -> Exec
+144 : Processo 2522093 Exec -> Pronto por tempo
+145 : Processo 2522093 Pronto -> Exec
+146 : Processo 2522093 Exec -> Pronto por tempo
+147 : Processo 2522093 Pronto -> Exec
+148 : Processo 2522093 Exec -> Pronto por tempo
+149 : Processo 2522093 Pronto -> Exec
+150 : Processo 2522093 Exec -> Pronto por tempo
+151 : Processo 2522093 Pronto -> Exec
+152 : Processo 2522093 Exec -> Pronto por tempo
+153 : Processo 2522093 Pronto -> Exec
+154 : Processo 2522093 Exec -> Pronto por tempo
+155 : Processo 2522093 Pronto -> Exec
+156 : Processo 2522093 Exec -> Pronto por tempo
+157 : Processo 2522093 Pronto -> Exec
+158 : Processo 2522093 Exec -> Pronto por tempo
+159 : Processo 2522093 Pronto -> Exec
+160 : Processo 2522093 Exec -> Pronto por tempo
+161 : Processo 2522093 Pronto -> Exec
+162 : Processo 2522093 Exec -> Pronto por tempo
+163 : Processo 2522093 Pronto -> Exec
+164 : Processo 2522093 Exec -> Pronto por tempo
+165 : Processo 2522093 Pronto -> Exec
+166 : Processo 2522093 Exec -> Pronto por tempo
+167 : Processo 2522093 Pronto -> Exec
+168 : Processo 2522093 Exec -> Pronto por tempo
+169 : Processo 2522093 Pronto -> Exec
+170 : Processo 2522093 Exec -> Pronto por tempo
+171 : Processo 2522093 Pronto -> Exec
+172 : Processo 2522093 Exec -> Pronto por tempo
+173 : Processo 2522093 Pronto -> Exec
+174 : Processo 2522093 Exec -> Pronto por tempo
+175 : Processo 2522093 Pronto -> Exec
+176 : Processo 2522093 Exec -> Pronto por tempo
+177 : Processo 2522093 Pronto -> Exec
+178 : Processo 2522093 Exec -> Pronto por tempo
+179 : Processo 2522093 Pronto -> Exec
+180 : Processo 2522093 Exec -> Pronto por tempo
+181 : Processo 2522093 Pronto -> Exec
+182 : Processo 2522093 Exec -> Pronto por tempo
+183 : Processo 2522093 Pronto -> Exec
+184 : Processo 2522093 Exec -> Pronto por tempo
+185 : Processo 2522093 Pronto -> Exec
+186 : Processo 2522093 Exec -> Pronto por tempo
+187 : Processo 2522093 Pronto -> Exec
+188 : Processo 2522093 Exec -> Pronto por tempo
+189 : Processo 2522093 Pronto -> Exec
+190 : Processo 2522093 Exec -> Pronto por tempo
+191 : Processo 2522093 Pronto -> Exec
+192 : Processo 2522093 Exec -> Pronto por tempo
+193 : Processo 2522093 Pronto -> Exec
+194 : Processo 2522093 Exec -> Pronto por tempo
+195 : Processo 2522093 Pronto -> Exec
+196 : Processo 2522093 Exec -> Pronto por tempo
+197 : Processo 2522093 Pronto -> Exec
+198 : Processo 2522093 Exec -> Pronto por tempo
+199 : Processo 2522093 Pronto -> Exec
+200 : Processo 2522093 Exec -> Pronto por tempo
+201 : Processo 2522093 Pronto -> Exec
+202 : Processo 2522093 Exec -> Pronto por tempo
+203 : Processo 2522093 Pronto -> Exec
+204 : Processo 2522093 Exec -> Pronto por tempo
+205 : Processo 2522093 Pronto -> Exec
+206 : Processo 2522093 Exec -> Pronto por tempo
+207 : Processo 2522093 Pronto -> Exec
+208 : Processo 2522093 Exec -> Pronto por tempo
+209 : Processo 2522093 Pronto -> Exec
+210 : Processo 2522093 Exec -> Pronto por tempo
+211 : Processo 2522093 Pronto -> Exec
+212 : Processo 2522093 Exec -> Pronto por tempo
+213 : Processo 2522093 Pronto -> Exec
+214 : Processo 2522093 Exec -> Pronto por tempo
+215 : Processo 2522093 Pronto -> Exec
+216 : Processo 2522093 Exec -> Pronto por tempo
+217 : Processo 2522093 Pronto -> Exec
+218 : Processo 2522093 Exec -> Pronto por tempo
+219 : Processo 2522093 Pronto -> Exec
+220 : Processo 2522093 Exec -> Pronto por tempo
+221 : Processo 2522093 Pronto -> Exec
+222 : Processo 2522093 Exec -> Pronto por tempo
+223 : Processo 2522093 Pronto -> Exec
+224 : Processo 2522093 Exec -> Pronto por tempo
+225 : Processo 2522093 Pronto -> Exec
+226 : Processo 2522093 Exec -> Pronto por tempo
+227 : Processo 2522093 Pronto -> Exec
+228 : Processo 2522093 Exec -> Pronto por tempo
+229 : Processo 2522093 Pronto -> Exec
+230 : Processo 2522093 Exec -> Pronto por tempo
+231 : Processo 2522093 Pronto -> Exec
+232 : Processo 2522093 Exec -> Pronto por tempo
+233 : Processo 2522093 Pronto -> Exec
+234 : Processo 2522093 Exec -> Pronto por tempo
+235 : Processo 2522093 Pronto -> Exec
+236 : Processo 2522093 Exec -> Pronto por tempo
+237 : Processo 2522093 Pronto -> Exec
+238 : Processo 2522093 Exec -> Pronto por tempo
+239 : Processo 2522093 Pronto -> Exec
+240 : Processo 2522093 Exec -> Pronto por tempo
+241 : Processo 2522093 Pronto -> Exec
+242 : Processo 2522093 Exec -> Pronto por tempo
+243 : Processo 2522093 Pronto -> Exec
+244 : Processo 2522093 Exec -> Pronto por tempo
+245 : Processo 2522093 Pronto -> Exec
+246 : Processo 2522093 Exec -> Pronto por tempo
+247 : Processo 2522093 Pronto -> Exec
+248 : Processo 2522093 Exec -> Pronto por tempo
+249 : Processo 2522093 Pronto -> Exec
+250 : Processo 2522093 Exec -> Pronto por tempo
+251 : Processo 2522093 Pronto -> Exec
+252 : Processo 2522093 Exec -> Pronto por tempo
+253 : Processo 2522093 Pronto -> Exec
+254 : Processo 2522093 Exec -> Pronto por tempo
+255 : Processo 2522093 Pronto -> Exec
+256 : Processo 2522093 Exec -> Pronto por tempo
+257 : Processo 2522093 Pronto -> Exec
+258 : Processo 2522093 Exec -> Pronto por tempo
+259 : Processo 2522093 Pronto -> Exec
+260 : Processo 2522093 Exec -> Pronto por tempo
+261 : Processo 2522093 Pronto -> Exec
+262 : Processo 2522093 Exec -> Pronto por tempo
+263 : Processo 2522093 Pronto -> Exec
+264 : Processo 2522093 Exec -> Pronto por tempo
+265 : Processo 2522093 Pronto -> Exec
+266 : Processo 2522093 Exec -> Pronto por tempo
+267 : Processo 2522093 Pronto -> Exec
+268 : Processo 2522093 Exec -> Pronto por tempo
+269 : Processo 2522093 Pronto -> Exec
+270 : Processo 2522093 Exec -> Pronto por tempo
+271 : Processo 2522093 Pronto -> Exec
+272 : Processo 2522093 Exec -> Pronto por tempo
+273 : Processo 2522093 Pronto -> Exec
+274 : Processo 2522093 Exec -> Pronto por tempo
+275 : Processo 2522093 Pronto -> Exec
+276 : Processo 2522093 Exec -> Pronto por tempo
+277 : Processo 2522093 Pronto -> Exec
+278 : Processo 2522093 Exec -> Pronto por tempo
+279 : Processo 2522093 Pronto -> Exec
+280 : Processo 2522093 Exec -> Pronto por tempo
+281 : Processo 2522093 Pronto -> Exec
+282 : Processo 2522093 Exec -> Pronto por tempo
+283 : Processo 2522093 Pronto -> Exec
+284 : Processo 2522093 Exec -> Pronto por tempo
+285 : Processo 2522093 Pronto -> Exec
+286 : Processo 2522093 Exec -> Pronto por tempo
+287 : Processo 2522093 Pronto -> Exec
+288 : Processo 2522093 Exec -> Pronto por tempo
+289 : Processo 2522093 Pronto -> Exec
+290 : Processo 2522093 Exec -> Pronto por tempo
+291 : Processo 2522093 Pronto -> Exec
+292 : Processo 2522093 Exec -> Pronto por tempo
+293 : Processo 2522093 Pronto -> Exec
+294 : Processo 2522093 Exec -> Pronto por tempo
+295 : Processo 2522093 Pronto -> Exec
+296 : Processo 2522093 Exec -> Pronto por tempo
+297 : Processo 2522093 Pronto -> Exec
+298 : Processo 2522093 Exec -> Pronto por tempo
+299 : Processo 2522093 Pronto -> Exec
+300 : Processo 2522093 Exec -> Pronto por tempo
+301 : Processo 2522093 Pronto -> Exec
+302 : Processo 2522093 Exec -> Pronto por tempo
+303 : Processo 2522093 Pronto -> Exec
+304 : Processo 2522093 Exec -> Pronto por tempo
+305 : Processo 2522093 Pronto -> Exec
+306 : Processo 2522093 Exec -> Pronto por tempo
+307 : Processo 2522093 Pronto -> Exec
+308 : Processo 2522093 Exec -> Pronto por tempo
+309 : Processo 2522093 Pronto -> Exec
+310 : Processo 2522093 Exec -> Pronto por tempo
+311 : Processo 2522093 Pronto -> Exec
+312 : Processo 2522093 Exec -> Pronto por tempo
+313 : Processo 2522093 Pronto -> Exec
+314 : Processo 2522093 Exec -> Pronto por tempo
+315 : Processo 2522093 Pronto -> Exec
+316 : Processo 2522093 Exec -> Pronto por tempo
+317 : Processo 2522093 Pronto -> Exec
+318 : Processo 2522093 Exec -> Pronto por tempo
+319 : Processo 2522093 Pronto -> Exec
+320 : Processo 2522093 Exec -> Pronto por tempo
+321 : Processo 2522093 Pronto -> Exec
+322 : Processo 2522093 Exec -> Pronto por tempo
+323 : Processo 2522093 Pronto -> Exec
+324 : Processo 2522093 Exec -> Pronto por tempo
+325 : Processo 2522093 Pronto -> Exec
+326 : Processo 2522093 Exec -> Pronto por tempo
+327 : Processo 2522093 Pronto -> Exec
+328 : Processo 2522093 Exec -> Pronto por tempo
+329 : Processo 2522093 Pronto -> Exec
+330 : Processo 2522093 Exec -> Pronto por tempo
+331 : Processo 2522093 Pronto -> Exec
+332 : Processo 2522093 Exec -> Pronto por tempo
+333 : Processo 2522093 Pronto -> Exec
+334 : Processo 2522093 Exec -> Pronto por tempo
+335 : Processo 2522093 Pronto -> Exec
+336 : Processo 2522093 Exec -> Pronto por tempo
+337 : Processo 2522093 Pronto -> Exec
+338 : Processo 2522093 Exec -> Pronto por tempo
+339 : Processo 2522093 Pronto -> Exec
+340 : Processo 2522093 Exec -> Pronto por tempo
+341 : Processo 2522093 Pronto -> Exec
+342 : Processo 2522093 Exec -> Pronto por tempo
+343 : Processo 2522093 Pronto -> Exec
+344 : Processo 2522093 Exec -> Pronto por tempo
+345 : Processo 2522093 Pronto -> Exec
+346 : Processo 2522093 Exec -> Pronto por tempo
+347 : Processo 2522093 Pronto -> Exec
+348 : Processo 2522093 Exec -> Pronto por tempo
+349 : Processo 2522093 Pronto -> Exec
+350 : Processo 2522093 Exec -> Pronto por tempo
+351 : Processo 2522093 Pronto -> Exec
+352 : Processo 2522093 Exec -> Pronto por tempo
+353 : Processo 2522093 Pronto -> Exec
+354 : Processo 2522093 Exec -> Pronto por tempo
+355 : Processo 2522093 Pronto -> Exec
+356 : Processo 2522093 Exec -> Pronto por tempo
+357 : Processo 2522093 Pronto -> Exec
+358 : Processo 2522093 Exec -> Pronto por tempo
+359 : Processo 2522093 Pronto -> Exec
+360 : Processo 2522093 Exec -> Pronto por tempo
+361 : Processo 2522093 Pronto -> Exec
+362 : Processo 2522093 Exec -> Pronto por tempo
+363 : Processo 2522093 Pronto -> Exec
+364 : Processo 2522093 Exec -> Pronto por tempo
+365 : Processo 2522093 Pronto -> Exec
+366 : Processo 2522093 Exec -> Pronto por tempo
+367 : Processo 2522093 Pronto -> Exec
+368 : Processo 2522093 Exec -> Pronto por tempo
+369 : Processo 2522093 Pronto -> Exec
+370 : Processo 2522093 Exec -> Pronto por tempo
+371 : Processo 2522093 Pronto -> Exec
+372 : Processo 2522093 Exec -> Pronto por tempo
+373 : Processo 2522093 Pronto -> Exec
+374 : Processo 2522093 Exec -> Pronto por tempo
+375 : Processo 2522093 Pronto -> Exec
+376 : Processo 2522093 Exec -> Pronto por tempo
+377 : Processo 2522093 Pronto -> Exec
+378 : Processo 2522093 Exec -> Pronto por tempo
+379 : Processo 2522093 Pronto -> Exec
+380 : Processo 2522093 Exec -> Pronto por tempo
+381 : Processo 2522093 Pronto -> Exec
+382 : Processo 2522093 Exec -> Pronto por tempo
+383 : Processo 2522093 Pronto -> Exec
+384 : Processo 2522093 Exec -> Pronto por tempo
+385 : Processo 2522093 Pronto -> Exec
+386 : Processo 2522093 Exec -> Pronto por tempo
+387 : Processo 2522093 Pronto -> Exec
+388 : Processo 2522093 Exec -> Pronto por tempo
+389 : Processo 2522093 Pronto -> Exec
+390 : Processo 2522093 Exec -> Pronto por tempo
+391 : Processo 2522093 Pronto -> Exec
+392 : Processo 2522093 Exec -> Pronto por tempo
+393 : Processo 2522093 Pronto -> Exec
+394 : Processo 2522093 Exec -> Pronto por tempo
+395 : Processo 2522093 Pronto -> Exec
+396 : Processo 2522093 Exec -> Pronto por tempo
+397 : Processo 2522093 Pronto -> Exec
+398 : Processo 2522093 Exec -> Pronto por tempo
+399 : Processo 2522093 Pronto -> Exec
+400 : Processo 2522093 Exec -> Pronto por tempo
+401 : Processo 2522093 Pronto -> Exec
+402 : Processo 2522093 Exec -> Pronto por tempo
+403 : Processo 2522093 Pronto -> Exec
+404 : Processo 2522093 Exec -> Pronto por tempo
+405 : Processo 2522093 Pronto -> Exec
+406 : Processo 2522093 Exec -> Pronto por tempo
+407 : Processo 2522093 Pronto -> Exec
+408 : Processo 2522093 Exec -> Pronto por tempo
+409 : Processo 2522093 Pronto -> Exec
+410 : Processo 2522093 Exec -> Pronto por tempo
+411 : Processo 2522093 Pronto -> Exec
+412 : Processo 2522093 Exec -> Pronto por tempo
+413 : Processo 2522093 Pronto -> Exec
+414 : Processo 2522093 Exec -> Pronto por tempo
+415 : Processo 2522093 Pronto -> Exec
+416 : Processo 2522093 Exec -> Pronto por tempo
+417 : Processo 2522093 Pronto -> Exec
+418 : Processo 2522093 Exec -> Pronto por tempo
+419 : Processo 2522093 Pronto -> Exec
+420 : Processo 2522093 Exec -> Pronto por tempo
+421 : Processo 2522093 Pronto -> Exec
+422 : Processo 2522093 Exec -> Pronto por tempo
+423 : Processo 2522093 Pronto -> Exec
+424 : Processo 2522093 Exec -> Pronto por tempo
+425 : Processo 2522093 Pronto -> Exec
+426 : Processo 2522093 Exec -> Pronto por tempo
+427 : Processo 2522093 Pronto -> Exec
+428 : Processo 2522093 Exec -> Pronto por tempo
+429 : Processo 2522093 Pronto -> Exec
+430 : Processo 2522093 Exec -> Pronto por tempo
+431 : Processo 2522093 Pronto -> Exec
+432 : Processo 2522093 Exec -> Pronto por tempo
+433 : Processo 2522093 Pronto -> Exec
+434 : Processo 2522093 Exec -> Pronto por tempo

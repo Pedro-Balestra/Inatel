@@ -1,0 +1,73 @@
+0 : Inicializando SOsim ...
+5 : SOsim pronto
+13 : Processo 4934240 alocacao de blocos no pagefile
+13 : Processo 4934240 HwPF - Executável0
+13 : Processo 4934240 HwPF - Executável1
+13 : Processo 4934240 HwPF - Executável2
+13 : Processo 4934240 HwPF - Executável3
+13 : Processo 4934240 HwPF - Executável4
+13 : Processo 4934240 criado
+13 : Processo 4934343 alocacao de blocos no pagefile
+13 : Processo 4934343 HwPF - Executável0
+13 : Processo 4934343 HwPF - Executável1
+13 : Processo 4934343 HwPF - Executável2
+13 : Processo 4934343 HwPF - Executável3
+13 : Processo 4934343 HwPF - Executável4
+13 : Processo 4934343 criado
+14 : Processo 4934240 Pronto -> Exec
+20 : Processo 4934240 Exec -> Pronto por tempo
+21 : Processo 4934343 Pronto -> Exec
+27 : Processo 4934343 Exec -> Pronto por tempo
+28 : Processo 4934240 Pronto -> Exec
+34 : Processo 4934240 Exec -> Pronto por tempo
+35 : Processo 4934343 Pronto -> Exec
+41 : Processo 4934343 Exec -> Pronto por tempo
+42 : Processo 4934240 Pronto -> Exec
+48 : Processo 4934240 Exec -> Pronto por tempo
+49 : Processo 4934343 Pronto -> Exec
+55 : Processo 4934343 Exec -> Pronto por tempo
+56 : Processo 4934240 Pronto -> Exec
+62 : Processo 4934240 Exec -> Pronto por tempo
+63 : Processo 4934343 Pronto -> Exec
+65 : Processo 4934343 Exec -> Pronto por tempo
+66 : Processo 4934240 Pronto -> Exec
+67 : Processo 4934240 Exec -> Pronto por tempo
+68 : Processo 4934343 Pronto -> Exec
+69 : Processo 4934343 Exec -> Pronto por tempo
+70 : Processo 4934240 Pronto -> Exec
+80 : Processo 4934240 Exec -> Pronto por tempo
+81 : Processo 4934343 Pronto -> Exec
+91 : Processo 4934343 Exec -> Pronto por tempo
+92 : Processo 4934240 Pronto -> Exec
+102 : Processo 4934240 Exec -> Pronto por tempo
+103 : Processo 4934343 Pronto -> Exec
+113 : Processo 4934343 Exec -> Pronto por tempo
+114 : Processo 4934240 Pronto -> Exec
+124 : Processo 4934240 Exec -> Pronto por tempo
+125 : Processo 4934343 Pronto -> Exec
+135 : Processo 4934343 Exec -> Pronto por tempo
+136 : Processo 4934240 Pronto -> Exec
+146 : Processo 4934240 Exec -> Pronto por tempo
+147 : Processo 4934343 Pronto -> Exec
+157 : Processo 4934343 Exec -> Pronto por tempo
+158 : Processo 4934240 Pronto -> Exec
+168 : Processo 4934240 Exec -> Pronto por tempo
+169 : Processo 4934343 Pronto -> Exec
+179 : Processo 4934343 Exec -> Pronto por tempo
+180 : Processo 4934240 Pronto -> Exec
+190 : Processo 4934240 Exec -> Pronto por tempo
+191 : Processo 4934343 Pronto -> Exec
+201 : Processo 4934343 Exec -> Pronto por tempo
+202 : Processo 4934240 Pronto -> Exec
+212 : Processo 4934240 Exec -> Pronto por tempo
+213 : Processo 4934343 Pronto -> Exec
+223 : Processo 4934343 Exec -> Pronto por tempo
+224 : Processo 4934240 Pronto -> Exec
+234 : Processo 4934240 Exec -> Pronto por tempo
+235 : Processo 4934343 Pronto -> Exec
+245 : Processo 4934343 Exec -> Pronto por tempo
+246 : Processo 4934240 Pronto -> Exec
+256 : Processo 4934240 Exec -> Pronto por tempo
+257 : Processo 4934343 Pronto -> Exec
+267 : Processo 4934343 Exec -> Pronto por tempo
+268 : Processo 4934240 Pronto -> Exec
