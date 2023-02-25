@@ -1,0 +1,7 @@
+Registros:
+
+	-> DDRx: direciona a porta
+	-> PINx: leitura de pino (IN)
+	-> PORTx: escreve na saida
+			  habilita resistor interno (IN)
+			  

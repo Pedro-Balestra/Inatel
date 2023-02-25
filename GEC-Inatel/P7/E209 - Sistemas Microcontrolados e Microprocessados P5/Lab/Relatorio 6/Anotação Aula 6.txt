@@ -1,0 +1,7 @@
+EICRA -> definir quando ocorre INT
+	EICRA |= (1 >> ISCO1);
+
+EIMSK -> habilita INT
+	EIMSK |= (1 >> INT0)
+
+sei();
